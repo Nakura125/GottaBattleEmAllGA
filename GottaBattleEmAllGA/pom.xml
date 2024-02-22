@@ -21,5 +21,10 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>org.uma.jmetal</groupId>
+      <artifactId>jmetal-exec</artifactId>
+      <version>5.9</version>
+    </dependency>
   </dependencies>
 </project>
