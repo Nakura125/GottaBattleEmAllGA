@@ -1,0 +1,901 @@
+#,Nome,Tipo,Categoria,Virtù,Gen,Potenza,Precisione,PP
+1,Pound,Normale,Fisico,Grinta,I,40,100,35
+2,Karate Chop,Lotta,Fisico,Grinta,I,50,100,25
+3,Double Slap,Normale,Fisico,Grazia,I,15,85,10
+4,Comet Punch,Normale,Fisico,Grinta,I,18,85,15
+5,Mega Punch,Normale,Fisico,Grinta,I,80,85,20
+6,Pay Day,Normale,Fisico,Acume,I,40,100,20
+7,Fire Punch,Fuoco,Fisico,Grinta,I,75,100,15
+8,Ice Punch,Ghiaccio,Fisico,Bellezza,I,75,100,15
+9,Thunder Punch,Elettro,Fisico,Classe,I,75,100,15
+10,Scratch,Normale,Fisico,Grinta,I,40,100,35
+11,Vice Grip,Normale,Fisico,Grinta,I,55,100,30
+12,Guillotine,Normale,Fisico,Classe,I,250,30,5
+13,Razor Wind,Normale,Speciale,Classe,I,80,100,10
+14,Swords Dance,Normale,Stato,Bellezza,I,80,100,20
+15,Cut,Normale,Fisico,Classe,I,50,95,30
+16,Gust,Volante,Speciale,Acume,I,40,100,35
+17,Wing Attack,Volante,Fisico,Classe,I,60,100,35
+18,Whirlwind,Normale,Stato,Acume,I,80,100,20
+19,Fly,Volante,Fisico,Acume,I,90,95,15
+20,Bind,Normale,Fisico,Grinta,I,15,85,20
+21,Slam,Normale,Fisico,Grinta,I,80,75,20
+22,Vine Whip,Erba,Fisico,Classe,I,45,100,25
+23,Stomp,Normale,Fisico,Grinta,I,65,100,20
+24,Double Kick,Lotta,Fisico,Classe,I,30,100,30
+25,Mega Kick,Normale,Fisico,Classe,I,120,75,5
+26,Jump Kick,Lotta,Fisico,Classe,I,100,95,10
+27,Rolling Kick,Lotta,Fisico,Classe,I,60,85,15
+28,Sand Attack,Terra,Stato,Grazia,I,80,100,15
+29,Headbutt,Normale,Fisico,Grinta,I,70,100,15
+30,Horn Attack,Normale,Fisico,Classe,I,65,100,25
+31,Fury Attack,Normale,Fisico,Classe,I,15,85,20
+32,Horn Drill,Normale,Fisico,Classe,I,250,30,5
+33,Tackle,Normale,Fisico,Grinta,I,40,100,35
+34,Body Slam,Normale,Fisico,Grinta,I,85,100,15
+35,Wrap,Normale,Fisico,Grinta,I,15,90,20
+36,Take Down,Normale,Fisico,Grinta,I,90,85,20
+37,Thrash,Normale,Fisico,Grinta,I,120,100,10
+38,Double-Edge,Normale,Fisico,Grinta,I,120,100,15
+39,Tail Whip,Normale,Stato,Grazia,I,80,100,30
+40,Poison Sting,Veleno,Fisico,Acume,I,15,100,35
+41,Twineedle,Coleottero,Fisico,Classe,I,25,100,20
+42,Pin Missile,Coleottero,Fisico,Classe,I,25,95,20
+43,Leer,Normale,Stato,Classe,I,80,100,30
+44,Bite,Buio,Fisico,Grinta,I,60,100,25
+45,Growl,Normale,Stato,Grazia,I,80,100,40
+46,Roar,Normale,Stato,Classe,I,80,100,20
+47,Sing,Normale,Stato,Grazia,I,80,55,15
+48,Supersonic,Normale,Stato,Acume,I,80,55,20
+49,Sonic Boom,Normale,Speciale,Classe,I,20,90,20
+50,Disable,Normale,Stato,Acume,I,80,100,20
+51,Acid,Veleno,Speciale,Acume,I,40,100,30
+52,Ember,Fuoco,Speciale,Grazia,I,40,100,25
+53,Flamethrower,Fuoco,Speciale,Bellezza,I,90,100,15
+54,Mist,Ghiaccio,Stato,Bellezza,I,80,100,30
+55,Water Gun,Acqua,Speciale,Grazia,I,40,100,25
+56,Hydro Pump,Acqua,Speciale,Bellezza,I,110,80,5
+57,Surf,Acqua,Speciale,Bellezza,I,90,100,15
+58,Ice Beam,Ghiaccio,Speciale,Bellezza,I,90,100,10
+59,Blizzard,Ghiaccio,Speciale,Bellezza,I,110,70,5
+60,Psybeam,Psico,Speciale,Bellezza,I,65,100,20
+61,Bubble Beam,Acqua,Speciale,Bellezza,I,65,100,20
+62,Aurora Beam,Ghiaccio,Speciale,Bellezza,I,65,100,20
+63,Hyper Beam,Normale,Speciale,Classe,I,150,90,5
+64,Peck,Volante,Fisico,Classe,I,35,100,35
+65,Drill Peck,Volante,Fisico,Classe,I,80,100,20
+66,Submission,Lotta,Fisico,Classe,I,80,80,20
+67,Low Kick,Lotta,Fisico,Grinta,I,80,100,20
+68,Counter,Lotta,Fisico,Grinta,I,80,100,20
+69,Seismic Toss,Lotta,Fisico,Grinta,I,80,100,20
+70,Strength,Normale,Fisico,Grinta,I,80,100,15
+71,Absorb,Erba,Speciale,Acume,I,20,100,25
+72,Mega Drain,Erba,Speciale,Acume,I,40,100,15
+73,Leech Seed,Erba,Stato,Acume,I,80,90,10
+74,Growth,Normale,Stato,Bellezza,I,80,100,20
+75,Razor Leaf,Erba,Fisico,Classe,I,55,95,25
+76,Solar Beam,Erba,Speciale,Classe,I,120,100,10
+77,Poison Powder,Veleno,Stato,Acume,I,80,75,35
+78,Stun Spore,Erba,Stato,Acume,I,80,75,30
+79,Sleep Powder,Erba,Stato,Acume,I,80,75,15
+80,Petal Dance,Erba,Speciale,Bellezza,I,120,100,10
+81,String Shot,Coleottero,Stato,Acume,I,80,95,40
+82,Dragon Rage,Drago,Speciale,Classe,I,40,100,10
+83,Fire Spin,Fuoco,Speciale,Bellezza,I,35,85,15
+84,Thunder Shock,Elettro,Speciale,Classe,I,40,100,30
+85,Thunderbolt,Elettro,Speciale,Classe,I,90,100,15
+86,Thunder Wave,Elettro,Stato,Classe,I,80,90,20
+87,Thunder,Elettro,Speciale,Classe,I,110,70,10
+88,Rock Throw,Roccia,Fisico,Grinta,I,50,90,15
+89,Earthquake,Terra,Fisico,Grinta,I,100,100,10
+90,Fissure,Terra,Fisico,Grinta,I,250,30,5
+91,Dig,Terra,Fisico,Grinta,I,80,100,10
+92,Toxic,Veleno,Stato,Acume,I,80,90,10
+93,Confusion,Psico,Speciale,Acume,I,50,100,25
+94,Psychic,Psico,Speciale,Acume,I,90,100,10
+95,Hypnosis,Psico,Stato,Acume,I,80,60,20
+96,Meditate,Psico,Stato,Bellezza,I,80,100,40
+97,Agility,Psico,Stato,Classe,I,80,100,30
+98,Quick Attack,Normale,Fisico,Classe,I,40,100,30
+99,Rage,Normale,Fisico,Grinta,I,20,100,20
+100,Teleport,Psico,Stato,Classe,I,80,100,20
+101,Night Shade,Spettro,Speciale,Acume,I,80,100,15
+102,Mimic,Normale,Stato,Grazia,I,80,100,10
+103,Screech,Normale,Stato,Acume,I,80,85,40
+104,Double Team,Normale,Stato,Classe,I,80,100,15
+105,Recover,Normale,Stato,Acume,I,80,100,10
+106,Harden,Normale,Stato,Grinta,I,80,100,30
+107,Minimize,Normale,Stato,Grazia,I,80,100,10
+108,Smokescreen,Normale,Stato,Acume,I,80,100,20
+109,Confuse Ray,Spettro,Stato,Acume,I,80,100,10
+110,Withdraw,Acqua,Stato,Grazia,I,80,100,40
+111,Defense Curl,Normale,Stato,Grazia,I,80,100,40
+112,Barrier,Psico,Stato,Classe,I,80,100,20
+113,Light Screen,Psico,Stato,Bellezza,I,80,100,30
+114,Haze,Ghiaccio,Stato,Bellezza,I,80,100,30
+115,Reflect,Psico,Stato,Acume,I,80,100,20
+116,Focus Energy,Normale,Stato,Classe,I,80,100,30
+117,Bide,Normale,Fisico,Grinta,I,80,100,10
+118,Metronome,Normale,Stato,Grazia,I,80,100,10
+119,Mirror Move,Volante,Stato,Acume,I,80,100,20
+120,Self-Destruct,Normale,Fisico,Bellezza,I,200,100,5
+121,Egg Bomb,Normale,Fisico,Grazia,I,100,75,10
+122,Lick,Spettro,Fisico,Grazia,I,30,100,30
+123,Smog,Veleno,Speciale,Grinta,I,30,70,20
+124,Sludge,Veleno,Speciale,Grinta,I,65,100,20
+125,Bone Club,Terra,Fisico,Grinta,I,65,85,20
+126,Fire Blast,Fuoco,Speciale,Bellezza,I,110,85,5
+127,Waterfall,Acqua,Fisico,Grinta,I,80,100,15
+128,Clamp,Acqua,Fisico,Grinta,I,35,85,15
+129,Swift,Normale,Speciale,Classe,I,60,100,20
+130,Skull Bash,Normale,Fisico,Grinta,I,130,100,10
+131,Spike Cannon,Normale,Fisico,Classe,I,20,100,15
+132,Constrict,Normale,Fisico,Grinta,I,10,100,35
+133,Amnesia,Psico,Stato,Grazia,I,80,100,20
+134,Kinesis,Psico,Stato,Acume,I,80,80,15
+135,Soft-Boiled,Normale,Stato,Grazia,I,80,100,10
+136,High Jump Kick,Lotta,Fisico,Classe,I,130,90,10
+137,Glare,Normale,Stato,Grinta,I,80,100,30
+138,Dream Eater,Psico,Speciale,Acume,I,100,100,15
+139,Poison Gas,Veleno,Stato,Acume,I,80,90,40
+140,Barrage,Normale,Fisico,Grazia,I,15,85,20
+141,Leech Life,Coleottero,Fisico,Acume,I,80,100,10
+142,Lovely Kiss,Normale,Stato,Bellezza,I,80,75,10
+143,Sky Attack,Volante,Fisico,Classe,I,140,90,5
+144,Transform,Normale,Stato,Acume,I,80,100,10
+145,Bubble,Acqua,Speciale,Grazia,I,40,100,30
+146,Dizzy Punch,Normale,Fisico,Grazia,I,70,100,10
+147,Spore,Erba,Stato,Bellezza,I,80,100,15
+148,Flash,Normale,Stato,Bellezza,I,80,100,20
+149,Psywave,Psico,Speciale,Acume,I,80,100,15
+150,Splash,Normale,Stato,Grazia,I,80,100,40
+151,Acid Armor,Veleno,Stato,Grinta,I,80,100,20
+152,Crabhammer,Acqua,Fisico,Grinta,I,100,90,10
+153,Explosion,Normale,Fisico,Bellezza,I,250,100,5
+154,Fury Swipes,Normale,Fisico,Grinta,I,18,80,15
+155,Bonemerang,Terra,Fisico,Grinta,I,50,90,10
+156,Rest,Psico,Stato,Grazia,I,80,100,10
+157,Rock Slide,Roccia,Fisico,Grinta,I,75,90,10
+158,Hyper Fang,Normale,Fisico,Classe,I,80,90,15
+159,Sharpen,Normale,Stato,Grazia,I,80,100,30
+160,Conversion,Normale,Stato,Bellezza,I,80,100,30
+161,Tri Attack,Normale,Speciale,Bellezza,I,80,100,10
+162,Super Fang,Normale,Fisico,Grinta,I,80,90,10
+163,Slash,Normale,Fisico,Classe,I,70,100,20
+164,Substitute,Normale,Stato,Grazia,I,80,100,10
+165,Struggle,Normale,Fisico,Grinta,I,50,100,1
+166,Sketch,Normale,Stato,Acume,II,80,100,1
+167,Triple Kick,Lotta,Fisico,Classe,II,10,90,10
+168,Thief,Buio,Fisico,Grinta,II,60,100,25
+169,Spider Web,Coleottero,Stato,Acume,II,80,100,10
+170,Mind Reader,Normale,Stato,Acume,II,80,100,5
+171,Nightmare,Spettro,Stato,Acume,II,80,100,15
+172,Flame Wheel,Fuoco,Fisico,Bellezza,II,60,100,25
+173,Snore,Normale,Speciale,Grazia,II,50,100,15
+174,Curse,Spettro,Stato,Grinta,II,80,100,10
+175,Flail,Normale,Fisico,Grazia,II,80,100,15
+176,Conversion 2,Normale,Stato,Bellezza,II,80,100,30
+177,Aeroblast,Volante,Speciale,Classe,II,100,95,5
+178,Cotton Spore,Erba,Stato,Bellezza,II,80,100,40
+179,Reversal,Lotta,Fisico,Classe,II,80,100,15
+180,Spite,Spettro,Stato,Grinta,II,80,100,10
+181,Powder Snow,Ghiaccio,Speciale,Bellezza,II,40,100,25
+182,Protect,Normale,Stato,Grazia,II,80,100,10
+183,Mach Punch,Lotta,Fisico,Classe,II,40,100,30
+184,Scary Face,Normale,Stato,Grinta,II,80,100,10
+185,Feint Attack,Buio,Fisico,Acume,II,60,100,20
+186,Sweet Kiss,Folletto,Stato,Grazia,II,80,75,10
+187,Belly Drum,Normale,Stato,Grazia,II,80,100,10
+188,Sludge Bomb,Veleno,Speciale,Grinta,II,90,100,10
+189,Mud-Slap,Terra,Speciale,Grazia,II,20,100,10
+190,Octazooka,Acqua,Speciale,Grinta,II,65,85,10
+191,Spikes,Terra,Stato,Acume,II,80,100,20
+192,Zap Cannon,Elettro,Speciale,Classe,II,120,50,5
+193,Foresight,Normale,Stato,Acume,II,80,100,40
+194,Destiny Bond,Spettro,Stato,Acume,II,80,100,5
+195,Perish Song,Normale,Stato,Bellezza,II,80,100,5
+196,Icy Wind,Ghiaccio,Speciale,Bellezza,II,55,95,15
+197,Detect,Lotta,Stato,Classe,II,80,100,5
+198,Bone Rush,Terra,Fisico,Grinta,II,25,90,10
+199,Lock-On,Normale,Stato,Acume,II,80,100,5
+200,Outrage,Drago,Fisico,Classe,II,120,100,10
+201,Sandstorm,Roccia,Stato,Grinta,II,80,100,10
+202,Giga Drain,Erba,Speciale,Acume,II,75,100,10
+203,Endure,Normale,Stato,Grinta,II,80,100,10
+204,Charm,Folletto,Stato,Grazia,II,80,100,20
+205,Rollout,Roccia,Fisico,Grazia,II,30,90,20
+206,False Swipe,Normale,Fisico,Classe,II,40,100,40
+207,Swagger,Normale,Stato,Grazia,II,80,85,15
+208,Milk Drink,Normale,Stato,Grazia,II,80,100,10
+209,Spark,Elettro,Fisico,Classe,II,65,100,20
+210,Fury Cutter,Coleottero,Fisico,Classe,II,40,95,20
+211,Steel Wing,Acciaio,Fisico,Classe,II,70,90,25
+212,Mean Look,Normale,Stato,Bellezza,II,80,100,5
+213,Attract,Normale,Stato,Grazia,II,80,100,15
+214,Sleep Talk,Normale,Stato,Grazia,II,80,100,10
+215,Heal Bell,Normale,Stato,Bellezza,II,80,100,5
+216,Return,Normale,Fisico,Grazia,II,80,100,20
+217,Present,Normale,Fisico,Grazia,II,80,90,15
+218,Frustration,Normale,Fisico,Grazia,II,80,100,20
+219,Safeguard,Normale,Stato,Bellezza,II,80,100,25
+220,Pain Split,Normale,Stato,Acume,II,80,100,20
+221,Sacred Fire,Fuoco,Fisico,Bellezza,II,100,95,5
+222,Magnitude,Terra,Fisico,Grinta,II,80,100,30
+223,Dynamic Punch,Lotta,Fisico,Classe,II,100,50,5
+224,Megahorn,Coleottero,Fisico,Classe,II,120,85,10
+225,Dragon Breath,Drago,Speciale,Classe,II,60,100,20
+226,Baton Pass,Normale,Stato,Grazia,II,80,100,40
+227,Encore,Normale,Stato,Grazia,II,80,100,5
+228,Pursuit,Buio,Fisico,Acume,II,40,100,20
+229,Rapid Spin,Normale,Fisico,Classe,II,50,100,40
+230,Sweet Scent,Normale,Stato,Grazia,II,80,100,20
+231,Iron Tail,Acciaio,Fisico,Classe,II,100,75,15
+232,Metal Claw,Acciaio,Fisico,Classe,II,50,95,35
+233,Vital Throw,Lotta,Fisico,Classe,II,70,100,10
+234,Morning Sun,Normale,Stato,Bellezza,II,80,100,5
+235,Synthesis,Erba,Stato,Acume,II,80,100,5
+236,Moonlight,Folletto,Stato,Bellezza,II,80,100,5
+237,Hidden Power,Normale,Speciale,Acume,II,60,100,15
+238,Cross Chop,Lotta,Fisico,Classe,II,100,80,5
+239,Twister,Drago,Speciale,Classe,II,40,100,20
+240,Rain Dance,Acqua,Stato,Bellezza,II,80,100,5
+241,Sunny Day,Fuoco,Stato,Bellezza,II,80,100,5
+242,Crunch,Buio,Fisico,Grinta,II,80,100,15
+243,Mirror Coat,Psico,Speciale,Bellezza,II,80,100,20
+244,Psych Up,Normale,Stato,Acume,II,80,100,10
+245,Extreme Speed,Normale,Fisico,Classe,II,80,100,5
+246,Ancient Power,Roccia,Speciale,Grinta,II,60,100,5
+247,Shadow Ball,Spettro,Speciale,Acume,II,80,100,15
+248,Future Sight,Psico,Speciale,Acume,II,120,100,10
+249,Rock Smash,Lotta,Fisico,Grinta,II,40,100,15
+250,Whirlpool,Acqua,Speciale,Bellezza,II,35,85,15
+251,Beat Up,Buio,Fisico,Acume,II,80,100,10
+252,Fake Out,Normale,Fisico,Grazia,III,40,100,10
+253,Uproar,Normale,Speciale,Grazia,III,90,100,10
+254,Stockpile,Normale,Stato,Grinta,III,80,100,20
+255,Spit Up,Normale,Speciale,Grinta,III,80,100,10
+256,Swallow,Normale,Stato,Grinta,III,80,100,10
+257,Heat Wave,Fuoco,Speciale,Bellezza,III,95,90,10
+258,Hail,Ghiaccio,Stato,Bellezza,III,80,100,10
+259,Torment,Buio,Stato,Grinta,III,80,100,15
+260,Flatter,Buio,Stato,Acume,III,80,100,15
+261,Will-O-Wisp,Fuoco,Stato,Bellezza,III,80,85,15
+262,Memento,Buio,Stato,Grinta,III,80,100,10
+263,Facade,Normale,Fisico,Grazia,III,70,100,20
+264,Focus Punch,Lotta,Fisico,Grinta,III,150,100,20
+265,Smelling Salts,Normale,Fisico,Grinta,III,70,100,10
+266,Follow Me,Normale,Stato,Grazia,III,80,100,20
+267,Nature Power,Normale,Stato,Bellezza,III,80,100,20
+268,Charge,Elettro,Stato,Acume,III,80,100,20
+269,Taunt,Buio,Stato,Acume,III,80,100,20
+270,Helping Hand,Normale,Stato,Acume,III,80,100,20
+271,Trick,Psico,Stato,Acume,III,80,100,10
+272,Role Play,Psico,Stato,Grazia,III,80,100,10
+273,Wish,Normale,Stato,Grazia,III,80,100,10
+274,Assist,Normale,Stato,Grazia,III,80,100,20
+275,Ingrain,Erba,Stato,Acume,III,80,100,20
+276,Superpower,Lotta,Fisico,Grinta,III,120,100,5
+277,Magic Coat,Psico,Stato,Bellezza,III,80,100,15
+278,Recycle,Normale,Stato,Acume,III,80,100,10
+279,Revenge,Lotta,Fisico,Grinta,III,60,100,10
+280,Brick Break,Lotta,Fisico,Classe,III,75,100,15
+281,Yawn,Normale,Stato,Grazia,III,80,100,10
+282,Knock Off,Buio,Fisico,Acume,III,65,100,20
+283,Endeavor,Normale,Fisico,Grinta,III,80,100,5
+284,Eruption,Fuoco,Speciale,Bellezza,III,80,100,5
+285,Skill Swap,Psico,Stato,Acume,III,80,100,10
+286,Imprison,Psico,Stato,Acume,III,80,100,10
+287,Refresh,Normale,Stato,Grazia,III,80,100,20
+288,Grudge,Spettro,Stato,Grinta,III,80,100,5
+289,Snatch,Buio,Stato,Acume,III,80,100,10
+290,Secret Power,Normale,Fisico,Acume,III,70,100,20
+291,Dive,Acqua,Fisico,Bellezza,III,80,100,10
+292,Arm Thrust,Lotta,Fisico,Grinta,III,15,100,20
+293,Camouflage,Normale,Stato,Acume,III,80,100,20
+294,Tail Glow,Coleottero,Stato,Bellezza,III,80,100,20
+295,Luster Purge,Psico,Speciale,Acume,III,70,100,5
+296,Mist Ball,Psico,Speciale,Acume,III,70,100,5
+297,Feather Dance,Volante,Stato,Bellezza,III,80,100,15
+298,Teeter Dance,Normale,Stato,Grazia,III,80,100,20
+299,Blaze Kick,Fuoco,Fisico,Classe,III,85,90,10
+300,Mud Sport,Terra,Stato,Grazia,III,80,100,15
+301,Ice Ball,Ghiaccio,Fisico,Bellezza,III,30,90,20
+302,Needle Arm,Erba,Fisico,Acume,III,60,100,15
+303,Slack Off,Normale,Stato,Grazia,III,80,100,10
+304,Hyper Voice,Normale,Speciale,Classe,III,90,100,10
+305,Poison Fang,Veleno,Fisico,Acume,III,50,100,15
+306,Crush Claw,Normale,Fisico,Classe,III,75,95,10
+307,Blast Burn,Fuoco,Speciale,Bellezza,III,150,90,5
+308,Hydro Cannon,Acqua,Speciale,Bellezza,III,150,90,5
+309,Meteor Mash,Acciaio,Fisico,Classe,III,90,90,10
+310,Astonish,Spettro,Fisico,Grazia,III,30,100,15
+311,Weather Ball,Normale,Speciale,Bellezza,III,50,100,10
+312,Aromatherapy,Erba,Stato,Acume,III,80,100,5
+313,Fake Tears,Buio,Stato,Grazia,III,80,100,20
+314,Air Cutter,Volante,Speciale,Classe,III,60,95,25
+315,Overheat,Fuoco,Speciale,Bellezza,III,130,90,5
+316,Odor Sleuth,Normale,Stato,Acume,III,80,100,40
+317,Rock Tomb,Roccia,Fisico,Acume,III,60,95,15
+318,Silver Wind,Coleottero,Speciale,Bellezza,III,60,100,5
+319,Metal Sound,Acciaio,Stato,Acume,III,80,85,40
+320,Grass Whistle,Erba,Stato,Acume,III,80,55,15
+321,Tickle,Normale,Stato,Grazia,III,80,100,20
+322,Cosmic Power,Psico,Stato,Bellezza,III,80,100,20
+323,Water Spout,Acqua,Speciale,Bellezza,III,80,100,5
+324,Signal Beam,Coleottero,Speciale,Bellezza,III,75,100,15
+325,Shadow Punch,Spettro,Fisico,Acume,III,60,100,20
+326,Extrasensory,Psico,Speciale,Classe,III,80,100,20
+327,Sky Uppercut,Lotta,Fisico,Classe,III,85,90,15
+328,Sand Tomb,Terra,Fisico,Acume,III,35,85,15
+329,Sheer Cold,Ghiaccio,Speciale,Bellezza,III,250,30,5
+330,Muddy Water,Acqua,Speciale,Grinta,III,90,85,10
+331,Bullet Seed,Erba,Fisico,Classe,III,25,100,30
+332,Aerial Ace,Volante,Fisico,Classe,III,60,100,20
+333,Icicle Spear,Ghiaccio,Fisico,Bellezza,III,25,100,30
+334,Iron Defense,Acciaio,Stato,Grinta,III,80,100,15
+335,Block,Normale,Stato,Grazia,III,80,100,5
+336,Howl,Normale,Stato,Classe,III,80,100,40
+337,Dragon Claw,Drago,Fisico,Classe,III,80,100,15
+338,Frenzy Plant,Erba,Speciale,Classe,III,150,90,5
+339,Bulk Up,Lotta,Stato,Classe,III,80,100,20
+340,Bounce,Volante,Fisico,Grazia,III,85,85,5
+341,Mud Shot,Terra,Speciale,Grinta,III,55,95,15
+342,Poison Tail,Veleno,Fisico,Acume,III,50,100,25
+343,Covet,Normale,Fisico,Grazia,III,60,100,25
+344,Volt Tackle,Elettro,Fisico,Classe,III,120,100,15
+345,Magical Leaf,Erba,Speciale,Bellezza,III,60,100,20
+346,Water Sport,Acqua,Stato,Grazia,III,80,100,15
+347,Calm Mind,Psico,Stato,Acume,III,80,100,20
+348,Leaf Blade,Erba,Fisico,Classe,III,90,100,15
+349,Dragon Dance,Drago,Stato,Classe,III,80,100,20
+350,Rock Blast,Roccia,Fisico,Grinta,III,25,90,10
+351,Shock Wave,Elettro,Speciale,Classe,III,60,100,20
+352,Water Pulse,Acqua,Speciale,Bellezza,III,60,100,20
+353,Doom Desire,Acciaio,Speciale,Bellezza,III,140,100,5
+354,Psycho Boost,Psico,Speciale,Acume,III,140,90,5
+355,Roost,Volante,Stato,Acume,IV,80,100,10
+356,Gravity,Psico,Stato,Acume,IV,80,100,5
+357,Miracle Eye,Psico,Stato,Acume,IV,80,100,40
+358,Wake-Up Slap,Lotta,Fisico,Grinta,IV,70,100,10
+359,Hammer Arm,Lotta,Fisico,Grinta,IV,100,90,10
+360,Gyro Ball,Acciaio,Fisico,Classe,IV,80,100,5
+361,Healing Wish,Psico,Stato,Bellezza,IV,80,100,10
+362,Brine,Acqua,Speciale,Grinta,IV,65,100,10
+363,Natural Gift,Normale,Fisico,Acume,IV,80,100,15
+364,Feint,Normale,Fisico,Acume,IV,30,100,10
+365,Pluck,Volante,Fisico,Grazia,IV,60,100,20
+366,Tailwind,Volante,Stato,Classe,IV,80,100,15
+367,Acupressure,Normale,Stato,Grinta,IV,80,100,30
+368,Metal Burst,Acciaio,Fisico,Classe,IV,80,100,10
+369,U-turn,Coleottero,Fisico,Grazia,IV,70,100,20
+370,Close Combat,Lotta,Fisico,Grinta,IV,120,100,5
+371,Payback,Buio,Fisico,Grinta,IV,50,100,10
+372,Assurance,Buio,Fisico,Acume,IV,60,100,10
+373,Embargo,Buio,Stato,Acume,IV,80,100,15
+374,Fling,Buio,Fisico,Grazia,IV,80,100,10
+375,Psycho Shift,Psico,Stato,Acume,IV,80,100,10
+376,Trump Card,Normale,Speciale,Classe,IV,80,100,5
+377,Heal Block,Psico,Stato,Acume,IV,80,100,15
+378,Wring Out,Normale,Speciale,Grinta,IV,80,100,5
+379,Power Trick,Psico,Stato,Acume,IV,80,100,10
+380,Gastro Acid,Veleno,Stato,Grinta,IV,80,100,10
+381,Lucky Chant,Normale,Stato,Grazia,IV,80,100,30
+382,Me First,Normale,Stato,Acume,IV,80,100,20
+383,Copycat,Normale,Stato,Grazia,IV,80,100,20
+384,Power Swap,Psico,Stato,Acume,IV,80,100,10
+385,Guard Swap,Psico,Stato,Acume,IV,80,100,10
+386,Punishment,Buio,Fisico,Classe,IV,80,100,5
+387,Last Resort,Normale,Fisico,Grazia,IV,140,100,5
+388,Worry Seed,Erba,Stato,Acume,IV,80,100,10
+389,Sucker Punch,Buio,Fisico,Acume,IV,70,100,5
+390,Toxic Spikes,Veleno,Stato,Acume,IV,80,100,20
+391,Heart Swap,Psico,Stato,Acume,IV,80,100,10
+392,Aqua Ring,Acqua,Stato,Bellezza,IV,80,100,20
+393,Magnet Rise,Elettro,Stato,Acume,IV,80,100,10
+394,Flare Blitz,Fuoco,Fisico,Classe,IV,120,100,15
+395,Force Palm,Lotta,Fisico,Classe,IV,60,100,10
+396,Aura Sphere,Lotta,Speciale,Bellezza,IV,80,100,20
+397,Rock Polish,Roccia,Stato,Grinta,IV,80,100,20
+398,Poison Jab,Veleno,Fisico,Grinta,IV,80,100,20
+399,Dark Pulse,Buio,Speciale,Classe,IV,80,100,15
+400,Night Slash,Buio,Fisico,Classe,IV,70,100,15
+401,Aqua Tail,Acqua,Fisico,Bellezza,IV,90,90,10
+402,Seed Bomb,Erba,Fisico,Grinta,IV,80,100,15
+403,Air Slash,Volante,Speciale,Classe,IV,75,95,15
+404,X-Scissor,Coleottero,Fisico,Classe,IV,80,100,15
+405,Bug Buzz,Coleottero,Speciale,Bellezza,IV,90,100,10
+406,Dragon Pulse,Drago,Speciale,Bellezza,IV,85,100,10
+407,Dragon Rush,Drago,Fisico,Grinta,IV,100,75,10
+408,Power Gem,Roccia,Speciale,Bellezza,IV,80,100,20
+409,Drain Punch,Lotta,Fisico,Grinta,IV,75,100,10
+410,Vacuum Wave,Lotta,Speciale,Classe,IV,40,100,30
+411,Focus Blast,Lotta,Speciale,Classe,IV,120,70,5
+412,Energy Ball,Erba,Speciale,Bellezza,IV,90,100,10
+413,Brave Bird,Volante,Fisico,Classe,IV,120,100,15
+414,Earth Power,Terra,Speciale,Bellezza,IV,90,100,10
+415,Switcheroo,Buio,Stato,Acume,IV,80,100,10
+416,Giga Impact,Normale,Fisico,Grinta,IV,150,90,5
+417,Nasty Plot,Buio,Stato,Acume,IV,80,100,20
+418,Bullet Punch,Acciaio,Fisico,Grinta,IV,40,100,30
+419,Avalanche,Ghiaccio,Fisico,Bellezza,IV,60,100,10
+420,Ice Shard,Ghiaccio,Fisico,Bellezza,IV,40,100,30
+421,Shadow Claw,Spettro,Fisico,Classe,IV,70,100,15
+422,Thunder Fang,Elettro,Fisico,Classe,IV,65,95,15
+423,Ice Fang,Ghiaccio,Fisico,Classe,IV,65,95,15
+424,Fire Fang,Fuoco,Fisico,Classe,IV,65,95,15
+425,Shadow Sneak,Spettro,Fisico,Acume,IV,40,100,30
+426,Mud Bomb,Terra,Speciale,Grazia,IV,65,85,10
+427,Psycho Cut,Psico,Fisico,Classe,IV,70,100,20
+428,Zen Headbutt,Psico,Fisico,Acume,IV,80,90,15
+429,Mirror Shot,Acciaio,Speciale,Bellezza,IV,65,85,10
+430,Flash Cannon,Acciaio,Speciale,Bellezza,IV,80,100,10
+431,Rock Climb,Normale,Fisico,Grinta,IV,90,85,20
+432,Defog,Volante,Stato,Classe,IV,80,100,15
+433,Trick Room,Psico,Stato,Acume,IV,80,100,5
+434,Draco Meteor,Drago,Speciale,Bellezza,IV,130,90,5
+435,Discharge,Elettro,Speciale,Bellezza,IV,80,100,15
+436,Lava Plume,Fuoco,Speciale,Grinta,IV,80,100,15
+437,Leaf Storm,Erba,Speciale,Bellezza,IV,130,90,5
+438,Power Whip,Erba,Fisico,Grinta,IV,120,85,10
+439,Rock Wrecker,Roccia,Fisico,Grinta,IV,150,90,5
+440,Cross Poison,Veleno,Fisico,Classe,IV,70,100,20
+441,Gunk Shot,Veleno,Fisico,Grinta,IV,120,80,5
+442,Iron Head,Acciaio,Fisico,Grinta,IV,80,100,15
+443,Magnet Bomb,Acciaio,Fisico,Classe,IV,60,100,20
+444,Stone Edge,Roccia,Fisico,Grinta,IV,100,80,5
+445,Captivate,Normale,Stato,Grazia,IV,80,100,20
+446,Stealth Rock,Roccia,Stato,Classe,IV,80,100,20
+447,Grass Knot,Erba,Speciale,Grazia,IV,80,100,20
+448,Chatter,Volante,Speciale,Grazia,IV,65,100,20
+449,Judgment,Normale,Speciale,Bellezza,IV,100,100,10
+450,Bug Bite,Coleottero,Fisico,Grazia,IV,60,100,20
+451,Charge Beam,Elettro,Speciale,Bellezza,IV,50,90,10
+452,Wood Hammer,Erba,Fisico,Grinta,IV,120,100,15
+453,Aqua Jet,Acqua,Fisico,Classe,IV,40,100,20
+454,Attack Order,Coleottero,Fisico,Acume,IV,90,100,15
+455,Defend Order,Coleottero,Stato,Acume,IV,80,100,10
+456,Heal Order,Coleottero,Stato,Acume,IV,80,100,10
+457,Head Smash,Roccia,Fisico,Grinta,IV,150,80,5
+458,Double Hit,Normale,Fisico,Classe,IV,35,90,10
+459,Roar of Time,Drago,Speciale,Bellezza,IV,150,90,5
+460,Spacial Rend,Drago,Speciale,Bellezza,IV,100,95,5
+461,Lunar Dance,Psico,Stato,Bellezza,IV,80,100,10
+462,Crush Grip,Normale,Fisico,Grinta,IV,80,100,5
+463,Magma Storm,Fuoco,Speciale,Grinta,IV,100,75,5
+464,Dark Void,Buio,Stato,Acume,IV,80,50,10
+465,Seed Flare,Erba,Speciale,Bellezza,IV,120,85,5
+466,Ominous Wind,Spettro,Speciale,Bellezza,IV,60,100,5
+467,Shadow Force,Spettro,Fisico,Classe,IV,120,100,5
+468,Hone Claws,Buio,Stato,Grazia,V,80,100,15
+469,Wide Guard,Roccia,Stato,Grinta,V,80,100,10
+470,Guard Split,Psico,Stato,Acume,V,80,100,10
+471,Power Split,Psico,Stato,Acume,V,80,100,10
+472,Wonder Room,Psico,Stato,Acume,V,80,100,10
+473,Psyshock,Psico,Speciale,Bellezza,V,80,100,10
+474,Venoshock,Veleno,Speciale,Bellezza,V,65,100,10
+475,Autotomize,Acciaio,Stato,Bellezza,V,80,100,15
+476,Rage Powder,Coleottero,Stato,Acume,V,80,100,20
+477,Telekinesis,Psico,Stato,Acume,V,80,100,15
+478,Magic Room,Psico,Stato,Acume,V,80,100,10
+479,Smack Down,Roccia,Fisico,Grinta,V,50,100,15
+480,Storm Throw,Lotta,Fisico,Classe,V,60,100,10
+481,Flame Burst,Fuoco,Speciale,Bellezza,V,70,100,15
+482,Sludge Wave,Veleno,Speciale,Grinta,V,95,100,10
+483,Quiver Dance,Coleottero,Stato,Bellezza,V,80,100,20
+484,Heavy Slam,Acciaio,Fisico,Grinta,V,80,100,10
+485,Synchronoise,Psico,Speciale,Acume,V,120,100,10
+486,Electro Ball,Elettro,Speciale,Classe,V,80,100,10
+487,Soak,Acqua,Stato,Grazia,V,80,100,20
+488,Flame Charge,Fuoco,Fisico,Classe,V,50,100,20
+489,Coil,Veleno,Stato,Grinta,V,80,100,20
+490,Low Sweep,Lotta,Fisico,Acume,V,65,100,20
+491,Acid Spray,Veleno,Speciale,Bellezza,V,40,100,20
+492,Foul Play,Buio,Fisico,Acume,V,95,100,15
+493,Simple Beam,Normale,Stato,Grazia,V,80,100,15
+494,Entrainment,Normale,Stato,Grazia,V,80,100,15
+495,After You,Normale,Stato,Grazia,V,80,100,15
+496,Round,Normale,Speciale,Bellezza,V,60,100,15
+497,Echoed Voice,Normale,Speciale,Bellezza,V,40,100,15
+498,Chip Away,Normale,Fisico,Grinta,V,70,100,20
+499,Clear Smog,Veleno,Speciale,Bellezza,V,50,100,15
+500,Stored Power,Psico,Speciale,Acume,V,20,100,10
+501,Quick Guard,Lotta,Stato,Classe,V,80,100,15
+502,Ally Switch,Psico,Stato,Acume,V,80,100,15
+503,Scald,Acqua,Speciale,Grinta,V,80,100,15
+504,Shell Smash,Normale,Stato,Grinta,V,80,100,15
+505,Heal Pulse,Psico,Stato,Bellezza,V,80,100,10
+506,Hex,Spettro,Speciale,Acume,V,65,100,10
+507,Sky Drop,Volante,Fisico,Grinta,V,60,100,10
+508,Shift Gear,Acciaio,Stato,Acume,V,80,100,10
+509,Circle Throw,Lotta,Fisico,Classe,V,60,90,10
+510,Incinerate,Fuoco,Speciale,Grinta,V,60,100,15
+511,Quash,Buio,Stato,Acume,V,80,100,15
+512,Acrobatics,Volante,Fisico,Classe,V,55,100,15
+513,Reflect Type,Normale,Stato,Acume,V,80,100,15
+514,Retaliate,Normale,Fisico,Classe,V,70,100,5
+515,Final Gambit,Lotta,Speciale,Grinta,V,80,100,5
+516,Bestow,Normale,Stato,Grazia,V,80,100,15
+517,Inferno,Fuoco,Speciale,Bellezza,V,100,50,5
+518,Water Pledge,Acqua,Speciale,Bellezza,V,80,100,10
+519,Fire Pledge,Fuoco,Speciale,Bellezza,V,80,100,10
+520,Grass Pledge,Erba,Speciale,Bellezza,V,80,100,10
+521,Volt Switch,Elettro,Speciale,Classe,V,70,100,20
+522,Struggle Bug,Coleottero,Speciale,Grazia,V,50,100,20
+523,Bulldoze,Terra,Fisico,Grinta,V,60,100,20
+524,Frost Breath,Ghiaccio,Speciale,Bellezza,V,60,90,10
+525,Dragon Tail,Drago,Fisico,Grinta,V,60,90,10
+526,Work Up,Normale,Stato,Grinta,V,80,100,30
+527,Electroweb,Elettro,Speciale,Bellezza,V,55,95,15
+528,Wild Charge,Elettro,Fisico,Grinta,V,90,100,15
+529,Drill Run,Terra,Fisico,Grinta,V,80,95,10
+530,Dual Chop,Drago,Fisico,Grinta,V,40,90,15
+531,Heart Stamp,Psico,Fisico,Grazia,V,60,100,25
+532,Horn Leech,Erba,Fisico,Grinta,V,75,100,10
+533,Sacred Sword,Lotta,Fisico,Classe,V,90,100,15
+534,Razor Shell,Acqua,Fisico,Classe,V,75,95,10
+535,Heat Crash,Fuoco,Fisico,Grinta,V,80,100,10
+536,Leaf Tornado,Erba,Speciale,Classe,V,65,90,10
+537,Steamroller,Coleottero,Fisico,Grinta,V,65,100,20
+538,Cotton Guard,Erba,Stato,Grazia,V,80,100,10
+539,Night Daze,Buio,Speciale,Classe,V,85,95,10
+540,Psystrike,Psico,Speciale,Classe,V,100,100,10
+541,Tail Slap,Normale,Fisico,Grazia,V,25,85,10
+542,Hurricane,Volante,Speciale,Grinta,V,110,70,10
+543,Head Charge,Normale,Fisico,Grinta,V,120,100,15
+544,Gear Grind,Acciaio,Fisico,Acume,V,50,85,15
+545,Searing Shot,Fuoco,Speciale,Classe,V,100,100,5
+546,Techno Blast,Normale,Speciale,Classe,V,120,100,5
+547,Relic Song,Normale,Speciale,Bellezza,V,75,100,10
+548,Secret Sword,Lotta,Speciale,Bellezza,V,85,100,10
+549,Glaciate,Ghiaccio,Speciale,Bellezza,V,65,95,10
+550,Bolt Strike,Elettro,Fisico,Bellezza,V,130,85,5
+551,Blue Flare,Fuoco,Speciale,Bellezza,V,130,85,5
+552,Fiery Dance,Fuoco,Speciale,Bellezza,V,80,100,10
+553,Freeze Shock,Ghiaccio,Fisico,Bellezza,V,140,90,5
+554,Ice Burn,Ghiaccio,Speciale,Bellezza,V,140,90,5
+555,Snarl,Buio,Speciale,Grinta,V,55,95,15
+556,Icicle Crash,Ghiaccio,Fisico,Bellezza,V,85,90,10
+557,V-create,Fuoco,Fisico,Classe,V,180,95,5
+558,Fusion Flare,Fuoco,Speciale,Bellezza,V,100,100,5
+559,Fusion Bolt,Elettro,Fisico,Classe,V,100,100,5
+560,Flying Press,Lotta,Fisico,Grinta,VI,100,95,10
+561,Mat Block,Lotta,Stato,Classe,VI,80,100,10
+562,Belch,Veleno,Speciale,Grinta,VI,120,90,10
+563,Rototiller,Terra,Stato,Grinta,VI,80,100,10
+564,Sticky Web,Coleottero,Stato,Grinta,VI,80,100,20
+565,Fell Stinger,Coleottero,Fisico,Classe,VI,50,100,25
+566,Phantom Force,Spettro,Fisico,Classe,VI,90,100,10
+567,Trick-or-Treat,Spettro,Stato,Grazia,VI,80,100,20
+568,Noble Roar,Normale,Stato,Grinta,VI,80,100,30
+569,Ion Deluge,Elettro,Stato,Bellezza,VI,80,100,25
+570,Parabolic Charge,Elettro,Speciale,Acume,VI,65,100,20
+571,Forest's Curse,Erba,Stato,Acume,VI,80,100,20
+572,Petal Blizzard,Erba,Fisico,Bellezza,VI,90,100,15
+573,Freeze-Dry,Ghiaccio,Speciale,Bellezza,VI,70,100,20
+574,Disarming Voice,Folletto,Speciale,Grazia,VI,40,100,15
+575,Parting Shot,Buio,Stato,Classe,VI,80,100,20
+576,Topsy-Turvy,Buio,Stato,Acume,VI,80,100,20
+577,Draining Kiss,Folletto,Speciale,Grazia,VI,50,100,10
+578,Crafty Shield,Folletto,Stato,Acume,VI,80,100,10
+579,Flower Shield,Folletto,Stato,Bellezza,VI,80,100,10
+580,Grassy Terrain,Erba,Stato,Bellezza,VI,80,100,10
+581,Misty Terrain,Folletto,Stato,Bellezza,VI,80,100,10
+582,Electrify,Elettro,Stato,Acume,VI,80,100,20
+583,Play Rough,Folletto,Fisico,Grazia,VI,90,90,10
+584,Fairy Wind,Folletto,Speciale,Bellezza,VI,40,100,30
+585,Moonblast,Folletto,Speciale,Bellezza,VI,95,100,15
+586,Boomburst,Normale,Speciale,Grinta,VI,140,100,10
+587,Fairy Lock,Folletto,Stato,Acume,VI,80,100,10
+588,King's Shield,Acciaio,Stato,Classe,VI,80,100,10
+589,Play Nice,Normale,Stato,Grazia,VI,80,100,20
+590,Confide,Normale,Stato,Grazia,VI,80,100,20
+591,Diamond Storm,Roccia,Fisico,Bellezza,VI,100,95,5
+592,Steam Eruption,Acqua,Speciale,Bellezza,VI,110,95,5
+593,Hyperspace Hole,Psico,Speciale,Acume,VI,80,100,5
+594,Water Shuriken,Acqua,Speciale,Classe,VI,15,100,20
+595,Mystical Fire,Fuoco,Speciale,Bellezza,VI,75,100,10
+596,Spiky Shield,Erba,Stato,Grinta,VI,80,100,10
+597,Aromatic Mist,Folletto,Stato,Bellezza,VI,80,100,20
+598,Eerie Impulse,Elettro,Stato,Acume,VI,80,100,15
+599,Venom Drench,Veleno,Stato,Acume,VI,80,100,20
+600,Powder,Coleottero,Stato,Acume,VI,80,100,20
+601,Geomancy,Folletto,Stato,Bellezza,VI,80,100,10
+602,Magnetic Flux,Elettro,Stato,Acume,VI,80,100,20
+603,Happy Hour,Normale,Stato,Grazia,VI,80,100,30
+604,Electric Terrain,Elettro,Stato,Acume,VI,80,100,10
+605,Dazzling Gleam,Folletto,Speciale,Bellezza,VI,80,100,10
+606,Celebrate,Normale,Stato,Grazia,VI,80,100,40
+607,Hold Hands,Normale,Stato,Grazia,VI,80,100,40
+608,Baby-Doll Eyes,Folletto,Stato,Grazia,VI,80,100,30
+609,Nuzzle,Elettro,Fisico,Grazia,VI,20,100,20
+610,Hold Back,Normale,Fisico,Classe,VI,40,100,40
+611,Infestation,Coleottero,Speciale,Grazia,VI,20,100,20
+612,Power-Up Punch,Lotta,Fisico,Grinta,VI,40,100,20
+613,Oblivion Wing,Volante,Speciale,Classe,VI,80,100,10
+614,Thousand Arrows,Terra,Fisico,Bellezza,VI,90,100,10
+615,Thousand Waves,Terra,Fisico,Grinta,VI,90,100,10
+616,Land's Wrath,Terra,Fisico,Bellezza,VI,90,100,10
+617,Light of Ruin,Folletto,Speciale,Bellezza,VI,140,90,5
+618,Origin Pulse,Acqua,Speciale,Bellezza,VI,110,85,10
+619,Precipice Blades,Terra,Fisico,Classe,VI,120,85,10
+620,Dragon Ascent,Volante,Fisico,Bellezza,VI,120,100,5
+621,Hyperspace Fury,Buio,Fisico,Grinta,VI,100,100,5
+622,Breakneck Blitz,Normale,Fisico,???,VII,80,100,1
+623,Breakneck Blitz,Normale,Speciale,???,VII,80,100,1
+624,All-Out Pummeling,Lotta,Fisico,???,VII,80,100,1
+625,All-Out Pummeling,Lotta,Speciale,???,VII,80,100,1
+626,Supersonic Skystrike,Volante,Fisico,???,VII,80,100,1
+627,Supersonic Skystrike,Volante,Speciale,???,VII,80,100,1
+628,Acidiluvio Corrosivo,Veleno,Fisico,???,VII,80,100,1
+629,Acidiluvio Corrosivo,Veleno,Speciale,???,VII,80,100,1
+630,Tectonic Rage,Terra,Fisico,???,VII,80,100,1
+631,Tectonic Rage,Terra,Speciale,???,VII,80,100,1
+632,Continental Crush,Roccia,Fisico,???,VII,80,100,1
+633,Continental Crush,Roccia,Speciale,???,VII,80,100,1
+634,Savage Spin-Out,Coleottero,Fisico,???,VII,80,100,1
+635,Savage Spin-Out,Coleottero,Speciale,???,VII,80,100,1
+636,Never-Ending Nightmare,Spettro,Fisico,???,VII,80,100,1
+637,Never-Ending Nightmare,Spettro,Speciale,???,VII,80,100,1
+638,Corkscrew Crash,Acciaio,Fisico,???,VII,80,100,1
+639,Corkscrew Crash,Acciaio,Speciale,???,VII,80,100,1
+640,Inferno Overdrive,Fuoco,Fisico,???,VII,80,100,1
+641,Inferno Overdrive,Fuoco,Speciale,???,VII,80,100,1
+642,Hydro Vortex,Acqua,Fisico,???,VII,80,100,1
+643,Hydro Vortex,Acqua,Speciale,???,VII,80,100,1
+644,Bloom Doom,Erba,Fisico,???,VII,80,100,1
+645,Bloom Doom,Erba,Speciale,???,VII,80,100,1
+646,Gigavolt Havoc,Elettro,Fisico,???,VII,80,100,1
+647,Gigavolt Havoc,Elettro,Speciale,???,VII,80,100,1
+648,Shattered Psyche,Psico,Fisico,???,VII,80,100,1
+649,Shattered Psyche,Psico,Speciale,???,VII,80,100,1
+650,Subzero Slammer,Ghiaccio,Fisico,???,VII,80,100,1
+651,Subzero Slammer,Ghiaccio,Speciale,???,VII,80,100,1
+652,Devastating Drake,Drago,Fisico,???,VII,80,100,1
+653,Devastating Drake,Drago,Speciale,???,VII,80,100,1
+654,Black Hole Eclipse,Buio,Fisico,???,VII,80,100,1
+655,Black Hole Eclipse,Buio,Speciale,???,VII,80,100,1
+656,Twinkle Tackle,Folletto,Fisico,???,VII,80,100,1
+657,Twinkle Tackle,Folletto,Speciale,???,VII,80,100,1
+658,Catastropika,Elettro,Fisico,???,VII,210,100,1
+659,Shore Up,Terra,Stato,???,VII,80,100,10
+660,First Impression,Coleottero,Fisico,???,VII,90,100,10
+661,Baneful Bunker,Veleno,Stato,???,VII,80,100,10
+662,Spirit Shackle,Spettro,Fisico,???,VII,80,100,10
+663,Darkest Lariat,Buio,Fisico,???,VII,85,100,10
+664,Sparkling Aria,Acqua,Speciale,???,VII,90,100,10
+665,Ice Hammer,Ghiaccio,Fisico,???,VII,100,90,10
+666,Floral Healing,Folletto,Stato,???,VII,80,100,10
+667,High Horsepower,Terra,Fisico,???,VII,95,95,10
+668,Strength Sap,Erba,Stato,???,VII,80,100,10
+669,Solar Blade,Erba,Fisico,???,VII,125,100,10
+670,Leafage,Erba,Fisico,???,VII,40,100,40
+671,Spotlight,Normale,Stato,???,VII,80,100,15
+672,Toxic Thread,Veleno,Stato,???,VII,80,100,20
+673,Laser Focus,Normale,Stato,???,VII,80,100,30
+674,Gear Up,Acciaio,Stato,???,VII,80,100,20
+675,Throat Chop,Buio,Fisico,???,VII,80,100,15
+676,Pollen Puff,Coleottero,Speciale,???,VII,90,100,15
+677,Anchor Shot,Acciaio,Fisico,???,VII,80,100,20
+678,Psychic Terrain,Psico,Stato,???,VII,80,100,10
+679,Lunge,Coleottero,Fisico,???,VII,80,100,15
+680,Fire Lash,Fuoco,Fisico,???,VII,80,100,15
+681,Power Trip,Buio,Fisico,???,VII,20,100,10
+682,Burn Up,Fuoco,Speciale,???,VII,130,100,5
+683,Speed Swap,Psico,Stato,???,VII,80,100,10
+684,Smart Strike,Acciaio,Fisico,???,VII,70,100,10
+685,Purify,Veleno,Stato,???,VII,80,100,20
+686,Revelation Dance,Normale,Speciale,???,VII,90,100,15
+687,Core Enforcer,Drago,Speciale,???,VII,100,100,10
+688,Trop Kick,Erba,Fisico,???,VII,70,100,15
+689,Instruct,Psico,Stato,???,VII,80,100,15
+690,Beak Blast,Volante,Fisico,???,VII,100,100,15
+691,Clanging Scales,Drago,Speciale,???,VII,110,100,5
+692,Dragon Hammer,Drago,Fisico,???,VII,90,100,15
+693,Brutal Swing,Buio,Fisico,???,VII,60,100,20
+694,Aurora Veil,Ghiaccio,Stato,???,VII,80,100,20
+695,Sinister Arrow Raid,Spettro,Fisico,???,VII,180,100,1
+696,Malicious Moonsault,Buio,Fisico,???,VII,180,100,1
+697,Oceanic Operetta,Acqua,Speciale,???,VII,195,100,1
+698,Guardian of Alola,Folletto,Speciale,???,VII,80,100,1
+699,Soul-Stealing 7-Star Strike,Spettro,Fisico,???,VII,195,100,1
+700,Stoked Sparksurfer,Elettro,Speciale,???,VII,175,100,1
+701,Pulverizing Pancake,Normale,Fisico,???,VII,210,100,1
+702,Extreme Evoboost,Normale,Stato,???,VII,80,100,1
+703,Genesis Supernova,Psico,Speciale,???,VII,185,100,1
+704,Shell Trap,Fuoco,Speciale,???,VII,150,100,5
+705,Fleur Cannon,Folletto,Speciale,???,VII,130,90,5
+706,Psychic Fangs,Psico,Fisico,???,VII,85,100,10
+707,Stomping Tantrum,Terra,Fisico,???,VII,75,100,10
+708,Shadow Bone,Spettro,Fisico,???,VII,85,100,10
+709,Accelerock,Roccia,Fisico,???,VII,40,100,20
+710,Liquidation,Acqua,Fisico,???,VII,85,100,10
+711,Prismatic Laser,Psico,Speciale,???,VII,160,100,10
+712,Spectral Thief,Spettro,Fisico,???,VII,90,100,10
+713,Sunsteel Strike,Acciaio,Fisico,???,VII,100,100,5
+714,Moongeist Beam,Spettro,Speciale,???,VII,100,100,5
+715,Tearful Look,Normale,Stato,???,VII,80,100,20
+716,Zing Zap,Elettro,Fisico,???,VII,80,100,10
+717,Nature's Madness,Folletto,Speciale,???,VII,80,90,10
+718,Multi-Attack,Normale,Fisico,???,VII,90,100,10
+719,"10,000,000 Volt Thunderbolt",Elettro,Speciale,???,VII,195,100,1
+720,Mind Blown,Fuoco,Speciale,???,VII,150,100,5
+721,Plasma Fists,Elettro,Fisico,???,VII,100,100,15
+722,Photon Geyser,Psico,Speciale,???,VII,100,100,5
+723,Light That Burns the Sky,Psico,Speciale,???,VII,200,100,1
+724,Searing Sunraze Smash ,Acciaio,Fisico,???,VII,200,100,1
+725,Menacing Moonraze Maelstrom,Spettro,Speciale,???,VII,200,100,1
+726,Let's Snuggle Forever,Folletto,Fisico,???,VII,190,100,1
+727,Splintered Stormshards,Roccia,Fisico,???,VII,190,100,1
+728,Clangorous Soulblaze ,Drago,Speciale,???,VII,185,100,1
+729,Zippy Zap,Elettro,Fisico,???,VII,80,100,10
+730,Splishy Splash,Acqua,Speciale,???,VII,90,100,15
+731,Floaty Fall,Volante,Fisico,???,VII,90,95,15
+732,Pika Papow,Elettro,Speciale,???,VII,80,100,20
+733,Bouncy Bubble,Acqua,Speciale,???,VII,60,100,20
+734,Buzzy Buzz,Elettro,Speciale,???,VII,60,100,20
+735,Sizzly Slide,Fuoco,Fisico,???,VII,60,100,20
+736,Glitzy Glow,Psico,Speciale,???,VII,80,95,15
+737,Baddy Bad,Buio,Speciale,???,VII,80,95,15
+738,Sappy Seed,Erba,Fisico,???,VII,100,90,10
+739,Freezy Frost,Ghiaccio,Speciale,???,VII,100,90,10
+740,Sparkly Swirl,Folletto,Speciale,???,VII,120,85,5
+741,Veevee Volley,Normale,Fisico,???,VII,80,100,20
+742,Double Iron Bash,Acciaio,Fisico,???,VII,60,100,5
+743,Max Guard,Normale,Stato,???,VIII,80,100,10
+744,Dynamax Cannon,Drago,Speciale,???,VIII,100,100,5
+745,Snipe Shot,Acqua,Speciale,???,VIII,80,100,15
+746,Jaw Lock,Buio,Fisico,???,VIII,80,100,10
+747,Stuff Cheeks,Normale,Stato,???,VIII,80,100,10
+748,No Retreat,Lotta,Stato,???,VIII,80,100,5
+749,Tar Shot,Roccia,Stato,???,VIII,80,100,15
+750,Magic Powder,Psico,Stato,???,VIII,80,100,20
+751,Dragon Darts,Drago,Fisico,???,VIII,50,100,10
+752,Teatime,Normale,Stato,???,VIII,80,100,10
+753,Octolock,Lotta,Stato,???,VIII,80,100,15
+754,Bolt Beak,Elettro,Fisico,???,VIII,85,100,10
+755,Fishious Rend,Acqua,Fisico,???,VIII,85,100,10
+756,Court Change,Normale,Stato,???,VIII,80,100,10
+757,Max Flare,Fuoco,Fisico,???,VIII,80,100,10
+758,Max Flutterby,Coleottero,Fisico,???,VIII,80,100,10
+759,Max Lightning,Elettro,Fisico,???,VIII,80,100,10
+760,Max Strike,Normale,Fisico,???,VIII,80,100,10
+761,Max Knuckle,Lotta,Fisico,???,VIII,80,100,10
+762,Max Phantasm,Spettro,Fisico,???,VIII,80,100,10
+763,Max Hailstorm,Ghiaccio,Fisico,???,VIII,80,100,10
+764,Max Ooze,Veleno,Fisico,???,VIII,80,100,10
+765,Max Geyser,Acqua,Fisico,???,VIII,80,100,10
+766,Max Airstream,Volante,Fisico,???,VIII,80,100,10
+767,Max Starfall,Folletto,Fisico,???,VIII,80,100,10
+768,Max Wyrmwind,Drago,Fisico,???,VIII,80,100,10
+769,Max Mindstorm,Psico,Fisico,???,VIII,80,100,10
+770,Max Rockfall,Roccia,Fisico,???,VIII,80,100,10
+771,Max Quake,Terra,Fisico,???,VIII,80,100,10
+772,Max Darkness,Buio,Fisico,???,VIII,80,100,10
+773,Max Overgrowth,Erba,Fisico,???,VIII,80,100,10
+774,Max Steelspike,Acciaio,Fisico,???,VIII,80,100,10
+775,Clangorous Soul,Drago,Stato,???,VIII,80,100,5
+776,Body Press,Lotta,Fisico,???,VIII,80,100,10
+777,Decorate,Folletto,Stato,???,VIII,80,100,15
+778,Drum Beating,Erba,Fisico,???,VIII,80,100,10
+779,Snap Trap,Erba,Fisico,???,VIII,35,100,10
+780,Pyro Ball,Fuoco,Fisico,???,VIII,120,90,5
+781,Behemoth Blade,Acciaio,Fisico,???,VIII,100,100,5
+782,Behemoth Bash,Acciaio,Fisico,???,VIII,100,100,5
+783,Aura Wheel,Elettro,Fisico,???,VIII,110,100,10
+784,Breaking Swipe,Drago,Fisico,???,VIII,60,100,15
+785,Branch Poke,Erba,Fisico,???,VIII,40,100,40
+786,Overdrive,Elettro,Speciale,???,VIII,80,100,10
+787,Apple Acid,Erba,Speciale,???,VIII,80,100,10
+788,Grav Apple,Erba,Fisico,???,VIII,80,100,10
+789,Spirit Break,Folletto,Fisico,???,VIII,75,100,15
+790,Strange Steam,Folletto,Speciale,???,VIII,90,95,10
+791,Life Dew,Acqua,Stato,???,VIII,80,100,10
+792,Obstruct,Buio,Stato,???,VIII,80,100,10
+793,False Surrender,Buio,Fisico,???,VIII,80,100,10
+794,Meteor Assault,Lotta,Fisico,???,VIII,150,100,5
+795,Eternabeam,Drago,Speciale,???,VIII,160,90,5
+796,Steel Beam,Acciaio,Speciale,???,VIII,140,95,5
+797,Expanding Force,Psico,Speciale,???,VIII,80,100,10
+798,Steel Roller,Acciaio,Fisico,???,VIII,130,100,5
+799,Scale Shot,Drago,Fisico,???,VIII,25,90,20
+800,Meteor Beam,Roccia,Speciale,???,VIII,120,90,10
+801,Shell Side Arm,Veleno,Speciale,???,VIII,90,100,10
+802,Misty Explosion,Folletto,Speciale,???,VIII,100,100,5
+803,Grassy Glide,Erba,Fisico,???,VIII,70,100,20
+804,Rising Voltage,Elettro,Speciale,???,VIII,70,100,20
+805,Terrain Pulse,Normale,Speciale,???,VIII,50,100,10
+806,Skitter Smack,Coleottero,Fisico,???,VIII,70,90,10
+807,Burning Jealousy,Fuoco,Speciale,???,VIII,70,100,5
+808,Lash Out,Buio,Fisico,???,VIII,75,100,5
+809,Poltergeist,Spettro,Fisico,???,VIII,110,90,5
+810,Corrosive Gas,Veleno,Stato,???,VIII,80,100,40
+811,Coaching,Lotta,Stato,???,VIII,80,100,10
+812,Flip Turn,Acqua,Fisico,???,VIII,60,100,20
+813,Triple Axel,Ghiaccio,Fisico,???,VIII,20,90,10
+814,Dual Wingbeat,Volante,Fisico,???,VIII,40,90,10
+815,Scorching Sands,Terra,Speciale,???,VIII,70,100,10
+816,Jungle Healing,Erba,Stato,???,VIII,80,100,10
+817,Wicked Blow,Buio,Fisico,???,VIII,80,100,5
+818,Surging Strikes,Acqua,Fisico,???,VIII,25,100,5
+819,Thunder Cage,Elettro,Speciale,???,VIII,80,90,15
+820,Dragon Energy,Drago,Speciale,???,VIII,150,100,5
+821,Freezing Glare,Psico,Speciale,???,VIII,90,100,10
+822,Fiery Wrath,Buio,Speciale,???,VIII,90,100,10
+823,Thunderous Kick,Lotta,Fisico,???,VIII,90,100,10
+824,Glacial Lance,Ghiaccio,Fisico,???,VIII,130,100,5
+825,Astral Barrage,Spettro,Speciale,???,VIII,120,100,5
+826,Eerie Spell,Psico,Speciale,???,VIII,80,100,5
+827,Dire Claw,Veleno,Fisico,???,VIII,60,100,15
+828,Psyshield Bash,Psico,Fisico,???,VIII,70,90,10
+829,Power Shift,Normale,Stato,???,VIII,80,100,10
+830,Stone Axe,Roccia,Fisico,???,VIII,65,90,15
+831,Springtide Storm,Folletto,Speciale,???,VIII,95,80,5
+832,Mystical Power,Psico,Speciale,???,VIII,70,90,10
+833,Raging Fury,Fuoco,Fisico,???,VIII,90,85,10
+834,Wave Crash,Acqua,Fisico,???,VIII,75,100,10
+835,Chloroblast,Erba,Speciale,???,VIII,120,95,5
+836,Mountain Gale,Ghiaccio,Fisico,???,VIII,100,85,5
+837,Victory Dance,Lotta,Stato,???,VIII,80,100,10
+838,Headlong Rush,Terra,Fisico,???,VIII,100,100,5
+839,Barb Barrage,Veleno,Fisico,???,VIII,60,100,15
+840,Esper Wing,Psico,Speciale,???,VIII,75,90,10
+841,Bitter Malice,Spettro,Speciale,???,VIII,60,100,15
+842,Shelter,Acciaio,Stato,???,VIII,80,100,10
+843,Triple Arrows,Lotta,Fisico,???,VIII,50,100,15
+844,Infernal Parade,Spettro,Speciale,???,VIII,60,100,15
+845,Ceaseless Edge,Buio,Fisico,???,VIII,65,90,15
+846,Bleakwind Storm,Volante,Speciale,???,VIII,95,80,5
+847,Wildbolt Storm,Elettro,Speciale,???,VIII,95,80,5
+848,Sandsear Storm,Terra,Speciale,???,VIII,95,80,5
+849,Lunar Blessing,Psico,Stato,???,VIII,80,100,10
+850,Take Heart,Psico,Stato,???,VIII,80,100,10
+851,Tera Blast,Normale,Speciale,???,IX,80,100,10
+852,Silk Trap,Coleottero,Stato,???,IX,80,100,10
+853,Axe Kick,Lotta,Fisico,???,IX,120,90,10
+854,Last Respects,Spettro,Fisico,???,IX,50,100,10
+855,Lumina Crash,Psico,Speciale,???,IX,80,100,10
+856,Order Up,Drago,Fisico,???,IX,80,100,10
+857,Jet Punch,Acqua,Fisico,???,IX,60,100,15
+858,Spicy Extract,Erba,Stato,???,IX,80,100,15
+859,Spin Out,Acciaio,Fisico,???,IX,100,100,5
+860,Population Bomb,Normale,Fisico,???,IX,20,90,10
+861,Ice Spinner,Ghiaccio,Fisico,???,IX,80,100,15
+862,Glaive Rush,Drago,Fisico,???,IX,120,100,5
+863,Revival Blessing,Normale,Stato,???,IX,80,100,1
+864,Salt Cure,Roccia,Fisico,???,IX,40,100,15
+865,Triple Dive,Acqua,Fisico,???,IX,30,95,10
+866,Mortal Spin,Veleno,Fisico,???,IX,30,100,15
+867,Doodle,Normale,Stato,???,IX,80,100,10
+868,Fillet Away,Normale,Stato,???,IX,80,100,10
+869,Kowtow Cleave,Buio,Fisico,???,IX,85,100,10
+870,Flower Trick,Erba,Fisico,???,IX,70,100,10
+871,Torch Song,Fuoco,Speciale,???,IX,80,100,10
+872,Aqua Step,Acqua,Fisico,???,IX,80,100,10
+873,Raging Bull,Normale,Fisico,???,IX,90,100,10
+874,Make It Rain,Acciaio,Speciale,???,IX,120,100,5
+875,Psyblade,Normale,Fisico,???,IX,40,100,35
+876,Hydro Steam,Normale,Fisico,???,IX,40,100,35
+877,Ruination,Buio,Speciale,???,IX,80,90,10
+878,Collision Course,Lotta,Fisico,???,IX,100,100,5
+879,Electro Drift,Elettro,Speciale,???,IX,100,100,5
+880,Shed Tail,Normale,Stato,???,IX,80,100,10
+881,Chilly Reception,Ghiaccio,Stato,???,IX,80,100,10
+882,Tidy Up,Normale,Stato,???,IX,80,100,10
+883,Snowscape,Ghiaccio,Stato,???,IX,80,100,10
+884,Pounce,Coleottero,Fisico,???,IX,50,100,20
+885,Trailblaze,Erba,Fisico,???,IX,50,100,20
+886,Chilling Water,Acqua,Speciale,???,IX,50,100,20
+887,Hyper Drill,Normale,Fisico,???,IX,100,100,5
+888,Twin Beam,Psico,Speciale,???,IX,40,100,10
+889,Rage Fist,Spettro,Fisico,???,IX,50,100,10
+890,Armor Cannon,Fuoco,Speciale,???,IX,120,100,5
+891,Bitter Blade,Fuoco,Fisico,???,IX,90,100,10
+892,Double Shock,Elettro,Fisico,???,IX,120,100,5
+893,Gigaton Hammer,Acciaio,Fisico,???,IX,160,100,5
+894,Comeuppance,Buio,Fisico,???,IX,80,100,10
+895,Aqua Cutter,Acqua,Fisico,???,IX,70,100,20
+896,Blazing Torque ,Fuoco,Fisico,???,IX,80,100,10
+897,Wicked Torque,Buio,Fisico,???,IX,80,100,10
+898,Noxious Torque,Veleno,Fisico,???,IX,100,100,10
+899,Combat Torque,Lotta,Fisico,???,IX,100,100,10
+900,Magical Torque,Folletto,Fisico,???,IX,100,100,10
