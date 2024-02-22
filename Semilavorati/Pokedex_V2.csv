@@ -1,5 +1,4 @@
 N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco sp.,Difesa sp.,Velocità,Totale,Media,Mossa 1,Mossa 2,Mossa 3,Mossa 4,Forte 1 Contro,Forte 2 Contro,Debole 1 Contro,Debole 2 Contro
-#0000,Missingno,,Normale,,Pokèmon Glitch,Base,0,0,0,0,0,0,0,"0,00",,,,,–,–,Lotta,–
 #0001,Bulbasaur,,Erba,Veleno,Pokémon Seme,Base,45,49,49,65,65,45,318,"53,00",Frenzy Plant,Knock Off,Light Screen,Protect,Terra - Roccia - Acqua,Folletto - Erba,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Terra - Psico
 #0002,Ivysaur,,Erba,Veleno,Pokémon Seme,Stadio 1,60,62,63,80,80,60,405,"67,50",Frenzy Plant,Knock Off,Light Screen,Protect,Terra - Roccia - Acqua,Folletto - Erba,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Terra - Psico
 #0003,Venusaur,Forma Normale,Erba,Veleno,Pokémon Seme,Stadio 2,80,82,83,100,100,80,525,"87,50",Earth Power,Earthquake,Frenzy Plant,Knock Off,Terra - Roccia - Acqua,Folletto - Erba,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Terra - Psico
@@ -9,23 +8,7 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0007,Squirtle,,Acqua,,Pokémon Tartaghina,Base,44,48,65,50,64,43,314,"52,33",Fake Out,Flip Turn,Hydro Cannon,Hydro Pump,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0008,Wartortle,,Acqua,,Pokémon Tartaruga,Stadio 1,59,63,80,65,80,58,405,"67,50",Fake Out,Flip Turn,Hydro Cannon,Hydro Pump,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0009,Blastoise,Forma Normale,Acqua,,Pokémon Crostaceo,Stadio 2,79,83,100,85,105,78,530,"88,33",Blizzard,Dark Pulse,Earthquake,Fake Out,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0010,Caterpie,,Coleottero,,Pokémon Baco,Base,45,30,35,20,20,45,195,"32,50",,,,,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
-#0011,Metapod,,Coleottero,,Pokémon Bozzolo,Stadio 1,50,20,55,25,25,30,205,"34,17",,,,,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
 #0012,Butterfree,Forma Normale,Coleottero,Volante,Pokémon Farfalla,Stadio 2,60,45,50,80,80,70,385,"64,17",Air Slash,Baton Pass,Bug Buzz,Hurricane,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0013,Weedle,,Coleottero,Veleno,Pokémon Millepiedi,Base,40,35,30,20,20,50,195,"32,50",,,,,Erba - Buio - Psico,Folletto - Erba,Fuoco - Volante - Roccia,Terra - Psico
-#0014,Kakuna,,Coleottero,Veleno,Pokémon Bozzolo,Stadio 1,45,25,50,25,25,35,205,"34,17",,,,,Erba - Buio - Psico,Folletto - Erba,Fuoco - Volante - Roccia,Terra - Psico
-#0015,Beedrill,Forma Normale,Coleottero,Veleno,Pokémon Velenape,Stadio 2,65,90,40,45,80,75,395,"65,83",,,,,Erba - Buio - Psico,Folletto - Erba,Fuoco - Volante - Roccia,Terra - Psico
-#0016,Pidgey,,Normale,Volante,Pokémon Uccellino,Base,40,45,40,35,35,56,251,"41,83",,,,,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
-#0017,Pidgeotto,,Normale,Volante,Pokémon Uccello,Stadio 1,63,60,55,50,50,71,349,"58,17",,,,,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
-#0018,Pidgeot,Forma Normale,Normale,Volante,Pokémon Uccello,Stadio 2,83,80,75,70,70,101,479,"79,83",,,,,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
-#0019,Rattata,Forma Normale,Normale,,Pokémon Topo,Base,30,56,35,25,35,72,253,"42,17",,,,,–,–,Lotta,–
-#0019,Rattata,Forma Alola,Buio,Normale,Pokémon Topo,Base,30,56,35,25,35,72,253,"42,17",,,,,Spettro - Psico,–,Coleottero - Folletto - Lotta,Lotta
-#0020,Raticate,Forma Normale,Normale,,Pokémon Topo,Stadio 1,55,81,60,50,70,97,413,"68,83",,,,,–,–,Lotta,–
-#0020,Raticate,Forma Alola,Buio,Normale,Pokémon Topo,Stadio 1,75,71,70,40,80,77,413,"68,83",,,,,Spettro - Psico,–,Coleottero - Folletto - Lotta,Lotta
-#0021,Spearow,,Normale,Volante,Pokémon Uccellino,Base,40,60,30,31,31,70,262,"43,67",,,,,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
-#0022,Fearow,,Normale,Volante,Pokémon Becco,Stadio 1,65,90,65,61,61,100,442,"73,67",,,,,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
-#0023,Ekans,,Veleno,,Pokémon Serpente,Base,35,60,44,40,54,55,288,"48,00",,,,,Folletto - Erba,–,Terra - Psico,–
-#0024,Arbok,,Veleno,,Pokémon Cobra,Stadio 1,60,95,69,65,79,80,448,"74,67",,,,,Folletto - Erba,–,Terra - Psico,–
 #0025,Pikachu,Forma Normale,Elettro,,Pokémon Topo,Stadio 1,35,55,40,50,50,90,320,"53,33",Brick Break,Fake Out,Knock Off,Light Screen,Volante - Acqua,–,Terra,–
 #0026,Raichu,Forma Normale,Elettro,,Pokémon Topo,Stadio 1,60,90,55,90,80,110,485,"80,83",Brutal Swing,Charm,Eerie Impulse,Electroweb,Volante - Acqua,–,Terra,–
 #0026,Raichu,Forma Alola,Elettro,Psico,Pokémon Topo,Stadio 1,60,85,50,95,85,110,485,"80,83",Brutal Swing,Charm,Eerie Impulse,Electroweb,Volante - Acqua,Lotta - Veleno,Terra,Coleottero - Buio - Spettro
@@ -33,10 +16,8 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0027,Sandshrew,Forma Alola,Ghiaccio,Acciaio,Pokémon Topo,Base,50,75,90,10,35,40,300,"50,00",Earthquake,Knock Off,Protect,Rapid Spin,Drago - Volante - Erba - Terra,Folletto - Ghiaccio - Roccia,Lotta - Fuoco - Roccia - Acciaio,Lotta - Fuoco - Terra
 #0028,Sandslash,Forma Normale,Terra,,Pokémon Topo,Stadio 1,75,100,110,45,55,65,450,"75,00",Brick Break,Bulldoze,Drill Run,Earthquake,Elettro - Fuoco - Veleno - Roccia - Acciaio,–,Erba - Ghiaccio - Acqua,–
 #0028,Sandslash,Forma Alola,Ghiaccio,Acciaio,Pokémon Topo,Stadio 1,75,100,120,25,65,65,450,"75,00",Brick Break,Bulldoze,Drill Run,Earthquake,Drago - Volante - Erba - Terra,Folletto - Ghiaccio - Roccia,Lotta - Fuoco - Roccia - Acciaio,Lotta - Fuoco - Terra
-#0029,Nidoran♀,,Veleno,,Pokémon Velenago,Base,55,47,52,40,40,41,275,"45,83",,,,,Folletto - Erba,–,Terra - Psico,–
 #0030,Nidorina,,Veleno,,Pokémon Velenago,Stadio 1,70,62,67,55,55,56,365,"60,83",Ice Beam,Protect,Reflect,Rest,Folletto - Erba,–,Terra - Psico,–
 #0031,Nidoqueen,,Veleno,Terra,Pokémon Trapano,Stadio 2,90,92,87,75,85,76,505,"84,17",Earth Power,Earthquake,Flamethrower,Ice Beam,Folletto - Erba,Elettro - Fuoco - Veleno - Roccia - Acciaio,Terra - Psico,Erba - Ghiaccio - Acqua
-#0032,Nidoran♂,,Veleno,,Pokémon Velenago,Base,46,57,40,40,40,50,273,"45,50",,,,,Folletto - Erba,–,Terra - Psico,–
 #0033,Nidorino,,Veleno,,Pokémon Velenago,Stadio 1,61,72,57,55,55,65,365,"60,83",Head Smash,Ice Beam,Protect,Reflect,Folletto - Erba,–,Terra - Psico,–
 #0034,Nidoking,,Veleno,Terra,Pokémon Trapano,Stadio 2,81,102,77,85,75,85,505,"84,17",Earth Power,Earthquake,Flamethrower,Head Smash,Folletto - Erba,Elettro - Fuoco - Veleno - Roccia - Acciaio,Terra - Psico,Erba - Ghiaccio - Acqua
 #0035,Clefairy,,Folletto,,Pokémon Fata,Stadio 1,70,45,48,60,65,35,323,"53,83",Baton Pass,Dazzling Gleam,Follow Me,Helping Hand,Lotta - Buio - Drago,–,Veleno - Acciaio,–
@@ -52,10 +33,6 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0043,Oddish,,Erba,Veleno,Pokémon Malerba,Base,45,50,55,75,65,30,320,"53,33",Protect,Reflect,Rest,Toxic,Terra - Roccia - Acqua,Folletto - Erba,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Terra - Psico
 #0044,Gloom,,Erba,Veleno,Pokémon Malerba,Stadio 1,60,65,70,85,75,40,395,"65,83",Protect,Reflect,Rest,Toxic,Terra - Roccia - Acqua,Folletto - Erba,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Terra - Psico
 #0045,Vileplume,,Erba,Veleno,Pokémon Fiore,Stadio 2,75,80,85,110,90,50,490,"81,67",After You,Energy Ball,Giga Drain,Grassy Terrain,Terra - Roccia - Acqua,Folletto - Erba,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Terra - Psico
-#0046,Paras,,Coleottero,Erba,Pokémon Fungo,Base,35,70,55,45,55,25,285,"47,50",,,,,Erba - Buio - Psico,Terra - Roccia - Acqua,Fuoco - Volante - Roccia,Coleottero - Fuoco - Volante - Ghiaccio - Veleno
-#0047,Parasect,,Coleottero,Erba,Pokémon Fungo,Stadio 1,60,95,80,60,80,30,405,"67,50",,,,,Erba - Buio - Psico,Terra - Roccia - Acqua,Fuoco - Volante - Roccia,Coleottero - Fuoco - Volante - Ghiaccio - Veleno
-#0048,Venonat,,Coleottero,Veleno,Pokémon Insetto,Base,60,55,50,40,55,45,305,"50,83",,,,,Erba - Buio - Psico,Folletto - Erba,Fuoco - Volante - Roccia,Terra - Psico
-#0049,Venomoth,,Coleottero,Veleno,Pokémon Velentarma,Stadio 1,70,65,60,90,75,90,450,"75,00",,,,,Erba - Buio - Psico,Folletto - Erba,Fuoco - Volante - Roccia,Terra - Psico
 #0050,Diglett,Forma Normale,Terra,,Pokémon Talpa,Base,10,55,25,35,45,95,265,"44,17",Earthquake,Protect,Rest,Stealth Rock,Elettro - Fuoco - Veleno - Roccia - Acciaio,–,Erba - Ghiaccio - Acqua,–
 #0050,Diglett,Forma Alola,Terra,Acciaio,Pokémon Talpa,Base,10,55,30,35,45,90,265,"44,17",Earthquake,Protect,Rest,Stealth Rock,Elettro - Fuoco - Veleno - Roccia - Acciaio,Folletto - Ghiaccio - Roccia,Erba - Ghiaccio - Acqua,Lotta - Fuoco - Terra
 #0051,Dugtrio,Forma Normale,Terra,,Pokémon Talpa,Stadio 1,35,100,50,50,70,120,425,"70,83",Ally Switch,Beat Up,Earthquake,Memento,Elettro - Fuoco - Veleno - Roccia - Acciaio,–,Erba - Ghiaccio - Acqua,–
@@ -67,8 +44,6 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0053,Persian,Forma Alola,Buio,,Pokémon Nobilgatto,Stadio 1,65,60,60,75,65,115,440,"73,33",Fake Out,Knock Off,Protect,Rest,Spettro - Psico,–,Coleottero - Folletto - Lotta,–
 #0054,Psyduck,,Acqua,,Pokémon Papero,Base,50,52,48,65,50,55,320,"53,33",Hydro Pump,Ice Beam,Light Screen,Protect,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0055,Golduck,,Acqua,,Pokémon Papero,Stadio 1,80,82,78,95,80,85,500,"83,33",Aqua Jet,Clear Smog,Flip Turn,Hydro Pump,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0056,Mankey,,Lotta,,Pokémon Suinpanzé,Base,40,80,35,35,45,70,305,"50,83",,,,,Buio - Ghiaccio - Normale - Roccia - Acciaio,–,Folletto - Volante - Psico,–
-#0057,Primeape,,Lotta,,Pokémon Suinpanzé,Stadio 1,65,105,60,60,70,95,455,"75,83",,,,,Buio - Ghiaccio - Normale - Roccia - Acciaio,–,Folletto - Volante - Psico,–
 #0058,Growlithe,Forma Normale,Fuoco,,Pokémon Cagnolino,Base,55,70,45,70,50,60,350,"58,33",Howl,Protect,Reflect,Rest,Coleottero - Erba - Ghiaccio - Acciaio,–,Terra - Roccia - Acqua,–
 #0058,Growlithe,Forma Hisui,Fuoco,Roccia,Pokémon Esplorante,Base,60,75,45,65,50,55,350,"58,33",Howl,Protect,Reflect,Rest,Coleottero - Erba - Ghiaccio - Acciaio,Coleottero - Fuoco - Volante - Ghiaccio,Terra - Roccia - Acqua,Lotta - Erba - Terra - Acciaio - Acqua
 #0059,Arcanine,Forma Normale,Fuoco,,Pokémon Leggenda,Stadio 1,90,110,80,100,80,95,555,"92,50",Bulldoze,Burn Up,Close Combat,Dig,Coleottero - Erba - Ghiaccio - Acciaio,–,Terra - Roccia - Acqua,–
@@ -82,17 +57,8 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0066,Machop,,Lotta,,Pokémon Megaforza,Base,70,80,50,35,35,35,305,"50,83",Earthquake,Knock Off,Light Screen,Protect,Buio - Ghiaccio - Normale - Roccia - Acciaio,–,Folletto - Volante - Psico,–
 #0067,Machoke,,Lotta,,Pokémon Megaforza,Stadio 1,80,100,70,50,60,45,405,"67,50",Earthquake,Knock Off,Light Screen,Protect,Buio - Ghiaccio - Normale - Roccia - Acciaio,–,Folletto - Volante - Psico,–
 #0068,Machamp,Forma Normale,Lotta,,Pokémon Megaforza,Stadio 2,90,130,80,65,85,55,505,"84,17",Bulk Up,Bullet Punch,Close Combat,Earthquake,Buio - Ghiaccio - Normale - Roccia - Acciaio,–,Folletto - Volante - Psico,–
-#0069,Bellsprout,,Erba,Veleno,Pokémon Fiore,Base,50,75,35,70,30,40,300,"50,00",,,,,Terra - Roccia - Acqua,Folletto - Erba,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Terra - Psico
-#0070,Weepinbell,,Erba,Veleno,Pokémon Moschivoro,Stadio 1,65,90,50,85,45,55,390,"65,00",,,,,Terra - Roccia - Acqua,Folletto - Erba,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Terra - Psico
-#0071,Victreebel,,Erba,Veleno,Pokémon Moschivoro,Stadio 2,80,105,65,100,70,70,490,"81,67",,,,,Terra - Roccia - Acqua,Folletto - Erba,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Terra - Psico
 #0072,Tentacool,,Acqua,Veleno,Pokémon Medusa,Base,40,40,35,50,100,70,335,"55,83",Hydro Pump,Ice Beam,Knock Off,Protect,Fuoco - Terra - Roccia,Folletto - Erba,Elettro - Erba,Terra - Psico
 #0073,Tentacruel,,Acqua,Veleno,Pokémon Medusa,Stadio 1,80,70,65,80,120,100,515,"85,83",Blizzard,Dazzling Gleam,Giga Drain,Hydro Pump,Fuoco - Terra - Roccia,Folletto - Erba,Elettro - Erba,Terra - Psico
-#0074,Geodude,Forma Normale,Roccia,Terra,Pokémon Roccia,Base,40,80,100,30,30,20,300,"50,00",,,,,Coleottero - Fuoco - Volante - Ghiaccio,Elettro - Fuoco - Veleno - Roccia - Acciaio,Lotta - Erba - Terra - Acciaio - Acqua,Erba - Ghiaccio - Acqua
-#0074,Geodude,Forma Alola,Roccia,Elettro,Pokémon Roccia,Base,40,80,100,30,30,20,300,"50,00",,,,,Coleottero - Fuoco - Volante - Ghiaccio,Volante - Acqua,Lotta - Erba - Terra - Acciaio - Acqua,Terra
-#0075,Graveler,Forma Normale,Roccia,Terra,Pokémon Roccia,Stadio 1,55,95,115,45,45,35,390,"65,00",,,,,Coleottero - Fuoco - Volante - Ghiaccio,Elettro - Fuoco - Veleno - Roccia - Acciaio,Lotta - Erba - Terra - Acciaio - Acqua,Erba - Ghiaccio - Acqua
-#0075,Graveler,Forma Alola,Roccia,Elettro,Pokémon Roccia,Stadio 1,55,95,115,45,45,35,390,"65,00",,,,,Coleottero - Fuoco - Volante - Ghiaccio,Volante - Acqua,Lotta - Erba - Terra - Acciaio - Acqua,Terra
-#0076,Golem,Forma Normale,Roccia,Terra,Pokémon Megatone,Stadio 2,80,120,130,55,65,45,495,"82,50",,,,,Coleottero - Fuoco - Volante - Ghiaccio,Elettro - Fuoco - Veleno - Roccia - Acciaio,Lotta - Erba - Terra - Acciaio - Acqua,Erba - Ghiaccio - Acqua
-#0076,Golem,Forma Alola,Roccia,Elettro,Pokémon Megatone,Stadio 2,80,120,130,55,65,45,495,"82,50",,,,,Coleottero - Fuoco - Volante - Ghiaccio,Volante - Acqua,Lotta - Erba - Terra - Acciaio - Acqua,Terra
 #0077,Ponyta,Forma Normale,Fuoco,,Pokémon Cavalfuoco,Base,50,85,55,65,65,90,410,"68,33",Protect,Reflect,Rest,Toxic,Coleottero - Erba - Ghiaccio - Acciaio,–,Terra - Roccia - Acqua,–
 #0077,Ponyta,Forma Galar,Psico,Folletto,Pokémon Singolcorno,Base,50,85,55,65,65,90,410,"68,33",Protect,Reflect,Rest,Toxic,Lotta - Veleno,Lotta - Buio - Drago,Coleottero - Buio - Spettro,Veleno - Acciaio
 #0078,Rapidash,Forma Normale,Fuoco,,Pokémon Cavalfuoco,Stadio 1,65,100,70,80,80,105,500,"83,33",Baton Pass,Protect,Reflect,Rest,Coleottero - Erba - Ghiaccio - Acciaio,–,Terra - Roccia - Acqua,–
@@ -105,36 +71,20 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0082,Magneton,,Elettro,Acciaio,Pokémon Calamita,Stadio 1,50,60,95,120,70,70,465,"77,50",Discharge,Flash Cannon,Light Screen,Metal Sound,Volante - Acqua,Folletto - Ghiaccio - Roccia,Terra,Lotta - Fuoco - Terra
 #0083,Farfetch'd,Forma Normale,Normale,Volante,Pokémon Selvanatra,Base,52,90,55,58,62,60,377,"62,83",Baton Pass,Knock Off,Protect,Reflect,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
 #0083,Farfetch'd,Forma Galar,Lotta,,Pokémon Selvanatra,Base,52,95,55,58,62,55,377,"62,83",Knock Off,Protect,Rest,,Buio - Ghiaccio - Normale - Roccia - Acciaio,–,Folletto - Volante - Psico,–
-#0084,Doduo,,Normale,Volante,Pokémon Biuccello,Base,35,85,45,35,35,75,310,"51,67",,,,,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
-#0085,Dodrio,,Normale,Volante,Pokémon Triuccello,Stadio 1,60,110,70,60,60,110,470,"78,33",,,,,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
-#0086,Seel,,Acqua,,Pokémon Otaria,Base,65,45,55,45,70,45,325,"54,17",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0087,Dewgong,,Acqua,Ghiaccio,Pokémon Otaria,Stadio 1,90,70,80,70,95,70,475,"79,17",,,,,Fuoco - Terra - Roccia,Drago - Volante - Erba - Terra,Elettro - Erba,Lotta - Fuoco - Roccia - Acciaio
-#0088,Grimer,Forma Normale,Veleno,,Pokémon Melma,Base,80,80,50,40,50,25,325,"54,17",,,,,Folletto - Erba,–,Terra - Psico,–
-#0088,Grimer,Forma Alola,Veleno,Buio,Pokémon Melma,Base,80,80,50,40,50,25,325,"54,17",,,,,Folletto - Erba,Spettro - Psico,Terra - Psico,Coleottero - Folletto - Lotta
-#0089,Muk,Forma Normale,Veleno,,Pokémon Melma,Stadio 1,105,105,75,65,100,50,500,"83,33",,,,,Folletto - Erba,–,Terra - Psico,–
-#0089,Muk,Forma Alola,Veleno,Buio,Pokémon Melma,Stadio 1,105,105,75,65,100,50,500,"83,33",,,,,Folletto - Erba,Spettro - Psico,Terra - Psico,Coleottero - Folletto - Lotta
 #0090,Shellder,,Acqua,,Pokémon Bivalve,Base,30,65,100,45,25,40,305,"50,83",Hydro Pump,Ice Beam,Protect,Rapid Spin,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0091,Cloyster,,Acqua,Ghiaccio,Pokémon Bivalve,Stadio 1,50,95,180,85,45,70,525,"87,50",Hydro Pump,Ice Beam,Ice Shard,Icicle Crash,Fuoco - Terra - Roccia,Drago - Volante - Erba - Terra,Elettro - Erba,Lotta - Fuoco - Roccia - Acciaio
 #0092,Gastly,,Spettro,Veleno,Pokémon Gas,Base,30,35,30,100,35,80,310,"51,67",Destiny Bond,Knock Off,Protect,Rest,Spettro - Psico,Folletto - Erba,Buio - Spettro,Terra - Psico
 #0093,Haunter,,Spettro,Veleno,Pokémon Gas,Stadio 1,45,50,45,115,55,95,405,"67,50",Destiny Bond,Knock Off,Protect,Rest,Spettro - Psico,Folletto - Erba,Buio - Spettro,Terra - Psico
 #0094,Gengar,Forma Normale,Spettro,Veleno,Pokémon Ombra,Stadio 2,60,65,60,130,75,110,500,"83,33",Dazzling Gleam,Destiny Bond,Icy Wind,Imprison,Spettro - Psico,Folletto - Erba,Buio - Spettro,Terra - Psico
 #0095,Onix,,Roccia,Terra,Pokémon Serpesasso,Base,35,45,160,30,45,70,385,"64,17",Earthquake,Head Smash,Protect,Rest,Coleottero - Fuoco - Volante - Ghiaccio,Elettro - Fuoco - Veleno - Roccia - Acciaio,Lotta - Erba - Terra - Acciaio - Acqua,Erba - Ghiaccio - Acqua
-#0096,Drowzee,,Psico,,Pokémon Ipnosi,Base,60,48,45,43,90,42,328,"54,67",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0097,Hypno,,Psico,,Pokémon Ipnosi,Stadio 1,85,73,70,73,115,67,483,"80,50",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
 #0098,Krabby,,Acqua,,Pokémon Granchio,Base,30,105,90,25,25,50,325,"54,17",Ice Beam,Knock Off,Protect,Rest,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0099,Kingler,Forma Normale,Acqua,,Pokémon Chela,Stadio 1,55,130,115,50,50,75,475,"79,17",Brick Break,Crabhammer,Guillotine,High Horsepower,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0100,Voltorb,Forma Normale,Elettro,,Pokémon Ball,Base,40,30,50,55,55,100,330,"55,00",,,,,Volante - Acqua,–,Terra,–
-#0100,Voltorb,Forma Hisui,Erba,Elettro,Pokémon Sfera,Base,40,30,50,55,55,100,330,"55,00",,,,,Terra - Roccia - Acqua,Volante - Acqua,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Terra
-#0101,Electrode,Forma Normale,Elettro,,Pokémon Ball,Stadio 1,60,50,70,80,80,150,490,"81,67",,,,,Volante - Acqua,–,Terra,–
-#0101,Electrode,Forma Hisui,Erba,Elettro,Pokémon Sfera,Stadio 1,60,50,70,80,80,150,490,"81,67",,,,,Terra - Roccia - Acqua,Volante - Acqua,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Terra
 #0102,Exeggcute,,Erba,Psico,Pokémon Uovo,Base,60,40,80,60,45,40,325,"54,17",Light Screen,Protect,Reflect,Rest,Terra - Roccia - Acqua,Lotta - Veleno,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Coleottero - Buio - Spettro
 #0103,Exeggutor,Forma Normale,Erba,Psico,Pokémon Nocecocco,Stadio 1,95,95,85,125,75,55,530,"88,33",Ancient Power,Energy Ball,Expanding Force,Giga Drain,Terra - Roccia - Acqua,Lotta - Veleno,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Coleottero - Buio - Spettro
 #0103,Exeggutor,Forma Alola,Erba,Drago,Pokémon Nocecocco,Stadio 1,95,105,85,125,75,45,530,"88,33",Dragon Pulse,Earthquake,Energy Ball,Flamethrower,Terra - Roccia - Acqua,Drago,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Drago - Folletto - Ghiaccio
 #0104,Cubone,,Terra,,Pokémon Solitario,Base,50,50,95,40,50,35,320,"53,33",Earthquake,Ice Beam,Knock Off,Protect,Elettro - Fuoco - Veleno - Roccia - Acciaio,–,Erba - Ghiaccio - Acqua,–
 #0105,Marowak,Forma Normale,Terra,,Pokémon Guardaossi,Stadio 1,60,80,110,50,80,45,425,"70,83",Bonemerang,Brick Break,Earthquake,Fire Punch,Elettro - Fuoco - Veleno - Roccia - Acciaio,–,Erba - Ghiaccio - Acqua,–
 #0105,Marowak,Forma Alola,Fuoco,Spettro,Pokémon Guardaossi,Stadio 1,60,80,110,50,80,45,425,"70,83",Bonemerang,Brick Break,Earthquake,Fire Punch,Coleottero - Erba - Ghiaccio - Acciaio,Spettro - Psico,Terra - Roccia - Acqua,Buio - Spettro
-#0106,Hitmonlee,,Lotta,,Pokémon Tiracalci,Stadio 1,50,120,53,35,110,87,455,"75,83",,,,,Buio - Ghiaccio - Normale - Roccia - Acciaio,–,Folletto - Volante - Psico,–
-#0107,Hitmonchan,,Lotta,,Pokémon Tirapugni,Stadio 1,50,105,79,35,110,76,455,"75,83",,,,,Buio - Ghiaccio - Normale - Roccia - Acciaio,–,Folletto - Volante - Psico,–
 #0108,Lickitung,,Normale,,Pokémon Linguaccia,Base,90,55,75,60,75,30,385,"64,17",Earthquake,Hydro Pump,Ice Beam,Knock Off,–,–,Lotta,–
 #0109,Koffing,,Veleno,,Pokémon Velenuvola,Base,40,65,95,60,45,35,340,"56,67",Destiny Bond,Protect,Rest,Taunt,Folletto - Erba,–,Terra - Psico,–
 #0110,Weezing,Forma Normale,Veleno,,Pokémon Velenuvola,Stadio 1,65,90,120,85,70,60,490,"81,67",Destiny Bond,Protect,Rest,Sludge Bomb,Folletto - Erba,–,Terra - Psico,–
@@ -143,25 +93,20 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0112,Rhydon,,Terra,Roccia,Pokémon Trapano,Stadio 1,105,130,120,45,45,40,485,"80,83",Earthquake,Hydro Pump,Ice Beam,Protect,Elettro - Fuoco - Veleno - Roccia - Acciaio,Coleottero - Fuoco - Volante - Ghiaccio,Erba - Ghiaccio - Acqua,Lotta - Erba - Terra - Acciaio - Acqua
 #0113,Chansey,,Normale,,Pokémon Uovo,Stadio 1,250,5,5,35,105,50,450,"75,00",Earthquake,Flamethrower,Gravity,Ice Beam,–,–,Lotta,–
 #0114,Tangela,,Erba,,Pokémon Liana,Base,65,55,115,100,40,60,435,"72,50",Knock Off,Leech Seed,Protect,Rage Powder,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0115,Kangaskhan,Forma Normale,Normale,,Pokémon Genitore,Base,105,95,80,40,80,90,490,"81,67",,Earthquake,Fake Out,Hydro Pump,–,–,Lotta,–
-#0116,Horsea,,Acqua,,Pokémon Drago,Base,30,40,70,70,25,60,295,"49,17",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
+#0115,Kangaskhan,Forma Normale,Normale,,Pokémon Genitore,Base,105,95,80,40,80,90,490,"81,67",Earthquake,Fake Out,Hydro Pump,,–,–,Lotta,–
 #0117,Seadra,,Acqua,,Pokémon Drago,Stadio 1,55,65,95,95,45,85,440,"73,33",Flip Turn,Hydro Pump,Ice Beam,Protect,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0118,Goldeen,,Acqua,,Pokémon Pescerosso,Base,45,67,60,35,50,63,320,"53,33",Flip Turn,Hydro Pump,Ice Beam,Knock Off,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0119,Seaking,,Acqua,,Pokémon Pescerosso,Stadio 1,80,92,65,65,80,68,450,"75,00",Aqua Tail,Drill Run,Flip Turn,Horn Drill,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0120,Staryu,,Acqua,,Pokémon Stella,Base,30,45,55,70,55,85,340,"56,67",Flip Turn,Hydro Pump,Ice Beam,Light Screen,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0121,Starmie,,Acqua,Psico,Pokémon Misterioso,Stadio 1,60,75,85,100,85,115,520,"86,67",Dazzling Gleam,Expanding Force,Flip Turn,Hydro Pump,Fuoco - Terra - Roccia,Lotta - Veleno,Elettro - Erba,Coleottero - Buio - Spettro
-#0122,Mr. Mime,Forma Normale,Psico,Folletto,Pokémon Barriera,Base,40,45,65,100,120,90,460,"76,67",,,,,Lotta - Veleno,Lotta - Buio - Drago,Coleottero - Buio - Spettro,Veleno - Acciaio
-#0122,Mr. Mime,Forma Galar,Psico,Ghiaccio,Pokémon Danza,Base,50,65,65,90,90,100,460,"76,67",,,,,Lotta - Veleno,Drago - Volante - Erba - Terra,Coleottero - Buio - Spettro,Lotta - Fuoco - Roccia - Acciaio
 #0123,Scyther,,Coleottero,Volante,Pokémon Mantide,Base,70,110,80,55,80,105,500,"83,33",Assurance,Baton Pass,Brick Break,Brutal Swing,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
 #0124,Jynx,,Ghiaccio,Psico,Pokémon Umanoide,Stadio 1,65,50,35,115,95,95,455,"75,83",Fake Out,Ice Beam,Icy Wind,Light Screen,Drago - Volante - Erba - Terra,Lotta - Veleno,Lotta - Fuoco - Roccia - Acciaio,Coleottero - Buio - Spettro
 #0125,Electabuzz,,Elettro,,Pokémon Elettrico,Stadio 1,65,83,57,95,85,105,490,"81,67",Light Screen,Protect,Reflect,Rest,Volante - Acqua,–,Terra,–
 #0126,Magmar,,Fuoco,,Pokémon Sputafuoco,Stadio 1,65,95,57,100,85,93,495,"82,50",Protect,Rest,Taunt,Teleport,Coleottero - Erba - Ghiaccio - Acciaio,–,Terra - Roccia - Acqua,–
 #0127,Pinsir,Forma Normale,Coleottero,,Pokémon Cervolante,Base,65,125,100,55,70,85,500,"83,33",Earthquake,Knock Off,Protect,Rest,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
 #0128,Tauros,,Normale,,Pokémon Torobrado,Base,75,100,95,40,70,110,490,"81,67",Body Slam,Close Combat,Double-Edge,Earthquake,–,–,Lotta,–
-#0129,Magikarp,,Acqua,,Pokémon Pesce,Base,20,10,55,15,20,80,200,"33,33",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0130,Gyarados,Forma Normale,Acqua,Volante,Pokémon Atroce,Stadio 1,95,125,79,60,100,81,540,"90,00",Avalanche,Bounce,Dragon Dance,Earthquake,Fuoco - Terra - Roccia,Coleottero - Lotta - Erba,Elettro - Erba,Elettro - Ghiaccio - Roccia
 #0131,Lapras,Forma Normale,Acqua,Ghiaccio,Pokémon Trasporto,Base,130,85,80,85,95,60,535,"89,17",Blizzard,Freeze-Dry,Hydro Pump,Ice Beam,Fuoco - Terra - Roccia,Drago - Volante - Erba - Terra,Elettro - Erba,Lotta - Fuoco - Roccia - Acciaio
-#0132,Ditto,,Normale,,Pokémon Mutante,Base,48,48,48,48,48,48,288,"48,00",,,,,–,–,Lotta,–
 #0133,Eevee,Forma Normale,Normale,,Pokémon Evoluzione,Base,55,55,50,45,65,55,325,"54,17",Baton Pass,Protect,Reflect,Rest,–,–,Lotta,–
 #0134,Vaporeon,,Acqua,,Pokémon Bollajet,Stadio 1,130,65,60,110,95,65,525,"87,50",Baton Pass,Blizzard,Flip Turn,Haze,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0135,Jolteon,,Elettro,,Pokémon Luminoso,Stadio 1,65,65,60,110,95,130,525,"87,50",Baton Pass,Charm,Detect,Discharge,Volante - Acqua,–,Terra,–
@@ -184,24 +129,7 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0149,Dragonite,,Drago,Volante,Pokémon Drago,Stadio 2,91,134,95,100,100,80,600,"100,00",Aqua Jet,Breaking Swipe,Draco Meteor,Dragon Claw,Drago,Coleottero - Lotta - Erba,Drago - Folletto - Ghiaccio,Elettro - Ghiaccio - Roccia
 #0150,Mewtwo,Forma Normale,Psico,,Pokémon Genetico,Base,106,110,90,154,90,130,680,"113,33",Earthquake,Ice Beam,Light Screen,Protect,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
 #0151,Mew,,Psico,,Pokémon Novaspecie,Base,100,100,100,100,100,100,600,"100,00",Baton Pass,Earthquake,Fake Out,Flip Turn,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0152,Chikorita,,Erba,,Pokémon Foglia,Base,45,49,65,49,65,45,318,"53,00",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0153,Bayleef,,Erba,,Pokémon Foglia,Stadio 1,60,62,80,63,80,60,405,"67,50",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0154,Meganium,,Erba,,Pokémon Erbe,Stadio 2,80,82,100,83,100,80,525,"87,50",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0155,Cyndaquil,,Fuoco,,Pokémon Fuocotopo,Base,39,52,43,60,50,65,309,"51,50",,,,,Coleottero - Erba - Ghiaccio - Acciaio,–,Terra - Roccia - Acqua,–
-#0156,Quilava,,Fuoco,,Pokémon Vulcano,Stadio 1,58,64,58,80,65,80,405,"67,50",,,,,Coleottero - Erba - Ghiaccio - Acciaio,–,Terra - Roccia - Acqua,–
-#0157,Typhlosion,Forma Normale,Fuoco,,Pokémon Vulcano,Stadio 2,78,84,78,109,85,100,534,"89,00",,,,,Coleottero - Erba - Ghiaccio - Acciaio,–,Terra - Roccia - Acqua,–
-#0157,Typhlosion,Forma Hisui,Fuoco,Spettro,Pokémon Fuocofatuo,Stadio 2,73,84,78,119,85,95,534,"89,00",,,,,Coleottero - Erba - Ghiaccio - Acciaio,Spettro - Psico,Terra - Roccia - Acqua,Buio - Spettro
-#0158,Totodile,,Acqua,,Pokémon Mascellone,Base,50,65,64,44,48,43,314,"52,33",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0159,Croconaw,,Acqua,,Pokémon Mascellone,Stadio 1,65,80,80,59,63,58,405,"67,50",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0160,Feraligatr,,Acqua,,Pokémon Mascellone,Stadio 2,85,105,100,79,83,78,530,"88,33",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0161,Sentret,,Normale,,Pokémon Esplorante,Base,35,46,34,35,45,20,215,"35,83",,,,,–,–,Lotta,–
-#0162,Furret,,Normale,,Pokémon Lungocorpo,Stadio 1,85,76,64,45,55,90,415,"69,17",,,,,–,–,Lotta,–
-#0163,Hoothoot,,Normale,Volante,Pokémon Gufo,Base,60,30,30,36,56,50,262,"43,67",,,,,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
 #0164,Noctowl,,Normale,Volante,Pokémon Gufo,Stadio 1,100,50,50,86,96,70,452,"75,33",Calm Mind,Dream Eater,Heat Wave,Hurricane,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
-#0165,Ledyba,,Coleottero,Volante,Pokémon Pentastra,Base,40,20,30,40,80,55,265,"44,17",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0166,Ledian,,Coleottero,Volante,Pokémon Pentastra,Stadio 1,55,35,50,55,110,85,390,"65,00",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0167,Spinarak,,Coleottero,Veleno,Pokémon Tela,Base,40,60,40,40,40,30,250,"41,67",,,,,Erba - Buio - Psico,Folletto - Erba,Fuoco - Volante - Roccia,Terra - Psico
-#0168,Ariados,,Coleottero,Veleno,Pokémon Lungazampa,Stadio 1,70,90,70,60,70,40,400,"66,67",,,,,Erba - Buio - Psico,Folletto - Erba,Fuoco - Volante - Roccia,Terra - Psico
 #0169,Crobat,,Veleno,Volante,Pokémon Pipistrello,Stadio 2,85,90,80,70,80,130,535,"89,17",Absorb,Brave Bird,Cross Poison,Defog,Folletto - Erba,Coleottero - Lotta - Erba,Terra - Psico,Elettro - Ghiaccio - Roccia
 #0170,Chinchou,,Acqua,Elettro,Pokémon Pescatore,Base,75,38,38,56,56,67,330,"55,00",Hydro Pump,Ice Beam,Protect,Rest,Fuoco - Terra - Roccia,Volante - Acqua,Elettro - Erba,Terra
 #0171,Lanturn,,Acqua,Elettro,Pokémon Luce,Stadio 1,125,58,58,76,76,67,460,"76,67",Hydro Pump,Ice Beam,Protect,Rest,Fuoco - Terra - Roccia,Volante - Acqua,Elettro - Erba,Terra
@@ -212,66 +140,20 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0176,Togetic,,Folletto,Volante,Pokémon Felicità,Stadio 1,55,40,85,80,105,40,405,"67,50",Baton Pass,Dazzling Gleam,Follow Me,Helping Hand,Lotta - Buio - Drago,Coleottero - Lotta - Erba,Veleno - Acciaio,Elettro - Ghiaccio - Roccia
 #0177,Natu,,Psico,Volante,Pokémon Uccellino,Base,40,50,45,70,45,70,320,"53,33",Baton Pass,Light Screen,Protect,Reflect,Lotta - Veleno,Coleottero - Lotta - Erba,Coleottero - Buio - Spettro,Elettro - Ghiaccio - Roccia
 #0178,Xatu,,Psico,Volante,Pokémon Magico,Stadio 1,65,75,70,95,70,95,470,"78,33",Baton Pass,Light Screen,Protect,Reflect,Lotta - Veleno,Coleottero - Lotta - Erba,Coleottero - Buio - Spettro,Elettro - Ghiaccio - Roccia
-#0179,Mareep,,Elettro,,Pokémon Lana,Base,55,40,40,65,45,35,280,"46,67",,,,,Volante - Acqua,–,Terra,–
-#0180,Flaaffy,,Elettro,,Pokémon Lana,Stadio 1,70,55,55,80,60,45,365,"60,83",,,,,Volante - Acqua,–,Terra,–
-#0181,Ampharos,Forma Normale,Elettro,,Pokémon Luce,Stadio 2,90,75,85,115,90,55,510,"85,00",,,,,Volante - Acqua,–,Terra,–
 #0182,Bellossom,,Erba,,Pokémon Fiore,Stadio 2,75,80,95,90,100,50,490,"81,67",Baton Pass,Protect,Reflect,Rest,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
 #0183,Marill,,Acqua,Folletto,Pokémon Acquatopo,Stadio 1,70,20,50,20,50,40,250,"41,67",Hydro Pump,Ice Beam,Knock Off,Light Screen,Fuoco - Terra - Roccia,Lotta - Buio - Drago,Elettro - Erba,Veleno - Acciaio
 #0184,Azumarill,,Acqua,Folletto,Pokémon Acquniglio,Stadio 2,100,50,80,60,80,50,420,"70,00",Aqua Jet,Belly Drum,Hydro Pump,Ice Beam,Fuoco - Terra - Roccia,Lotta - Buio - Drago,Elettro - Erba,Veleno - Acciaio
 #0185,Sudowoodo,,Roccia,,Pokémon Imitazione,Stadio 1,70,100,115,30,65,30,410,"68,33",Earthquake,Head Smash,Protect,Rest,Coleottero - Fuoco - Volante - Ghiaccio,–,Lotta - Erba - Terra - Acciaio - Acqua,–
 #0186,Politoed,,Acqua,,Pokémon Rana,Stadio 2,90,75,75,90,100,70,500,"83,33",Earth Power,Earthquake,Haze,Helping Hand,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0187,Hoppip,,Erba,Volante,Pokémon Gramigna,Base,35,35,40,35,55,50,250,"41,67",,,,,Terra - Roccia - Acqua,Coleottero - Lotta - Erba,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Elettro - Ghiaccio - Roccia
-#0188,Skiploom,,Erba,Volante,Pokémon Gramigna,Stadio 1,55,45,50,45,65,80,340,"56,67",,,,,Terra - Roccia - Acqua,Coleottero - Lotta - Erba,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Elettro - Ghiaccio - Roccia
-#0189,Jumpluff,,Erba,Volante,Pokémon Gramigna,Stadio 2,75,55,70,55,95,110,460,"76,67",,,,,Terra - Roccia - Acqua,Coleottero - Lotta - Erba,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Elettro - Ghiaccio - Roccia
-#0190,Aipom,,Normale,,Pokémon Lungacoda,Base,55,70,55,40,55,85,360,"60,00",,,,,–,–,Lotta,–
-#0191,Sunkern,,Erba,,Pokémon Seme,Base,30,30,30,30,30,30,180,"30,00",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0192,Sunflora,,Erba,,Pokémon Sole,Stadio 1,75,75,55,105,85,30,425,"70,83",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0193,Yanma,,Coleottero,Volante,Pokémon Alachiara,Base,65,65,45,75,45,95,390,"65,00",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
 #0194,Wooper,,Acqua,Terra,Pokémon Acquapesce,Base,55,45,45,25,25,15,210,"35,00",Earthquake,Hydro Pump,Ice Beam,Protect,Fuoco - Terra - Roccia,Elettro - Fuoco - Veleno - Roccia - Acciaio,Elettro - Erba,Erba - Ghiaccio - Acqua
 #0195,Quagsire,,Acqua,Terra,Pokémon Acquapesce,Stadio 1,95,85,85,65,65,35,430,"71,67",Earthquake,Haze,High Horsepower,Hydro Pump,Fuoco - Terra - Roccia,Elettro - Fuoco - Veleno - Roccia - Acciaio,Elettro - Erba,Erba - Ghiaccio - Acqua
 #0196,Espeon,,Psico,,Pokémon Sole,Stadio 1,65,65,60,130,95,110,525,"87,50",Baton Pass,Dazzling Gleam,Expanding Force,Fake Tears,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
 #0197,Umbreon,,Buio,,Pokémon Lucelunare,Stadio 1,95,65,110,60,130,65,525,"87,50",Baton Pass,Fake Tears,Foul Play,Helping Hand,Spettro - Psico,–,Coleottero - Folletto - Lotta,–
-#0198,Murkrow,,Buio,Volante,Pokémon Oscurità,Base,60,85,42,85,42,91,405,"67,50",,,,,Spettro - Psico,Coleottero - Lotta - Erba,Coleottero - Folletto - Lotta,Elettro - Ghiaccio - Roccia
 #0199,Slowking,Forma Normale,Acqua,Psico,Pokémon Reale,Stadio 1,95,75,80,100,110,30,490,"81,67",Earthquake,Expanding Force,Heal Pulse,Hydro Pump,Fuoco - Terra - Roccia,Lotta - Veleno,Elettro - Erba,Coleottero - Buio - Spettro
 #0199,Slowking,Forma Galar,Veleno,Psico,Pokémon Stregone,Stadio 1,95,65,80,110,110,30,490,"81,67",Earthquake,Expanding Force,Heal Pulse,Hydro Pump,Folletto - Erba,Lotta - Veleno,Terra - Psico,Coleottero - Buio - Spettro
-#0200,Misdreavus,,Spettro,,Pokémon Strido,Base,60,60,60,85,85,85,435,"72,50",,,,,Spettro - Psico,–,Buio - Spettro,–
-#0201,Unown,Normale,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,A,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,B,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,C,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,D,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,E,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,F,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,G,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,H,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,I,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,J,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,K,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,L,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,M,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,O,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,P,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,Q,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,R,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,S,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,T,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,U,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,V,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,W,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,X,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,Y,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,Z,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,!,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0201,Unown,?,Psico,,Pokémon Simbolo,Base,48,72,48,72,48,48,336,"56,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
 #0202,Wobbuffet,,Psico,,Pokémon Pazienza,Stadio 1,190,33,58,33,58,33,405,"67,50",Destiny Bond,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0203,Girafarig,,Normale,Psico,Pokémon Lungocollo,Base,70,80,65,90,65,85,455,"75,83",,,,,–,Lotta - Veleno,Lotta,Coleottero - Buio - Spettro
-#0204,Pineco,,Coleottero,,Pokémon Larva,Base,50,65,90,35,35,15,290,"48,33",,,,,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
-#0205,Forretress,,Coleottero,Acciaio,Pokémon Larva,Stadio 1,75,90,140,60,60,40,465,"77,50",,,,,Erba - Buio - Psico,Folletto - Ghiaccio - Roccia,Fuoco - Volante - Roccia,Lotta - Fuoco - Terra
 #0206,Dunsparce,,Normale,,Pokémon Terraserpe,Base,100,70,70,65,65,45,415,"69,17",Air Slash,Amnesia,Aqua Tail,Baton Pass,–,–,Lotta,–
-#0207,Gligar,,Terra,Volante,Pokémon Aliscorpio,Base,65,75,105,35,65,85,430,"71,67",,,,,Elettro - Fuoco - Veleno - Roccia - Acciaio,Coleottero - Lotta - Erba,Erba - Ghiaccio - Acqua,Elettro - Ghiaccio - Roccia
 #0208,Steelix,Forma Normale,Acciaio,Terra,Pokémon Ferroserpe,Stadio 1,75,85,200,55,65,30,510,"85,00",Earthquake,Gyro Ball,Head Smash,High Horsepower,Folletto - Ghiaccio - Roccia,Elettro - Fuoco - Veleno - Roccia - Acciaio,Lotta - Fuoco - Terra,Erba - Ghiaccio - Acqua
-#0209,Snubbull,,Folletto,,Pokémon Fata,Base,60,80,50,40,40,30,300,"50,00",,,,,Lotta - Buio - Drago,–,Veleno - Acciaio,–
-#0210,Granbull,,Folletto,,Pokémon Fata,Stadio 1,90,120,75,60,60,45,450,"75,00",,,,,Lotta - Buio - Drago,–,Veleno - Acciaio,–
 #0211,Qwilfish,Forma Normale,Acqua,Veleno,Pokémon Pallone,Base,65,95,85,55,55,85,440,"73,33",Acid Spray,Acupressure,Aqua Jet,Destiny Bond,Fuoco - Terra - Roccia,Folletto - Erba,Elettro - Erba,Terra - Psico
 #0211,Qwilfish,Forma Hisui,Buio,Veleno,Pokémon Pallone,Base,65,95,85,55,55,85,440,"73,33",Acid Spray,Acupressure,Aqua Jet,Destiny Bond,Spettro - Psico,Folletto - Erba,Coleottero - Folletto - Lotta,Terra - Psico
 #0212,Scizor,Forma Normale,Coleottero,Acciaio,Pokémon Chela,Stadio 1,70,130,100,55,80,65,500,"83,33",Baton Pass,Bullet Punch,Dual Wingbeat,Iron Head,Erba - Buio - Psico,Folletto - Ghiaccio - Roccia,Fuoco - Volante - Roccia,Lotta - Fuoco - Terra
@@ -279,10 +161,6 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0214,Heracross,Forma Normale,Coleottero,Lotta,Pokémon Monocorno,Base,80,125,75,40,95,85,500,"83,33",Brick Break,Earthquake,Knock Off,Megahorn,Erba - Buio - Psico,Buio - Ghiaccio - Normale - Roccia - Acciaio,Fuoco - Volante - Roccia,Folletto - Volante - Psico
 #0215,Sneasel,Forma Normale,Buio,Ghiaccio,Pokémon Lamartigli,Base,55,95,55,35,75,115,430,"71,67",Beat Up,Fake Out,Fake Tears,Foul Play,Spettro - Psico,Drago - Volante - Erba - Terra,Coleottero - Folletto - Lotta,Lotta - Fuoco - Roccia - Acciaio
 #0215,Sneasel,Forma Hisui,Lotta,Veleno,Pokémon Lamartigli,Base,55,95,55,35,75,115,430,"71,67",Beat Up,Fake Out,Fake Tears,Foul Play,Buio - Ghiaccio - Normale - Roccia - Acciaio,Folletto - Erba,Folletto - Volante - Psico,Terra - Psico
-#0216,Teddiursa,,Normale,,Pokémon Orsetto,Base,60,80,50,50,50,40,330,"55,00",,,,,–,–,Lotta,–
-#0217,Ursaring,,Normale,,Pokémon Letargo,Stadio 1,90,130,75,75,75,55,500,"83,33",,,,,–,–,Lotta,–
-#0218,Slugma,,Fuoco,,Pokémon Lava,Base,40,40,40,70,40,20,250,"41,67",,,,,Coleottero - Erba - Ghiaccio - Acciaio,–,Terra - Roccia - Acqua,–
-#0219,Magcargo,,Fuoco,Roccia,Pokémon Lava,Stadio 1,60,50,120,90,80,30,430,"71,67",,,,,Coleottero - Erba - Ghiaccio - Acciaio,Coleottero - Fuoco - Volante - Ghiaccio,Terra - Roccia - Acqua,Lotta - Erba - Terra - Acciaio - Acqua
 #0220,Swinub,,Ghiaccio,Terra,Pokémon Maiale,Base,50,50,40,30,30,50,250,"41,67",Earthquake,Ice Beam,Light Screen,Protect,Drago - Volante - Erba - Terra,Elettro - Fuoco - Veleno - Roccia - Acciaio,Lotta - Fuoco - Roccia - Acciaio,Erba - Ghiaccio - Acqua
 #0221,Piloswine,,Ghiaccio,Terra,Pokémon Suino,Stadio 1,100,100,80,60,60,50,450,"75,00",Earthquake,Ice Beam,Light Screen,Protect,Drago - Volante - Erba - Terra,Elettro - Fuoco - Veleno - Roccia - Acciaio,Lotta - Fuoco - Roccia - Acciaio,Erba - Ghiaccio - Acqua
 #0222,Corsola,Forma Normale,Acqua,Roccia,Pokémon Corallo,Base,65,55,95,65,95,35,410,"68,33",Earthquake,Head Smash,Hydro Pump,Ice Beam,Fuoco - Terra - Roccia,Coleottero - Fuoco - Volante - Ghiaccio,Elettro - Erba,Lotta - Erba - Terra - Acciaio - Acqua
@@ -292,16 +170,9 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0225,Delibird,,Ghiaccio,Volante,Pokémon Consegna,Base,45,55,45,65,45,75,330,"55,00",Baton Pass,Brave Bird,Brick Break,Destiny Bond,Drago - Volante - Erba - Terra,Coleottero - Lotta - Erba,Lotta - Fuoco - Roccia - Acciaio,Elettro - Ghiaccio - Roccia
 #0226,Mantine,,Acqua,Volante,Pokémon Aquilone,Stadio 1,85,40,70,80,140,70,485,"80,83",Earthquake,Hurricane,Hydro Pump,Ice Beam,Fuoco - Terra - Roccia,Coleottero - Lotta - Erba,Elettro - Erba,Elettro - Ghiaccio - Roccia
 #0227,Skarmory,,Acciaio,Volante,Pokémon Armuccello,Base,65,80,140,40,70,70,465,"77,50",Body Press,Brave Bird,Protect,Rest,Folletto - Ghiaccio - Roccia,Coleottero - Lotta - Erba,Lotta - Fuoco - Terra,Elettro - Ghiaccio - Roccia
-#0228,Houndour,,Buio,Fuoco,Pokémon Buio,Base,45,60,30,80,50,65,330,"55,00",,,,,Spettro - Psico,Coleottero - Erba - Ghiaccio - Acciaio,Coleottero - Folletto - Lotta,Terra - Roccia - Acqua
-#0229,Houndoom,Forma Normale,Buio,Fuoco,Pokémon Buio,Stadio 1,75,90,50,110,80,95,500,"83,33",,,,,Spettro - Psico,Coleottero - Erba - Ghiaccio - Acciaio,Coleottero - Folletto - Lotta,Terra - Roccia - Acqua
 #0230,Kingdra,,Acqua,Drago,Pokémon Drago,Stadio 2,75,95,95,95,95,85,540,"90,00",Blizzard,Draco Meteor,Dragon Pulse,Flip Turn,Fuoco - Terra - Roccia,Drago,Elettro - Erba,Drago - Folletto - Ghiaccio
-#0231,Phanpy,,Terra,,Pokémon Nasone,Base,90,60,60,40,40,40,330,"55,00",,,,,Elettro - Fuoco - Veleno - Roccia - Acciaio,–,Erba - Ghiaccio - Acqua,–
-#0232,Donphan,,Terra,,Pokémon Armatura,Stadio 1,90,120,120,60,60,50,500,"83,33",,,,,Elettro - Fuoco - Veleno - Roccia - Acciaio,–,Erba - Ghiaccio - Acqua,–
 #0233,Porygon2,,Normale,,Pokémon Virtuale,Stadio 1,85,80,90,105,95,60,515,"85,83",Ally Switch,Ice Beam,Protect,Recover,–,–,Lotta,–
-#0234,Stantler,,Normale,,Pokémon Grancorno,Base,73,95,62,85,65,85,465,"77,50",,,,,–,–,Lotta,–
-#0235,Smeargle,,Normale,,Pokémon Pittore,Base,55,20,35,20,45,75,250,"41,67",,,,,–,–,Lotta,–
 #0236,Tyrogue,,Lotta,,Pokémon Baruffa,Baby,35,35,35,35,35,35,210,"35,00",Earthquake,Fake Out,Protect,Rapid Spin,Buio - Ghiaccio - Normale - Roccia - Acciaio,–,Folletto - Volante - Psico,–
-#0237,Hitmontop,,Lotta,,Pokémon Verticale,Stadio 1,50,95,95,35,110,70,455,"75,83",,,,,Buio - Ghiaccio - Normale - Roccia - Acciaio,–,Folletto - Volante - Psico,–
 #0238,Smoochum,,Ghiaccio,Psico,Pokémon Bacio,Baby,45,30,15,85,65,65,305,"50,83",Fake Out,Ice Beam,Light Screen,Protect,Drago - Volante - Erba - Terra,Lotta - Veleno,Lotta - Fuoco - Roccia - Acciaio,Coleottero - Buio - Spettro
 #0239,Elekid,,Elettro,,Pokémon Elettrico,Baby,45,63,37,65,55,95,360,"60,00",Light Screen,Protect,Rest,Toxic,Volante - Acqua,–,Terra,–
 #0240,Magby,,Fuoco,,Pokémon Carbonvivo,Baby,45,75,37,70,55,83,365,"60,83",Protect,Rest,Toxic,,Coleottero - Erba - Ghiaccio - Acciaio,–,Terra - Roccia - Acqua,–
@@ -314,7 +185,6 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0247,Pupitar,,Roccia,Terra,Pokémon Guscioduro,Stadio 1,70,84,70,65,70,51,410,"68,33",Earthquake,Protect,Rest,Snarl,Coleottero - Fuoco - Volante - Ghiaccio,Elettro - Fuoco - Veleno - Roccia - Acciaio,Lotta - Erba - Terra - Acciaio - Acqua,Erba - Ghiaccio - Acqua
 #0248,Tyranitar,Forma Normale,Roccia,Buio,Pokémon Armatura,Stadio 2,100,134,110,95,100,61,600,"100,00",Assurance,Crunch,Earthquake,Fire Punch,Coleottero - Fuoco - Volante - Ghiaccio,Spettro - Psico,Lotta - Erba - Terra - Acciaio - Acqua,Coleottero - Folletto - Lotta
 #0249,Lugia,,Psico,Volante,Pokémon Immersione,Base,106,90,130,90,154,110,680,"113,33",Earthquake,Hydro Pump,Ice Beam,Light Screen,Lotta - Veleno,Coleottero - Lotta - Erba,Coleottero - Buio - Spettro,Elettro - Ghiaccio - Roccia
-#0250,Ho-Oh,,Fuoco,Volante,Pokémon Arcobaleno,Base,106,130,90,110,154,90,680,"113,33",,,,,Coleottero - Erba - Ghiaccio - Acciaio,Coleottero - Lotta - Erba,Terra - Roccia - Acqua,Elettro - Ghiaccio - Roccia
 #0251,Celebi,,Psico,Erba,Pokémon Tempovia,Base,100,100,100,100,100,100,600,"100,00",Baton Pass,Light Screen,Protect,Reflect,Lotta - Veleno,Terra - Roccia - Acqua,Coleottero - Buio - Spettro,Coleottero - Fuoco - Volante - Ghiaccio - Veleno
 #0252,Treecko,,Erba,,Pokémon Legnogeco,Base,40,45,35,65,55,70,310,"51,67",Protect,Rest,Toxic,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
 #0253,Grovyle,,Erba,,Pokémon Legnogeco,Stadio 1,50,65,45,85,65,95,405,"67,50",Protect,Rest,Toxic,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
@@ -325,84 +195,46 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0258,Mudkip,,Acqua,,Pokémon Fango Pesce,Base,50,70,50,50,50,40,310,"51,67",Hydro Pump,Ice Beam,Protect,Rest,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0259,Marshtomp,,Acqua,Terra,Pokémon Fango Pesce,Stadio 1,70,85,70,60,70,50,405,"67,50",Earthquake,Hydro Pump,Ice Beam,Protect,Fuoco - Terra - Roccia,Elettro - Fuoco - Veleno - Roccia - Acciaio,Elettro - Erba,Erba - Ghiaccio - Acqua
 #0260,Swampert,Forma Normale,Acqua,Terra,Pokémon Fango Pesce,Stadio 2,100,110,90,85,90,60,535,"89,17",Counter,Earth Power,Earthquake,Flip Turn,Fuoco - Terra - Roccia,Elettro - Fuoco - Veleno - Roccia - Acciaio,Elettro - Erba,Erba - Ghiaccio - Acqua
-#0261,Poochyena,,Buio,,Pokémon Morso,Base,35,55,35,30,30,35,220,"36,67",,,,,Spettro - Psico,–,Coleottero - Folletto - Lotta,–
-#0262,Mightyena,,Buio,,Pokémon Morso,Stadio 1,70,90,70,60,60,70,420,"70,00",,,,,Spettro - Psico,–,Coleottero - Folletto - Lotta,–
 #0263,Zigzagoon,Forma Normale,Buio,Normale,Pokémon Procione,Base,38,30,41,30,41,60,240,"40,00",Ice Beam,Protect,Rest,Toxic,Spettro - Psico,–,Coleottero - Folletto - Lotta,Lotta
 #0263,Zigzagoon,Forma Galar,Normale,,Pokémon Procione,Base,38,30,41,30,41,60,240,"40,00",Ice Beam,Protect,Rest,Toxic,–,–,Lotta,–
 #0264,Linoone,Forma Normale,Buio,Normale,Pokémon Sfrecciante,Stadio 1,78,70,61,50,61,100,420,"70,00",Ice Beam,Protect,Rest,Toxic,Spettro - Psico,–,Coleottero - Folletto - Lotta,Lotta
 #0264,Linoone,Forma Galar,Normale,,Pokémon Sfrecciante,Stadio 1,78,70,61,50,61,100,420,"70,00",Ice Beam,Protect,Rest,Toxic,–,–,Lotta,–
-#0265,Wurmple,,Coleottero,,Pokémon Baco,Base,45,45,35,20,30,20,195,"32,50",,,,,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
-#0266,Silcoon,,Coleottero,,Pokémon Bozzolo,Stadio 1,50,35,55,25,25,15,205,"34,17",,,,,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
-#0267,Beautifly,,Coleottero,Volante,Pokémon Farfalla,Stadio 2,60,70,50,100,50,65,395,"65,83",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0268,Cascoon,,Coleottero,,Pokémon Bozzolo,Stadio 1,50,35,55,25,25,15,205,"34,17",,,,,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
-#0269,Dustox,,Coleottero,Veleno,Pokémon Velentarma,Stadio 2,60,50,70,50,90,65,385,"64,17",,,,,Erba - Buio - Psico,Folletto - Erba,Fuoco - Volante - Roccia,Terra - Psico
 #0270,Lotad,,Acqua,Erba,Pokémon Alga,Base,40,30,30,40,50,30,220,"36,67",Ice Beam,Protect,Rest,Scald,Fuoco - Terra - Roccia,Terra - Roccia - Acqua,Elettro - Erba,Coleottero - Fuoco - Volante - Ghiaccio - Veleno
 #0271,Lombre,,Acqua,Erba,Pokémon Giocoso,Stadio 1,60,50,50,60,70,50,340,"56,67",Fake Out,Hydro Pump,Ice Beam,Knock Off,Fuoco - Terra - Roccia,Terra - Roccia - Acqua,Elettro - Erba,Coleottero - Fuoco - Volante - Ghiaccio - Veleno
 #0272,Ludicolo,,Acqua,Erba,Pokémon Spensierato,Stadio 2,80,70,70,90,100,70,480,"80,00",Energy Ball,Fake Out,Giga Drain,Hydro Pump,Fuoco - Terra - Roccia,Terra - Roccia - Acqua,Elettro - Erba,Coleottero - Fuoco - Volante - Ghiaccio - Veleno
 #0273,Seedot,,Erba,,Pokémon Ghianda,Base,40,40,50,30,30,30,220,"36,67",Protect,Rest,Toxic,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
 #0274,Nuzleaf,,Erba,Buio,Pokémon Scaltro,Stadio 1,70,70,40,60,40,60,340,"56,67",Fake Out,Protect,Rest,Snarl,Terra - Roccia - Acqua,Spettro - Psico,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Coleottero - Folletto - Lotta
 #0275,Shiftry,,Erba,Buio,Pokémon Burbero,Stadio 2,90,100,60,90,60,80,480,"80,00",Fake Out,Knock Off,Protect,Rest,Terra - Roccia - Acqua,Spettro - Psico,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Coleottero - Folletto - Lotta
-#0276,Taillow,,Normale,Volante,Pokémon Rondinella,Base,40,55,30,30,30,85,270,"45,00",,,,,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
-#0277,Swellow,,Normale,Volante,Pokémon Rondine,Stadio 1,60,85,60,75,50,125,455,"75,83",,,,,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
 #0278,Wingull,,Acqua,Volante,Pokémon Gabbiano,Base,40,30,30,55,30,85,270,"45,00",Ice Beam,Knock Off,Protect,Rest,Fuoco - Terra - Roccia,Coleottero - Lotta - Erba,Elettro - Erba,Elettro - Ghiaccio - Roccia
 #0279,Pelipper,,Acqua,Volante,Pokémon Alacquatico,Stadio 1,60,50,100,95,70,65,440,"73,33",Hurricane,Hydro Pump,Ice Beam,Knock Off,Fuoco - Terra - Roccia,Coleottero - Lotta - Erba,Elettro - Erba,Elettro - Ghiaccio - Roccia
 #0280,Ralts,,Psico,Folletto,Pokémon Sensazione,Base,28,25,25,45,35,40,198,"33,00",Destiny Bond,Knock Off,Light Screen,Protect,Lotta - Veleno,Lotta - Buio - Drago,Coleottero - Buio - Spettro,Veleno - Acciaio
 #0281,Kirlia,,Psico,Folletto,Pokémon Emozione,Stadio 1,38,35,35,65,55,50,278,"46,33",Destiny Bond,Knock Off,Light Screen,Protect,Lotta - Veleno,Lotta - Buio - Drago,Coleottero - Buio - Spettro,Veleno - Acciaio
 #0282,Gardevoir,Forma Normale,Psico,Folletto,Pokémon Abbraccio,Stadio 2,68,65,65,125,115,80,518,"86,33",Ally Switch,Dazzling Gleam,Destiny Bond,Energy Ball,Lotta - Veleno,Lotta - Buio - Drago,Coleottero - Buio - Spettro,Veleno - Acciaio
-#0283,Surskit,,Coleottero,Acqua,Pokémon Sfiorapozze,Base,40,30,32,50,52,65,269,"44,83",,,,,Erba - Buio - Psico,Fuoco - Terra - Roccia,Fuoco - Volante - Roccia,Elettro - Erba
-#0284,Masquerain,,Coleottero,Volante,Pokémon Occhi,Stadio 1,70,60,62,100,82,80,454,"75,67",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0285,Shroomish,,Erba,,Pokémon Fungo,Base,60,40,60,40,60,35,295,"49,17",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0286,Breloom,,Erba,Lotta,Pokémon Fungo,Stadio 1,60,130,80,60,60,70,460,"76,67",,,,,Terra - Roccia - Acqua,Buio - Ghiaccio - Normale - Roccia - Acciaio,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Folletto - Volante - Psico
-#0287,Slakoth,,Normale,,Pokémon Ozioso,Base,60,60,60,35,35,30,280,"46,67",,,,,–,–,Lotta,–
-#0288,Vigoroth,,Normale,,Pokémon Indocile,Stadio 1,80,80,80,55,55,90,440,"73,33",,,,,–,–,Lotta,–
-#0289,Slaking,,Normale,,Pokémon Pigrizia,Stadio 2,150,160,100,95,65,100,670,"111,67",,,,,–,–,Lotta,–
 #0290,Nincada,,Coleottero,Terra,Pokémon Novizio,Base,31,45,90,30,30,40,266,"44,33",Protect,Rest,Toxic,,Erba - Buio - Psico,Elettro - Fuoco - Veleno - Roccia - Acciaio,Fuoco - Volante - Roccia,Erba - Ghiaccio - Acqua
 #0291,Ninjask,,Coleottero,Volante,Pokémon Ninja,Stadio 1,61,90,45,50,50,160,456,"76,00",Acrobatics,Baton Pass,Dig,Dual Wingbeat,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
 #0292,Shedinja,,Coleottero,Spettro,Pokémon Cambiapelle,Sotto-Stadio,1,90,45,30,30,40,236,"39,33",Ally Switch,Baton Pass,Phantom Force,Poltergeist,Erba - Buio - Psico,Spettro - Psico,Fuoco - Volante - Roccia,Buio - Spettro
 #0293,Whismur,,Normale,,Pokémon Sussurro,Base,64,51,23,51,23,28,240,"40,00",Howl,Ice Beam,Protect,Rest,–,–,Lotta,–
 #0294,Loudred,,Normale,,Pokémon Vocione,Stadio 1,84,71,43,71,43,48,360,"60,00",Earthquake,Howl,Ice Beam,Protect,–,–,Lotta,–
-#0295,Exploud,,Normale,,Pokémon Fragore,Stadio 2,104,91,63,91,73,68,490,"81,67",,Blizzard,Boomburst,Earthquake,–,–,Lotta,–
-#0296,Makuhita,,Lotta,,Pokémon Coraggio,Base,72,60,30,20,30,25,237,"39,50",,,,,Buio - Ghiaccio - Normale - Roccia - Acciaio,–,Folletto - Volante - Psico,–
-#0297,Hariyama,,Lotta,,Pokémon Sberletese,Stadio 1,144,120,60,40,60,50,474,"79,00",,,,,Buio - Ghiaccio - Normale - Roccia - Acciaio,–,Folletto - Volante - Psico,–
+#0295,Exploud,,Normale,,Pokémon Fragore,Stadio 2,104,91,63,91,73,68,490,"81,67",Blizzard,Boomburst,Earthquake,,–,–,Lotta,–
 #0298,Azurill,,Normale,Folletto,Pokémon Pois,Baby,50,20,40,20,40,20,190,"31,67",Ice Beam,Knock Off,Light Screen,Protect,–,Lotta - Buio - Drago,Lotta,Veleno - Acciaio
-#0299,Nosepass,,Roccia,,Pokémon Bussola,Base,30,45,135,45,90,30,375,"62,50",,,,,Coleottero - Fuoco - Volante - Ghiaccio,–,Lotta - Erba - Terra - Acciaio - Acqua,–
-#0300,Skitty,,Normale,,Pokémon Micio,Base,50,45,45,35,35,50,260,"43,33",,,,,–,–,Lotta,–
-#0301,Delcatty,,Normale,,Pokémon Finezza,Stadio 1,70,65,65,55,55,90,400,"66,67",,,,,–,–,Lotta,–
 #0302,Sableye,Forma Normale,Buio,Spettro,Pokémon Oscurità,Base,50,75,75,65,65,50,380,"63,33",Ally Switch,Fake Out,Foul Play,Helping Hand,Spettro - Psico,Spettro - Psico,Coleottero - Folletto - Lotta,Buio - Spettro
 #0303,Mawile,Forma Normale,Acciaio,Folletto,Pokémon Inganno,Base,50,85,85,55,55,50,380,"63,33",Baton Pass,Ice Beam,Knock Off,Protect,Folletto - Ghiaccio - Roccia,Lotta - Buio - Drago,Lotta - Fuoco - Terra,Veleno - Acciaio
 #0304,Aron,,Acciaio,Roccia,Pokémon Corazza,Base,50,70,100,40,40,30,330,"55,00",Earthquake,Head Smash,Protect,Rest,Folletto - Ghiaccio - Roccia,Coleottero - Fuoco - Volante - Ghiaccio,Lotta - Fuoco - Terra,Lotta - Erba - Terra - Acciaio - Acqua
 #0305,Lairon,,Acciaio,Roccia,Pokémon Corazza,Stadio 1,60,90,140,50,50,40,430,"71,67",Earthquake,Head Smash,Protect,Rest,Folletto - Ghiaccio - Roccia,Coleottero - Fuoco - Volante - Ghiaccio,Lotta - Fuoco - Terra,Lotta - Erba - Terra - Acciaio - Acqua
 #0306,Aggron,Forma Normale,Acciaio,Roccia,Pokémon Corazza,Stadio 2,70,110,180,60,60,50,530,"88,33",Earthquake,Head Smash,Hydro Pump,Ice Beam,Folletto - Ghiaccio - Roccia,Coleottero - Fuoco - Volante - Ghiaccio,Lotta - Fuoco - Terra,Lotta - Erba - Terra - Acciaio - Acqua
-#0307,Meditite,,Lotta,Psico,Pokémon Meditazione,Base,30,40,55,40,55,60,280,"46,67",,,,,Buio - Ghiaccio - Normale - Roccia - Acciaio,Lotta - Veleno,Folletto - Volante - Psico,Coleottero - Buio - Spettro
-#0308,Medicham,Forma Normale,Lotta,Psico,Pokémon Meditazione,Stadio 1,60,60,75,60,75,80,410,"68,33",,,,,Buio - Ghiaccio - Normale - Roccia - Acciaio,Lotta - Veleno,Folletto - Volante - Psico,Coleottero - Buio - Spettro
 #0309,Electrike,,Elettro,,Pokémon Lampo,Base,40,45,40,65,40,65,295,"49,17",Howl,Light Screen,Protect,Rest,Volante - Acqua,–,Terra,–
 #0310,Manectric,Forma Normale,Elettro,,Pokémon Scossa,Stadio 1,70,75,60,105,60,105,475,"79,17",Flamethrower,Howl,Light Screen,Overheat,Volante - Acqua,–,Terra,–
-#0311,Plusle,,Elettro,,Pokémon Incitamento,Base,60,50,40,85,75,95,405,"67,50",,,,,Volante - Acqua,–,Terra,–
-#0312,Minun,,Elettro,,Pokémon Incitamento,Base,60,40,50,75,85,95,405,"67,50",,,,,Volante - Acqua,–,Terra,–
-#0313,Volbeat,,Coleottero,,Pokémon Lucciola,Base,65,73,75,47,85,85,430,"71,67",,,,,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
-#0314,Illumise,,Coleottero,,Pokémon Lucciola,Base,65,47,75,73,85,85,430,"71,67",,,,,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
 #0315,Roselia,,Erba,Veleno,Pokémon Spina,Stadio 1,50,60,45,100,80,65,400,"66,67",Protect,Rest,Toxic,,Terra - Roccia - Acqua,Folletto - Erba,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Terra - Psico
-#0316,Gulpin,,Veleno,,Pokémon Stomaco,Base,70,43,53,43,53,40,302,"50,33",,,,,Folletto - Erba,–,Terra - Psico,–
-#0317,Swalot,,Veleno,,Pokémon Velenosacco,Stadio 1,100,73,83,73,83,55,467,"77,83",,,,,Folletto - Erba,–,Terra - Psico,–
 #0318,Carvanha,,Acqua,Buio,Pokémon Feroce,Base,45,90,20,65,20,65,305,"50,83",Destiny Bond,Flip Turn,Hydro Pump,Ice Beam,Fuoco - Terra - Roccia,Spettro - Psico,Elettro - Erba,Coleottero - Folletto - Lotta
 #0319,Sharpedo,Forma Normale,Acqua,Buio,Pokémon Brutale,Stadio 1,70,120,40,95,40,95,460,"76,67",Bounce,Bulldoze,Close Combat,Crunch,Fuoco - Terra - Roccia,Spettro - Psico,Elettro - Erba,Coleottero - Folletto - Lotta
 #0320,Wailmer,,Acqua,,Pokémon Balenottero,Base,130,70,35,70,35,60,400,"66,67",Earthquake,Hydro Pump,Ice Beam,Protect,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0321,Wailord,,Acqua,,Pokémon Megabalena,Stadio 1,170,90,45,90,45,60,500,"83,33",Earthquake,Hydro Pump,Ice Beam,Protect,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0322,Numel,,Fuoco,Terra,Pokémon Torpore,Base,60,60,40,65,45,35,305,"50,83",,,,,Coleottero - Erba - Ghiaccio - Acciaio,Elettro - Fuoco - Veleno - Roccia - Acciaio,Terra - Roccia - Acqua,Erba - Ghiaccio - Acqua
-#0323,Camerupt,Forma Normale,Fuoco,Terra,Pokémon Eruzione,Stadio 1,70,100,70,105,75,40,460,"76,67",,,,,Coleottero - Erba - Ghiaccio - Acciaio,Elettro - Fuoco - Veleno - Roccia - Acciaio,Terra - Roccia - Acqua,Erba - Ghiaccio - Acqua
 #0324,Torkoal,,Fuoco,,Pokémon Carbone,Base,70,85,140,85,70,20,470,"78,33",Body Press,Burning Jealousy,Earth Power,Earthquake,Coleottero - Erba - Ghiaccio - Acciaio,–,Terra - Roccia - Acqua,–
-#0325,Spoink,,Psico,,Pokémon Molla,Base,60,25,35,70,80,60,330,"55,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0326,Grumpig,,Psico,,Pokémon Raggiro,Stadio 1,80,45,65,90,110,80,470,"78,33",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0327,Spinda,,Normale,,Pokémon Macchipanda,Base,60,60,60,60,60,60,360,"60,00",,,,,–,–,Lotta,–
 #0328,Trapinch,,Terra,,Pokémon Trappola,Base,45,100,45,45,45,10,290,"48,33",Earthquake,Protect,Rest,Toxic,Elettro - Fuoco - Veleno - Roccia - Acciaio,–,Erba - Ghiaccio - Acqua,–
 #0329,Vibrava,,Terra,Drago,Pokémon Vibrazione,Stadio 1,50,70,50,50,50,70,340,"56,67",Boomburst,Earthquake,Protect,Rest,Elettro - Fuoco - Veleno - Roccia - Acciaio,Drago,Erba - Ghiaccio - Acqua,Drago - Folletto - Ghiaccio
 #0330,Flygon,,Terra,Drago,Pokémon Magico,Stadio 2,80,100,80,80,80,100,520,"86,67",Air Slash,Boomburst,Bulldoze,Draco Meteor,Elettro - Fuoco - Veleno - Roccia - Acciaio,Drago,Erba - Ghiaccio - Acqua,Drago - Folletto - Ghiaccio
-#0331,Cacnea,,Erba,,Pokémon Cactus,Base,50,85,40,85,40,35,335,"55,83",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0332,Cacturne,,Erba,Buio,Pokémon Spavento,Stadio 1,70,115,60,115,60,55,475,"79,17",,,,,Terra - Roccia - Acqua,Spettro - Psico,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Coleottero - Folletto - Lotta
 #0333,Swablu,,Normale,Volante,Pokémon Alidicotone,Base,45,40,60,40,75,50,310,"51,67",Ice Beam,Protect,Rest,Roost,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
 #0334,Altaria,Forma Normale,Drago,Volante,Pokémon Canterino,Stadio 1,75,70,90,70,105,80,490,"81,67",Earthquake,Ice Beam,Protect,Rest,Drago,Coleottero - Lotta - Erba,Drago - Folletto - Ghiaccio,Elettro - Ghiaccio - Roccia
-#0335,Zangoose,,Normale,,Pokémon Furogatto,Base,73,115,60,60,60,90,458,"76,33",,,,,–,–,Lotta,–
-#0336,Seviper,,Veleno,,Pokémon Zannaserpe,Base,73,100,60,100,60,65,458,"76,33",,,,,Folletto - Erba,–,Terra - Psico,–
 #0337,Lunatone,,Roccia,Psico,Pokémon Meteorite,Base,90,55,65,95,85,70,460,"76,67",Baton Pass,Earthquake,Ice Beam,Light Screen,Coleottero - Fuoco - Volante - Ghiaccio,Lotta - Veleno,Lotta - Erba - Terra - Acciaio - Acqua,Coleottero - Buio - Spettro
 #0338,Solrock,,Roccia,Psico,Pokémon Meteorite,Base,90,95,85,55,65,70,460,"76,67",Baton Pass,Earthquake,Light Screen,Protect,Coleottero - Fuoco - Volante - Ghiaccio,Lotta - Veleno,Lotta - Erba - Terra - Acciaio - Acqua,Coleottero - Buio - Spettro
 #0339,Barboach,,Acqua,Terra,Pokémon Baffetti,Base,50,48,43,46,41,60,288,"48,00",Earthquake,Hydro Pump,Ice Beam,Protect,Fuoco - Terra - Roccia,Elettro - Fuoco - Veleno - Roccia - Acciaio,Elettro - Erba,Erba - Ghiaccio - Acqua
@@ -417,17 +249,8 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0348,Armaldo,,Roccia,Coleottero,Pokémon Piastre,Stadio 1,75,125,100,70,80,45,495,"82,50",Earthquake,Knock Off,Protect,Rapid Spin,Coleottero - Fuoco - Volante - Ghiaccio,Erba - Buio - Psico,Lotta - Erba - Terra - Acciaio - Acqua,Fuoco - Volante - Roccia
 #0349,Feebas,,Acqua,,Pokémon Pesce,Base,20,15,20,10,55,80,200,"33,33",Ice Beam,Light Screen,Protect,Rest,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0350,Milotic,,Acqua,,Pokémon Tenerezza,Stadio 1,95,60,79,100,125,81,540,"90,00",Blizzard,Breaking Swipe,Coil,Dragon Pulse,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0351,Castform,Forma Normale,Normale,,Pokémon Meteo,Base,70,70,70,70,70,70,420,"70,00",,,,,–,–,Lotta,–
-#0351,Castform,Forma Sole,Fuoco,,Pokémon Meteo,Base,70,70,70,70,70,70,420,"70,00",,,,,Coleottero - Erba - Ghiaccio - Acciaio,–,Terra - Roccia - Acqua,–
-#0351,Castform,Forma Pioggia,Acqua,,Pokémon Meteo,Base,70,70,70,70,70,70,420,"70,00",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0351,Castform,Forma Grandine,Ghiaccio,,Pokémon Meteo,Base,70,70,70,70,70,70,420,"70,00",,,,,Drago - Volante - Erba - Terra,–,Lotta - Fuoco - Roccia - Acciaio,–
-#0352,Kecleon,,Normale,,Pokémon Mutacolore,Base,60,90,70,60,120,40,440,"73,33",,,,,–,–,Lotta,–
-#0353,Shuppet,,Spettro,,Pokémon Pupazzo,Base,44,75,35,63,33,45,295,"49,17",,,,,Spettro - Psico,–,Buio - Spettro,–
-#0354,Banette,Forma Normale,Spettro,,Pokémon Marionetta,Stato 1,64,115,65,83,63,65,455,"75,83",,,,,Spettro - Psico,–,Buio - Spettro,–
 #0355,Duskull,,Spettro,,Pokémon Requiem,Base,20,40,90,30,90,25,295,"49,17",Destiny Bond,Ice Beam,Protect,Rest,Spettro - Psico,–,Buio - Spettro,–
 #0356,Dusclops,,Spettro,,Pokémon Ipnosguardo,Stato 1,40,70,130,60,130,25,455,"75,83",Ally Switch,Brick Break,Bulldoze,Destiny Bond,Spettro - Psico,–,Buio - Spettro,–
-#0357,Tropius,,Erba,Volante,Pokémon Frutto,Base,99,68,83,72,87,51,460,"76,67",,,,,Terra - Roccia - Acqua,Coleottero - Lotta - Erba,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Elettro - Ghiaccio - Roccia
-#0358,Chimecho,,Psico,,Pokémon Vencampana,Base,75,50,80,95,90,65,455,"75,83",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
 #0359,Absol,Forma Normale,Buio,,Pokémon Catastrofe,Base,65,130,60,75,60,75,465,"77,50",Baton Pass,Bounce,Close Combat,Detect,Spettro - Psico,–,Coleottero - Folletto - Lotta,–
 #0360,Wynaut,,Psico,,Pokémon Brillante,Baby,95,23,48,23,48,23,260,"43,33",Destiny Bond,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
 #0361,Snorunt,,Ghiaccio,,Pokémon Cappelneve,Base,50,50,50,50,50,50,300,"50,00",Ice Beam,Light Screen,Protect,Rest,Drago - Volante - Erba - Terra,–,Lotta - Fuoco - Roccia - Acciaio,–
@@ -435,15 +258,10 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0363,Spheal,,Ghiaccio,Acqua,Pokémon Rotolante,Base,70,40,50,55,50,25,290,"48,33",Earthquake,Ice Beam,Protect,Rest,Drago - Volante - Erba - Terra,Fuoco - Terra - Roccia,Lotta - Fuoco - Roccia - Acciaio,Elettro - Erba
 #0364,Sealeo,,Ghiaccio,Acqua,Pokémon Rotapalla,Stadio 1,90,60,70,75,70,45,410,"68,33",Earthquake,Ice Beam,Protect,Rest,Drago - Volante - Erba - Terra,Fuoco - Terra - Roccia,Lotta - Fuoco - Roccia - Acciaio,Elettro - Erba
 #0365,Walrein,,Ghiaccio,Acqua,Pokémon Spaccagelo,Stadio 2,110,80,90,95,90,65,530,"88,33",Earthquake,Hydro Pump,Ice Beam,Protect,Drago - Volante - Erba - Terra,Fuoco - Terra - Roccia,Lotta - Fuoco - Roccia - Acciaio,Elettro - Erba
-#0366,Clamperl,,Acqua,,Pokémon Bivalve,Base,35,64,85,74,55,32,345,"57,50",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0367,Huntail,,Acqua,,Pokémon Abissi,Stadio 1,55,104,105,94,75,52,485,"80,83",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0368,Gorebyss,,Acqua,,Pokémon Sudmarino,Stadio 1,55,84,105,114,75,52,485,"80,83",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0369,Relicanth,,Acqua,Roccia,Pokémon Longevità,Base,100,90,130,45,65,55,485,"80,83",Earthquake,Head Smash,Hydro Pump,Ice Beam,Fuoco - Terra - Roccia,Coleottero - Fuoco - Volante - Ghiaccio,Elettro - Erba,Lotta - Erba - Terra - Acciaio - Acqua
-#0370,Luvdisc,,Acqua,,Pokémon Rendezvous,Base,43,30,55,40,65,97,330,"55,00",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0371,Bagon,,Drago,,Pokémon Rocciotesta,Base,45,75,60,40,30,50,300,"50,00",Hydro Pump,Protect,Rest,Toxic,Drago,–,Drago - Folletto - Ghiaccio,–
 #0372,Shelgon,,Drago,,Pokémon Resistenza,Stadio 1,65,95,100,60,50,50,420,"70,00",Hydro Pump,Protect,Rest,Toxic,Drago,–,Drago - Folletto - Ghiaccio,–
 #0373,Salamence,Forma Normale,Drago,Volante,Pokémon Drago,Stadio 2,95,145,130,120,90,120,700,"116,67",Air Slash,Bulldoze,Draco Meteor,Dragon Claw,Drago,Coleottero - Lotta - Erba,Drago - Folletto - Ghiaccio,Elettro - Ghiaccio - Roccia
-#0374,Beldum,,Acciaio,Psico,Pokémon Ferrosfera,Base,40,55,80,35,60,30,300,"50,00",,,,,Folletto - Ghiaccio - Roccia,Lotta - Veleno,Lotta - Fuoco - Terra,Coleottero - Buio - Spettro
 #0375,Metang,,Acciaio,Psico,Pokémon Ferrunghia,Stadio 1,60,75,100,55,80,50,420,"70,00",Earthquake,Light Screen,Protect,Reflect,Folletto - Ghiaccio - Roccia,Lotta - Veleno,Lotta - Fuoco - Terra,Coleottero - Buio - Spettro
 #0376,Metagross,Forma Normale,Acciaio,Psico,Pokémon Ferrarto,Stadio 2,80,135,130,95,90,70,600,"100,00",Bullet Punch,Earthquake,Ice Punch,Iron Head,Folletto - Ghiaccio - Roccia,Lotta - Veleno,Lotta - Fuoco - Terra,Coleottero - Buio - Spettro
 #0377,Regirock,,Roccia,,Pokémon Picco,Base,80,100,200,50,100,50,580,"96,67",Body Press,Curse,Drain Punch,Earthquake,Coleottero - Fuoco - Volante - Ghiaccio,–,Lotta - Erba - Terra - Acciaio - Acqua,–
@@ -457,47 +275,12 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0383,Groudon,Archeo Groudon,Terra,Fuoco,Pokémon Continente,Archeoevoluzione,100,180,160,150,90,90,770,"128,33",Earthquake,Eruption,Protect,Rest,Elettro - Fuoco - Veleno - Roccia - Acciaio,Coleottero - Erba - Ghiaccio - Acciaio,Erba - Ghiaccio - Acqua,Terra - Roccia - Acqua
 #0384,Rayquaza,Forma Normale,Drago,Volante,Pokémon Stratosfera,Base,105,150,90,150,90,95,680,"113,33",Dragon Ascent,Earthquake,Hydro Pump,Ice Beam,Drago,Coleottero - Lotta - Erba,Drago - Folletto - Ghiaccio,Elettro - Ghiaccio - Roccia
 #0385,Jirachi,,Acciaio,Psico,Pokémon Desiderio,Base,100,100,100,100,100,100,600,"100,00",Baton Pass,Light Screen,Protect,Reflect,Folletto - Ghiaccio - Roccia,Lotta - Veleno,Lotta - Fuoco - Terra,Coleottero - Buio - Spettro
-#0386,Deoxys,Forma Normale,Psico,,Pokémon DNA,Base,50,150,50,150,50,150,600,"100,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0386,Deoxys,Forma Attacco,Psico,,Pokémon DNA,Base,50,180,20,180,20,150,600,"100,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0386,Deoxys,Forma Difesa,Psico,,Pokémon DNA,Base,50,70,160,70,160,90,600,"100,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0386,Deoxys,Forma Velocità,Psico,,Pokémon DNA,Base,50,95,90,95,90,180,600,"100,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0387,Turtwig,,Erba,,Pokémon Fogliolina,Base,55,68,64,45,55,31,318,"53,00",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0388,Grotle,,Erba,,Pokémon Boschetto,Stadio 1,75,89,85,55,65,36,405,"67,50",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0389,Torterra,,Erba,Terra,Pokémon Continente,Stadio 2,95,109,105,75,85,56,525,"87,50",,,,,Terra - Roccia - Acqua,Elettro - Fuoco - Veleno - Roccia - Acciaio,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Erba - Ghiaccio - Acqua
-#0390,Chimchar,,Fuoco,,Pokémon Scimpanzé,Base,44,58,44,58,44,61,309,"51,50",,,,,Coleottero - Erba - Ghiaccio - Acciaio,–,Terra - Roccia - Acqua,–
-#0391,Monferno,,Fuoco,Lotta,Pokémon Briccone,Stadio 1,64,78,52,78,52,81,405,"67,50",,,,,Coleottero - Erba - Ghiaccio - Acciaio,Buio - Ghiaccio - Normale - Roccia - Acciaio,Terra - Roccia - Acqua,Folletto - Volante - Psico
-#0392,Infernape,,Fuoco,Lotta,Pokémon Fiamma,Stadio 2,76,104,71,104,71,108,534,"89,00",,,,,Coleottero - Erba - Ghiaccio - Acciaio,Buio - Ghiaccio - Normale - Roccia - Acciaio,Terra - Roccia - Acqua,Folletto - Volante - Psico
-#0393,Piplup,,Acqua,,Pokémon Pinguino,Base,53,51,53,61,56,40,314,"52,33",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0394,Prinplup,,Acqua,,Pokémon Pinguino,Stadio 1,64,66,68,81,76,50,405,"67,50",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0395,Empoleon,,Acqua,Acciaio,Pokémon Imperatore,Stadio 2,84,86,88,111,101,60,530,"88,33",,,,,Fuoco - Terra - Roccia,Folletto - Ghiaccio - Roccia,Elettro - Erba,Lotta - Fuoco - Terra
-#0396,Starly,,Normale,Volante,Pokémon Storno,Base,40,55,30,30,30,60,245,"40,83",,,,,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
-#0397,Staravia,,Normale,Volante,Pokémon Storno,Stadio 1,55,75,50,40,40,80,340,"56,67",,,,,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
-#0398,Staraptor,,Normale,Volante,Pokémon Rapace,Stadio 2,85,120,70,50,60,100,485,"80,83",,,,,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
-#0399,Bidoof,,Normale,,Pokémon Topaffuto,Base,59,45,40,35,40,31,250,"41,67",,,,,–,–,Lotta,–
-#0400,Bibarel,,Normale,Acqua,Pokémon Castoro,Stadio 1,79,85,60,55,60,71,410,"68,33",,,,,–,Fuoco - Terra - Roccia,Lotta,Elettro - Erba
-#0401,Kricketot,,Coleottero,,Pokémon Grillo,Base,37,25,41,25,41,25,194,"32,33",,,,,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
-#0402,Kricketune,,Coleottero,,Pokémon Grillo,Stadio 1,77,85,51,55,51,65,384,"64,00",,,,,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
 #0403,Shinx,,Elettro,,Pokémon Baleno,Base,45,65,34,40,34,45,263,"43,83",Howl,Light Screen,Protect,Rest,Volante - Acqua,–,Terra,–
 #0404,Luxio,,Elettro,,Pokémon Favilla,Stadio 1,60,85,49,60,49,60,363,"60,50",Howl,Light Screen,Protect,Rest,Volante - Acqua,–,Terra,–
 #0405,Luxray,,Elettro,,Pokémon Occhiluce,Stadio 2,80,120,79,95,79,70,523,"87,17",Baby-Doll Eyes,Crunch,Helping Hand,Howl,Volante - Acqua,–,Terra,–
 #0406,Budew,,Erba,Veleno,Pokémon Germoglio,Baby,40,30,35,50,70,55,280,"46,67",Protect,Rest,Toxic,,Terra - Roccia - Acqua,Folletto - Erba,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Terra - Psico
 #0407,Roserade,,Erba,Veleno,Pokémon Floreale,Stadio 2,60,70,65,125,105,90,515,"85,83",Leaf Storm,Protect,Rest,Sleep Powder,Terra - Roccia - Acqua,Folletto - Erba,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Terra - Psico
-#0408,Cranidos,,Roccia,,Pokémon Cranioso,Base,67,125,40,30,30,58,350,"58,33",,,,,Coleottero - Fuoco - Volante - Ghiaccio,–,Lotta - Erba - Terra - Acciaio - Acqua,–
-#0409,Rampardos,,Roccia,,Pokémon Cranioso,Stadio 1,97,165,60,65,50,58,495,"82,50",,,,,Coleottero - Fuoco - Volante - Ghiaccio,–,Lotta - Erba - Terra - Acciaio - Acqua,–
-#0410,Shieldon,,Roccia,Acciaio,Pokémon Schermo,Base,30,42,118,42,88,30,350,"58,33",,,,,Coleottero - Fuoco - Volante - Ghiaccio,Folletto - Ghiaccio - Roccia,Lotta - Erba - Terra - Acciaio - Acqua,Lotta - Fuoco - Terra
-#0411,Bastiodon,,Roccia,Acciaio,Pokémon Schermo,Stadio 1,60,52,168,47,138,30,495,"82,50",,,,,Coleottero - Fuoco - Volante - Ghiaccio,Folletto - Ghiaccio - Roccia,Lotta - Erba - Terra - Acciaio - Acqua,Lotta - Fuoco - Terra
-#0412,Burmy,Manto Scarti,Coleottero,,Pokémon Larva,Base,40,29,45,29,45,36,224,"37,33",,,,,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
-#0412,Burmy,Manto Sabbia,Coleottero,,Pokémon Larva,Base,40,29,45,29,45,36,224,"37,33",,,,,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
-#0412,Burmy,Manto Erba,Coleottero,,Pokémon Larva,Base,40,29,45,29,45,36,224,"37,33",,,,,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
-#0413,Wormadam,Manto Scarti,Coleottero,Acciaio,Pokémon Larva,Stadio 1,60,69,95,69,95,36,424,"70,67",,,,,Erba - Buio - Psico,Folletto - Ghiaccio - Roccia,Fuoco - Volante - Roccia,Lotta - Fuoco - Terra
-#0413,Wormadam,Manto Sabbia,Coleottero,Terra,Pokémon Larva,Stadio 1,60,79,105,59,85,36,424,"70,67",,,,,Erba - Buio - Psico,Elettro - Fuoco - Veleno - Roccia - Acciaio,Fuoco - Volante - Roccia,Erba - Ghiaccio - Acqua
-#0413,Wormadam,Manto Erba,Coleottero,Erba,Pokémon Larva,Stadio 1,60,59,85,79,105,36,424,"70,67",,,,,Erba - Buio - Psico,Terra - Roccia - Acqua,Fuoco - Volante - Roccia,Coleottero - Fuoco - Volante - Ghiaccio - Veleno
-#0414,Mothim,,Coleottero,Volante,Pokémon Falena,Stadio 2,70,94,50,94,50,66,424,"70,67",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0415,Combee,,Coleottero,Volante,Pokémon Apetta,Base,30,30,42,30,42,70,244,"40,67",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
 #0416,Vespiquen,,Coleottero,Volante,Pokémon Alveare,Stadio 1,70,80,102,80,102,40,474,"79,00",Destiny Bond,Protect,Rest,Roost,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0417,Pachirisu,,Elettro,,Pokémon Elescoiatto,Base,60,45,70,45,90,95,405,"67,50",,,,,Volante - Acqua,–,Terra,–
-#0418,Buizel,,Acqua,,Pokémon Maridonnola,Base,55,65,35,60,30,85,330,"55,00",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0419,Floatzel,,Acqua,,Pokémon Maridonnola,Stadio 1,85,105,55,85,50,115,495,"82,50",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0420,Cherubi,,Erba,,Pokémon Ciliegia,Base,45,35,45,62,53,35,275,"45,83",Protect,Rest,Toxic,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
 #0421,Cherrim,Forma Nuvola,Erba,,Pokémon Bocciolo,Stadio 1,70,60,70,87,78,85,450,"75,00",Dazzling Gleam,Energy Ball,Grassy Glide,Heal Pulse,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
 #0421,Cherrim,Forma Splendore,Erba,,Pokémon Bocciolo,Stadio 1,70,90,70,87,117,85,519,"86,50",Dazzling Gleam,Energy Ball,Grassy Glide,Heal Pulse,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
@@ -505,59 +288,43 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0422,Shellos,Forma Mare Est,Acqua,,Pokémon Lumacomare,Base,76,48,48,57,62,34,325,"54,17",Hydro Pump,Ice Beam,Protect,Rest,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0423,Gastrodon,Forma Mare Ovest,Acqua,Terra,Pokémon Lumacomare,Stadio 1,111,83,68,92,82,39,475,"79,17",Acid Armor,Clear Smog,Earth Power,Earthquake,Fuoco - Terra - Roccia,Elettro - Fuoco - Veleno - Roccia - Acciaio,Elettro - Erba,Erba - Ghiaccio - Acqua
 #0423,Gastrodon,Forma Mare Est,Acqua,Terra,Pokémon Lumacomare,Stadio 1,111,83,68,92,82,39,475,"79,17",Acid Armor,Clear Smog,Earth Power,Earthquake,Fuoco - Terra - Roccia,Elettro - Fuoco - Veleno - Roccia - Acciaio,Elettro - Erba,Erba - Ghiaccio - Acqua
-#0424,Ambipom,,Normale,,Pokémon Lungacoda,Stadio 1,75,100,66,60,66,115,482,"80,33",,,,,–,–,Lotta,–
 #0425,Drifloon,,Spettro,Volante,Pokémon Pallone,Base,90,50,34,60,44,70,348,"58,00",Baton Pass,Destiny Bond,Knock Off,Protect,Spettro - Psico,Coleottero - Lotta - Erba,Buio - Spettro,Elettro - Ghiaccio - Roccia
 #0426,Drifblim,,Spettro,Volante,Pokémon Dirigibile,Stadio 1,150,80,44,90,54,80,498,"83,00",Acrobatics,Ally Switch,Baton Pass,Clear Smog,Spettro - Psico,Coleottero - Lotta - Erba,Buio - Spettro,Elettro - Ghiaccio - Roccia
 #0427,Buneary,,Normale,,Pokémon Coniglio,Base,55,66,44,44,56,85,350,"58,33",Baton Pass,Fake Out,Ice Beam,Protect,–,–,Lotta,–
 #0428,Lopunny,Forma Normale,Normale,,Pokémon Coniglio,Stadio 1,65,76,84,54,96,105,480,"80,00",Acrobatics,Aura Sphere,Baby-Doll Eyes,Baton Pass,–,–,Lotta,–
-#0429,Mismagius,,Spettro,,Pokémon Stregone,Stadio 1,60,60,60,105,105,105,495,"82,50",,,,,Spettro - Psico,–,Buio - Spettro,–
-#0430,Honchkrow,,Buio,Volante,Pokémon Grancapo,Stadio 1,100,125,52,105,52,71,505,"84,17",,,,,Spettro - Psico,Coleottero - Lotta - Erba,Coleottero - Folletto - Lotta,Elettro - Ghiaccio - Roccia
-#0431,Glameow,,Normale,,Pokémon Felide,Base,49,55,42,42,37,85,310,"51,67",,,,,–,–,Lotta,–
-#0432,Purugly,,Normale,,Pokémon Gattotigre,Stadio 1,71,82,64,64,59,112,452,"75,33",,,,,–,–,Lotta,–
-#0433,Chingling,,Psico,,Pokémon Sonaglio,Baby,45,30,50,65,50,45,285,"47,50",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
 #0434,Stunky,,Veleno,Buio,Pokémon Moffetta,Base,63,63,47,41,41,74,329,"54,83",Protect,Rest,Snarl,Taunt,Folletto - Erba,Spettro - Psico,Terra - Psico,Coleottero - Folletto - Lotta
 #0435,Skuntank,,Veleno,Buio,Pokémon Moffetta,Stadio 1,103,93,67,71,61,84,479,"79,83",Protect,Rest,Snarl,Taunt,Folletto - Erba,Spettro - Psico,Terra - Psico,Coleottero - Folletto - Lotta
 #0436,Bronzor,,Acciaio,Psico,Pokémon Bronzo,Base,57,24,86,24,86,23,300,"50,00",Earthquake,Light Screen,Protect,Reflect,Folletto - Ghiaccio - Roccia,Lotta - Veleno,Lotta - Fuoco - Terra,Coleottero - Buio - Spettro
 #0437,Bronzong,,Acciaio,Psico,Pokémon Squibronzo,Stadio 1,67,89,116,79,116,33,500,"83,33",Ally Switch,Body Press,Bulldoze,Earthquake,Folletto - Ghiaccio - Roccia,Lotta - Veleno,Lotta - Fuoco - Terra,Coleottero - Buio - Spettro
 #0438,Bonsly,,Roccia,,Pokémon Bonsai,Baby,50,80,95,10,45,10,290,"48,33",Protect,Rest,Stealth Rock,Toxic,Coleottero - Fuoco - Volante - Ghiaccio,–,Lotta - Erba - Terra - Acciaio - Acqua,–
-#0439,Mime Jr.,,Psico,Folletto,Pokémon Mimo,Baby,20,25,45,70,90,60,310,"51,67",,,,,Lotta - Veleno,Lotta - Buio - Drago,Coleottero - Buio - Spettro,Veleno - Acciaio
 #0440,Happiny,,Normale,,Pokémon Ovettino,Baby,100,5,5,15,65,30,220,"36,67",Light Screen,Protect,Rest,Stored Power,–,–,Lotta,–
-#0441,Chatot,,Normale,Volante,Pokémon Musicale,Base,76,65,45,92,42,91,411,"68,50",,,,,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
 #0442,Spiritomb,,Spettro,Buio,Pokémon Proibito,Base,50,92,108,92,108,35,485,"80,83",Ally Switch,Burning Jealousy,Dark Pulse,Destiny Bond,Spettro - Psico,Spettro - Psico,Buio - Spettro,Coleottero - Folletto - Lotta
 #0443,Gible,,Drago,Terra,Pokémon Squaloterra,Base,58,70,45,40,45,42,300,"50,00",Earthquake,Protect,Rest,Stealth Rock,Drago,Elettro - Fuoco - Veleno - Roccia - Acciaio,Drago - Folletto - Ghiaccio,Erba - Ghiaccio - Acqua
 #0444,Gabite,,Drago,Terra,Pokémon Grotta,Stadio 1,68,90,65,50,55,82,410,"68,33",Earthquake,Protect,Rest,Stealth Rock,Drago,Elettro - Fuoco - Veleno - Roccia - Acciaio,Drago - Folletto - Ghiaccio,Erba - Ghiaccio - Acqua
 #0445,Garchomp,Forma Normale,Drago,Terra,Pokémon Mach,Stadio 2,108,130,95,80,85,102,600,"100,00",Bulldoze,Dragon Claw,Earthquake,Fire Fang,Drago,Elettro - Fuoco - Veleno - Roccia - Acciaio,Drago - Folletto - Ghiaccio,Erba - Ghiaccio - Acqua
 #0446,Munchlax,,Normale,,Pokémon Ghiottone,Baby,135,85,40,40,85,5,390,"65,00",Earthquake,Hydro Pump,Ice Beam,Protect,–,–,Lotta,–
 #0447,Riolu,,Lotta,,Pokémon Emanazione,Baby,40,70,40,35,40,60,285,"47,50",Coaching,Copycat,Detect,Drain Punch,Buio - Ghiaccio - Normale - Roccia - Acciaio,–,Folletto - Volante - Psico,–
-#0448,Lucario,Forma Normale,Lotta,Acciaio,Pokémon Aura,Stadio 1,70,110,70,115,70,90,525,"87,50",,Aura Sphere,Bullet Punch,Close Combat,Buio - Ghiaccio - Normale - Roccia - Acciaio,Folletto - Ghiaccio - Roccia,Folletto - Volante - Psico,Lotta - Fuoco - Terra
+#0448,Lucario,Forma Normale,Lotta,Acciaio,Pokémon Aura,Stadio 1,70,110,70,115,70,90,525,"87,50",Aura Sphere,Bullet Punch,Close Combat,,Buio - Ghiaccio - Normale - Roccia - Acciaio,Folletto - Ghiaccio - Roccia,Folletto - Volante - Psico,Lotta - Fuoco - Terra
 #0449,Hippopotas,,Terra,,Pokémon Ippo,Base,68,72,78,38,42,32,330,"55,00",Earthquake,Protect,Rest,Stealth Rock,Elettro - Fuoco - Veleno - Roccia - Acciaio,–,Erba - Ghiaccio - Acqua,–
-#0450,Hippowdon,,Terra,,Pokémon Grandepeso,Stadio 1,108,112,118,68,72,47,525,"87,50",,,,,Elettro - Fuoco - Veleno - Roccia - Acciaio,–,Erba - Ghiaccio - Acqua,–
 #0451,Skorupi,,Veleno,Coleottero,Pokémon Scorpione,Base,40,50,90,30,55,65,330,"55,00",Knock Off,Protect,Rest,Taunt,Folletto - Erba,Erba - Buio - Psico,Terra - Psico,Fuoco - Volante - Roccia
 #0452,Drapion,,Veleno,Buio,Pokémon Scorpiaccio,Stadio 1,70,90,110,60,75,95,500,"83,33",Brick Break,Cross Poison,Crunch,Earthquake,Folletto - Erba,Spettro - Psico,Terra - Psico,Coleottero - Folletto - Lotta
 #0453,Croagunk,,Veleno,Lotta,Pokémon Inveieleno,Base,48,61,40,61,40,50,300,"50,00",Baton Pass,Earthquake,Fake Out,Knock Off,Folletto - Erba,Buio - Ghiaccio - Normale - Roccia - Acciaio,Terra - Psico,Folletto - Volante - Psico
 #0454,Toxicroak,,Veleno,Lotta,Pokémon Inveieleno,Stadio 1,83,106,65,86,65,85,490,"81,67",Baton Pass,Bounce,Drain Punch,Earthquake,Folletto - Erba,Buio - Ghiaccio - Normale - Roccia - Acciaio,Terra - Psico,Folletto - Volante - Psico
-#0455,Carnivine,,Erba,,Pokémon Insettivoro,Base,74,100,72,90,72,46,454,"75,67",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0456,Finneon,,Acqua,,Pokémon Pescealato,Base,49,49,56,49,61,66,330,"55,00",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0457,Lumineon,,Acqua,,Pokémon Neon,Stadio 1,69,69,76,69,86,91,460,"76,67",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0458,Mantyke,,Acqua,Volante,Pokémon Aquilone,Baby,45,20,50,60,120,50,345,"57,50",Earthquake,Hydro Pump,Ice Beam,Protect,Fuoco - Terra - Roccia,Coleottero - Lotta - Erba,Elettro - Erba,Elettro - Ghiaccio - Roccia
 #0459,Snover,,Erba,Ghiaccio,Pokémon Albergelo,Base,60,62,50,62,60,40,334,"55,67",Ice Beam,Light Screen,Protect,Rest,Terra - Roccia - Acqua,Drago - Volante - Erba - Terra,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Lotta - Fuoco - Roccia - Acciaio
 #0460,Abomasnow,Forma Normale,Erba,Ghiaccio,Pokémon Albergelo,Stadio 1,90,92,75,92,85,60,494,"82,33",Aurora Veil,Blizzard,Earth Power,Earthquake,Terra - Roccia - Acqua,Drago - Volante - Erba - Terra,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Lotta - Fuoco - Roccia - Acciaio
 #0461,Weavile,,Buio,Ghiaccio,Pokémon Lamartigli,Stadio 1,70,120,65,45,85,125,510,"85,00",Beat Up,Fake Out,Fake Tears,Foul Play,Spettro - Psico,Drago - Volante - Erba - Terra,Coleottero - Folletto - Lotta,Lotta - Fuoco - Roccia - Acciaio
-#0462,Magnezone,,Elettro,Acciaio,Pokémon Magnetico,Stadio 2,70,70,115,130,90,60,535,"89,17",,Ally Switch,Body Press,Flash Cannon,Volante - Acqua,Folletto - Ghiaccio - Roccia,Terra,Lotta - Fuoco - Terra
+#0462,Magnezone,,Elettro,Acciaio,Pokémon Magnetico,Stadio 2,70,70,115,130,90,60,535,"89,17",Ally Switch,Body Press,Flash Cannon,,Volante - Acqua,Folletto - Ghiaccio - Roccia,Terra,Lotta - Fuoco - Terra
 #0463,Lickilicky,,Normale,,Pokémon Linguaccia,Stadio 1,110,85,95,80,95,50,515,"85,83",Belly Drum,Body Press,Body Slam,Bulldoze,–,–,Lotta,–
 #0464,Rhyperior,,Terra,Roccia,Pokémon Trapano,Stadio 2,115,140,130,55,55,40,535,"89,17",Earthquake,Fire Punch,High Horsepower,Hydro Pump,Elettro - Fuoco - Veleno - Roccia - Acciaio,Coleottero - Fuoco - Volante - Ghiaccio,Erba - Ghiaccio - Acqua,Lotta - Erba - Terra - Acciaio - Acqua
 #0465,Tangrowth,,Erba,,Pokémon Liana,Stadio 1,100,100,125,110,50,50,535,"89,17",Ancient Power,Earthquake,Endeavor,Giga Drain,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
 #0466,Electivire,,Elettro,,Pokémon Saetta,Stadio 2,75,123,67,95,85,95,540,"90,00",Brick Break,Cross Chop,Earthquake,Fire Punch,Volante - Acqua,–,Terra,–
 #0467,Magmortar,,Fuoco,,Pokémon Esplosivo,Stadio 2,75,95,67,125,95,83,540,"90,00",Earthquake,Flamethrower,Heat Wave,Helping Hand,Coleottero - Erba - Ghiaccio - Acciaio,–,Terra - Roccia - Acqua,–
 #0468,Togekiss,,Folletto,Volante,Pokémon Festa,Stadio 2,85,50,95,120,115,80,545,"90,83",Air Slash,Ally Switch,Baton Pass,Dazzling Gleam,Lotta - Buio - Drago,Coleottero - Lotta - Erba,Veleno - Acciaio,Elettro - Ghiaccio - Roccia
-#0469,Yanmega,,Coleottero,Volante,Pokémon Libellorco,Stadio 1,86,76,86,116,56,95,515,"85,83",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0470,Leafeon,,Erba,,Pokémon Rigoglioso,Stadio 1,65,110,130,60,65,95,525,"87,50",,Baton Pass,Detect,Dig,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
+#0470,Leafeon,,Erba,,Pokémon Rigoglioso,Stadio 1,65,110,130,60,65,95,525,"87,50",Baton Pass,Detect,Dig,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
 #0471,Glaceon,,Ghiaccio,,Pokémon Nevefresca,Stadio 1,65,60,110,130,95,65,525,"87,50",Baton Pass,Blizzard,Detect,Freeze-Dry,Drago - Volante - Erba - Terra,–,Lotta - Fuoco - Roccia - Acciaio,–
-#0472,Gliscor,,Terra,Volante,Pokémon Scorpidente,Stadio 1,75,95,125,45,75,95,510,"85,00",,,,,Elettro - Fuoco - Veleno - Roccia - Acciaio,Coleottero - Lotta - Erba,Erba - Ghiaccio - Acqua,Elettro - Ghiaccio - Roccia
 #0473,Mamoswine,,Ghiaccio,Terra,Pokémon Duezanne,Stadio 2,110,130,80,70,60,80,530,"88,33",Earthquake,High Horsepower,Ice Beam,Ice Shard,Drago - Volante - Erba - Terra,Elettro - Fuoco - Veleno - Roccia - Acciaio,Lotta - Fuoco - Roccia - Acciaio,Erba - Ghiaccio - Acqua
-#0474,Porygon-Z,,Normale,,Pokémon Virtuale,Stadio 2,85,80,70,135,75,90,535,"89,17",,,,,–,–,Lotta,–
 #0475,Gallade,Forma Normale,Psico,Lotta,Pokémon Lama,Stadio 2,68,125,65,65,115,80,518,"86,33",Ally Switch,Close Combat,Coaching,Destiny Bond,Lotta - Veleno,Buio - Ghiaccio - Normale - Roccia - Acciaio,Coleottero - Buio - Spettro,Folletto - Volante - Psico
-#0476,Probopass,,Roccia,Acciaio,Pokémon Bussola,Stadio 1,60,55,145,75,150,40,525,"87,50",,,,,Coleottero - Fuoco - Volante - Ghiaccio,Folletto - Ghiaccio - Roccia,Lotta - Erba - Terra - Acciaio - Acqua,Lotta - Fuoco - Terra
 #0477,Dusknoir,,Spettro,,Pokémon Pinza,Stadio 2,45,100,135,65,135,45,525,"87,50",Ally Switch,Curse,Destiny Bond,Earthquake,Spettro - Psico,–,Buio - Spettro,–
 #0478,Froslass,,Ghiaccio,Spettro,Pokémon Suolnevoso,Stadio 1,70,80,70,80,70,110,480,"80,00",Ally Switch,Blizzard,Destiny Bond,Frost Breath,Drago - Volante - Erba - Terra,Spettro - Psico,Lotta - Fuoco - Roccia - Acciaio,Buio - Spettro
 #0479,Rotom,Forma Normale,Elettro,Spettro,Pokémon Plasma,Base,50,50,77,95,77,91,440,"73,33",Light Screen,Protect,Reflect,Rest,Volante - Acqua,Spettro - Psico,Terra,Buio - Spettro
@@ -578,61 +345,18 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0487,Giratina,Forma Origine,Spettro,Drago,Pokémon Ribelle,Base,150,120,100,120,100,90,680,"113,33",Destiny Bond,Earthquake,Protect,Rest,Spettro - Psico,Drago,Buio - Spettro,Drago - Folletto - Ghiaccio
 #0487,Giratina,Forma Alterata,Spettro,Drago,Pokémon Ribelle,Base,150,100,120,100,120,90,680,"113,33",Destiny Bond,Earthquake,Protect,Rest,Spettro - Psico,Drago,Buio - Spettro,Drago - Folletto - Ghiaccio
 #0488,Cresselia,,Psico,,Pokémon Falcato,Base,120,70,110,75,120,85,580,"96,67",Ally Switch,Helping Hand,Ice Beam,Icy Wind,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0489,Phione,,Acqua,,Pokémon Oceanbondo,Base,80,80,80,80,80,80,480,"80,00",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0490,Manaphy,,Acqua,,Pokémon Oceandante,Base,100,100,100,100,100,100,600,"100,00",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0491,Darkrai,,Buio,,Pokémon Neropesto,Base,70,90,90,135,90,125,600,"100,00",,,,,Spettro - Psico,–,Coleottero - Folletto - Lotta,–
-#0492,Shaymin,Forma Terra,Erba,,Pokémon Gratitudine,Base,100,100,100,100,100,100,600,"100,00",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0492,Shaymin,Forma Cielo,Erba,Volante,Pokémon Gratitudine,Base,100,103,75,120,75,127,600,"100,00",,,,,Terra - Roccia - Acqua,Coleottero - Lotta - Erba,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Elettro - Ghiaccio - Roccia
-#0493,Arceus,Forma Normale,Normale,,Pokémon Primevo,Base,120,120,120,120,120,120,720,"120,00",,,,,–,–,Lotta,–
-#0493,Arceus,Forma Lotta,Lotta,,Pokémon Primevo,Base,120,120,120,120,120,120,720,"120,00",,,,,Buio - Ghiaccio - Normale - Roccia - Acciaio,–,Folletto - Volante - Psico,–
-#0493,Arceus,Forma Volante,Volante,,Pokémon Primevo,Base,120,120,120,120,120,120,720,"120,00",,,,,Coleottero - Lotta - Erba,–,Elettro - Ghiaccio - Roccia,–
-#0493,Arceus,Forma Veleno,Veleno,,Pokémon Primevo,Base,120,120,120,120,120,120,720,"120,00",,,,,Folletto - Erba,–,Terra - Psico,–
-#0493,Arceus,Forma Terra,Terra,,Pokémon Primevo,Base,120,120,120,120,120,120,720,"120,00",,,,,Elettro - Fuoco - Veleno - Roccia - Acciaio,–,Erba - Ghiaccio - Acqua,–
-#0493,Arceus,Forma Roccia,Roccia,,Pokémon Primevo,Base,120,120,120,120,120,120,720,"120,00",,,,,Coleottero - Fuoco - Volante - Ghiaccio,–,Lotta - Erba - Terra - Acciaio - Acqua,–
-#0493,Arceus,Forma Coleottero,Coleottero,,Pokémon Primevo,Base,120,120,120,120,120,120,720,"120,00",,,,,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
-#0493,Arceus,Forma Spettro,Spettro,,Pokémon Primevo,Base,120,120,120,120,120,120,720,"120,00",,,,,Spettro - Psico,–,Buio - Spettro,–
-#0493,Arceus,Forma Acciaio,Acciaio,,Pokémon Primevo,Base,120,120,120,120,120,120,720,"120,00",,,,,Folletto - Ghiaccio - Roccia,–,Lotta - Fuoco - Terra,–
-#0493,Arceus,Forma Fuoco,Fuoco,,Pokémon Primevo,Base,120,120,120,120,120,120,720,"120,00",,,,,Coleottero - Erba - Ghiaccio - Acciaio,–,Terra - Roccia - Acqua,–
-#0493,Arceus,Forma Acqua,Acqua,,Pokémon Primevo,Base,120,120,120,120,120,120,720,"120,00",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0493,Arceus,Forma Erba,Erba,,Pokémon Primevo,Base,120,120,120,120,120,120,720,"120,00",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0493,Arceus,Forma Elettro,Elettro,,Pokémon Primevo,Base,120,120,120,120,120,120,720,"120,00",,,,,Volante - Acqua,–,Terra,–
-#0493,Arceus,Forma Psico,Psico,,Pokémon Primevo,Base,120,120,120,120,120,120,720,"120,00",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0493,Arceus,Forma Ghiaccio,Ghiaccio,,Pokémon Primevo,Base,120,120,120,120,120,120,720,"120,00",,,,,Drago - Volante - Erba - Terra,–,Lotta - Fuoco - Roccia - Acciaio,–
-#0493,Arceus,Forma Drago,Drago,,Pokémon Primevo,Base,120,120,120,120,120,120,720,"120,00",,,,,Drago,–,Drago - Folletto - Ghiaccio,–
-#0493,Arceus,Forma Buio,Buio,,Pokémon Primevo,Base,120,120,120,120,120,120,720,"120,00",,,,,Spettro - Psico,–,Coleottero - Folletto - Lotta,–
-#0493,Arceus,Forma Folletto,Folletto,,Pokémon Primevo,Base,120,120,120,120,120,120,720,"120,00",,,,,Lotta - Buio - Drago,–,Veleno - Acciaio,–
 #0494,Victini,,Psico,Fuoco,Pokémon Vittoria,Base,100,100,100,100,100,100,600,"100,00",Baton Pass,Light Screen,Protect,Rest,Lotta - Veleno,Coleottero - Erba - Ghiaccio - Acciaio,Coleottero - Buio - Spettro,Terra - Roccia - Acqua
-#0495,Snivy,,Erba,,Pokémon Serperba,Base,45,45,55,45,55,63,308,"51,33",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0496,Servine,,Erba,,Pokémon Serperba,Stadio 1,60,60,75,60,75,83,413,"68,83",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0497,Serperior,,Erba,,Pokémon Regale,Stadio 2,75,75,95,75,95,113,528,"88,00",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0498,Tepig,,Fuoco,,Pokémon Suinfuoco,Base,65,63,45,45,45,45,308,"51,33",,,,,Coleottero - Erba - Ghiaccio - Acciaio,–,Terra - Roccia - Acqua,–
-#0499,Pignite,,Fuoco,Lotta,Pokémon Suinfuoco,Stadio 1,90,93,55,70,55,55,418,"69,67",,,,,Coleottero - Erba - Ghiaccio - Acciaio,Buio - Ghiaccio - Normale - Roccia - Acciaio,Terra - Roccia - Acqua,Folletto - Volante - Psico
-#0500,Emboar,,Fuoco,Lotta,Pokémon Suincendio,Stadio 2,110,123,65,100,65,65,528,"88,00",,,,,Coleottero - Erba - Ghiaccio - Acciaio,Buio - Ghiaccio - Normale - Roccia - Acciaio,Terra - Roccia - Acqua,Folletto - Volante - Psico
-#0501,Oshawott,,Acqua,,Pokémon Lontra,Base,55,55,45,63,45,45,308,"51,33",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0502,Dewott,,Acqua,,Pokémon Apprendista,Stadio 1,75,75,60,83,60,60,413,"68,83",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0503,Samurott,Forma Normale,Acqua,Buio,Pokémon Dignità,Stadio 2,95,100,85,108,70,70,528,"88,00",,,,,Fuoco - Terra - Roccia,Spettro - Psico,Elettro - Erba,Coleottero - Folletto - Lotta
-#0503,Samurott,Forma Hisui,Acqua,,Pokémon Dignità,Stadio 2,90,108,80,100,65,85,528,"88,00",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0504,Patrat,,Normale,,Pokémon Esplorante,Base,45,55,39,35,39,42,255,"42,50",,,,,–,–,Lotta,–
-#0505,Watchog,,Normale,,Pokémon Sentinella,Stadio 1,60,85,69,60,69,77,420,"70,00",,,,,–,–,Lotta,–
 #0506,Lillipup,,Normale,,Pokémon Cagnolino,Base,45,60,45,25,45,55,275,"45,83",Howl,Protect,Rest,Snarl,–,–,Lotta,–
 #0507,Herdier,,Normale,,Pokémon Fedeltà,Stadio 1,65,80,65,35,65,60,370,"61,67",Howl,Protect,Rest,Snarl,–,–,Lotta,–
 #0508,Stoutland,,Normale,,Pokémon Generosità,Stadio 2,85,110,90,45,90,80,500,"83,33",Baby-Doll Eyes,Crunch,Giga Impact,Howl,–,–,Lotta,–
 #0509,Purrloin,,Buio,,Pokémon Furbizia,Base,41,50,37,50,37,66,281,"46,83",Baton Pass,Fake Out,Knock Off,Protect,Spettro - Psico,–,Coleottero - Folletto - Lotta,–
 #0510,Liepard,,Buio,,Pokémon Sanguefreddo,Stadio 1,64,88,50,88,50,106,446,"74,33",Baton Pass,Copycat,Fake Out,Fake Tears,Spettro - Psico,–,Coleottero - Folletto - Lotta,–
-#0511,Pansage,,Erba,,Pokémon Scimperba,Base,50,53,48,53,48,64,316,"52,67",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0512,Simisage,,Erba,,Pokémon Spinpanzé,Stadio 1,75,98,63,98,63,101,498,"83,00",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0513,Pansear,,Fuoco,,Pokémon Testacalda,Base,50,53,48,53,48,64,316,"52,67",,,,,Coleottero - Erba - Ghiaccio - Acciaio,–,Terra - Roccia - Acqua,–
-#0514,Simisear,,Fuoco,,Pokémon Sfavillante,Stadio 1,75,98,63,98,63,101,498,"83,00",,,,,Coleottero - Erba - Ghiaccio - Acciaio,–,Terra - Roccia - Acqua,–
-#0515,Panpour,,Acqua,,Pokémon Annaffiatore,Base,50,53,48,53,48,64,316,"52,67",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0516,Simipour,,Acqua,,Pokémon Spruzzacqua,Stadio 1,75,98,63,98,63,101,498,"83,00",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0517,Munna,,Psico,,Pokémon Divorasogni,Base,76,25,45,67,55,24,292,"48,67",Baton Pass,Light Screen,Protect,Reflect,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
 #0518,Musharna,,Psico,,Pokémon Dormiveglia,Stadio 1,116,55,85,107,95,29,487,"81,17",Ally Switch,Baton Pass,Helping Hand,Imprison,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
 #0519,Pidove,,Normale,Volante,Pokémon Piccione,Base,50,55,50,36,30,43,264,"44,00",Protect,Rest,Roost,Taunt,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
 #0520,Tranquill,,Normale,Volante,Pokémon Granpiccione,Stadio 1,62,77,62,50,42,65,358,"59,67",Protect,Rest,Roost,Taunt,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
 #0521,Unfezant,Maschio,Normale,Volante,Pokémon Orgoglio,Stadio 2,80,115,80,65,55,93,488,"81,33",Brave Bird,Detect,Night Slash,Protect,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
 #0521,Unfezant,Femmina,Normale,Volante,Pokémon Orgoglio,Stadio 2,80,115,80,65,55,93,488,"81,33",Brave Bird,Detect,Night Slash,Protect,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
-#0522,Blitzle,,Elettro,,Pokémon Caricavolt,Base,45,60,32,50,32,76,295,"49,17",,,,,Volante - Acqua,–,Terra,–
-#0523,Zebstrika,,Elettro,,Pokémon Saetta,Stadio 1,75,100,63,80,63,116,497,"82,83",,,,,Volante - Acqua,–,Terra,–
 #0524,Roggenrola,,Roccia,,Pokémon Placca,Base,55,75,85,25,25,15,280,"46,67",Earthquake,Protect,Rest,Stealth Rock,Coleottero - Fuoco - Volante - Ghiaccio,–,Lotta - Erba - Terra - Acciaio - Acqua,–
 #0525,Boldore,,Roccia,,Pokémon Minerale,Stadio 1,70,105,105,50,40,20,390,"65,00",Earthquake,Protect,Rest,Stealth Rock,Coleottero - Fuoco - Volante - Ghiaccio,–,Lotta - Erba - Terra - Acciaio - Acqua,–
 #0526,Gigalith,,Roccia,,Pokémon Pressionalta,Stadio 2,85,135,130,60,80,25,515,"85,83",Earthquake,Heavy Slam,Iron Head,Protect,Coleottero - Fuoco - Volante - Ghiaccio,–,Lotta - Erba - Terra - Acciaio - Acqua,–
@@ -649,9 +373,6 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0537,Seismitoad,,Acqua,Terra,Pokémon Vibrazione,Stadio 2,105,95,75,85,75,74,509,"84,83",Bulldoze,Earth Power,Earthquake,Grass Knot,Fuoco - Terra - Roccia,Elettro - Fuoco - Veleno - Roccia - Acciaio,Elettro - Erba,Erba - Ghiaccio - Acqua
 #0538,Throh,,Lotta,,Pokémon Judo,Base,120,100,85,30,85,45,465,"77,50",Earthquake,Knock Off,Protect,Rest,Buio - Ghiaccio - Normale - Roccia - Acciaio,–,Folletto - Volante - Psico,–
 #0539,Sawk,,Lotta,,Pokémon Karate,Base,75,125,75,30,75,85,465,"77,50",Earthquake,Knock Off,Protect,Rest,Buio - Ghiaccio - Normale - Roccia - Acciaio,–,Folletto - Volante - Psico,–
-#0540,Sewaddle,,Coleottero,Erba,Pokémon Grancucito,Base,45,53,70,40,60,42,310,"51,67",,,,,Erba - Buio - Psico,Terra - Roccia - Acqua,Fuoco - Volante - Roccia,Coleottero - Fuoco - Volante - Ghiaccio - Veleno
-#0541,Swadloon,,Coleottero,Erba,Pokémon Coprifoglia,Stadio 1,55,63,90,50,80,42,380,"63,33",,,,,Erba - Buio - Psico,Terra - Roccia - Acqua,Fuoco - Volante - Roccia,Coleottero - Fuoco - Volante - Ghiaccio - Veleno
-#0542,Leavanny,,Coleottero,Erba,Pokémon Balia,Stadio 2,75,103,80,70,80,92,500,"83,33",,,,,Erba - Buio - Psico,Terra - Roccia - Acqua,Fuoco - Volante - Roccia,Coleottero - Fuoco - Volante - Ghiaccio - Veleno
 #0543,Venipede,,Coleottero,Veleno,Pokémon Centipede,Base,30,45,59,30,39,57,260,"43,33",Protect,Rest,Toxic,,Erba - Buio - Psico,Folletto - Erba,Fuoco - Volante - Roccia,Terra - Psico
 #0544,Whirlipede,,Coleottero,Veleno,Pokémon Rotopede,Stadio 1,40,55,99,40,79,47,360,"60,00",Protect,Rest,Toxic,,Erba - Buio - Psico,Folletto - Erba,Fuoco - Volante - Roccia,Terra - Psico
 #0545,Scolipede,,Coleottero,Veleno,Pokémon Megapede,Stadio 2,60,100,89,55,69,112,485,"80,83",Baton Pass,Bulldoze,Earthquake,Megahorn,Erba - Buio - Psico,Folletto - Erba,Fuoco - Volante - Roccia,Terra - Psico
@@ -686,7 +407,7 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0566,Archen,,Roccia,Volante,Pokémon Paleouccello,Base,55,112,45,74,45,70,401,"66,83",Earthquake,Head Smash,Knock Off,Protect,Coleottero - Fuoco - Volante - Ghiaccio,Coleottero - Lotta - Erba,Lotta - Erba - Terra - Acciaio - Acqua,Elettro - Ghiaccio - Roccia
 #0567,Archeops,,Roccia,Volante,Pokémon Paleouccello,Stadio 1,75,140,65,112,65,110,567,"94,50",Air Slash,Dual Wingbeat,Earth Power,Earthquake,Coleottero - Fuoco - Volante - Ghiaccio,Coleottero - Lotta - Erba,Lotta - Erba - Terra - Acciaio - Acqua,Elettro - Ghiaccio - Roccia
 #0568,Trubbish,,Veleno,,Pokémon Spazzatura,Base,50,50,62,40,62,65,329,"54,83",Protect,Rest,Toxic,,Folletto - Erba,–,Terra - Psico,–
-#0569,Garbodor,Forma Normale,Veleno,,Pokémon Discarica,Stadio 1,80,95,82,60,82,75,474,"79,00",,Body Press,Corrosive Gas,Drain Punch,Folletto - Erba,–,Terra - Psico,–
+#0569,Garbodor,Forma Normale,Veleno,,Pokémon Discarica,Stadio 1,80,95,82,60,82,75,474,"79,00",Body Press,Corrosive Gas,Drain Punch,,Folletto - Erba,–,Terra - Psico,–
 #0570,Zorua,Forma Normale,Buio,,Pokémon Malavolpe,Base,40,65,40,80,40,65,330,"55,00",Knock Off,Protect,Rest,Snarl,Spettro - Psico,–,Coleottero - Folletto - Lotta,–
 #0570,Zorua,Forma Hisui,Normale,Spettro,Pokémon Rancorvolpe,Base,35,60,40,85,40,70,330,"55,00",Knock Off,Protect,Rest,Snarl,–,Spettro - Psico,Lotta,Buio - Spettro
 #0571,Zoroark,Forma Normale,Buio,,Pokémon Mutevolpe,Stadio 1,60,105,60,120,60,105,510,"85,00",Burning Jealousy,Dark Pulse,Fake Tears,Flamethrower,Spettro - Psico,–,Coleottero - Folletto - Lotta,–
@@ -699,19 +420,9 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0577,Solosis,,Psico,,Pokémon Cellula,Base,45,30,40,105,50,20,290,"48,33",Light Screen,Protect,Reflect,Rest,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
 #0578,Duosion,,Psico,,Pokémon Scissione,Stadio 1,65,40,50,125,60,30,370,"61,67",Light Screen,Protect,Reflect,Rest,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
 #0579,Reuniclus,,Psico,,Pokémon Espansione,Stadio 2,110,65,75,125,85,30,490,"81,67",Energy Ball,Expanding Force,Focus Blast,Knock Off,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0580,Ducklett,,Acqua,Volante,Pokémon Alacquatico,Base,62,44,50,44,50,55,305,"50,83",,,,,Fuoco - Terra - Roccia,Coleottero - Lotta - Erba,Elettro - Erba,Elettro - Ghiaccio - Roccia
-#0581,Swanna,,Acqua,Volante,Pokémon Biancuccello,Stadio 1,75,87,63,87,63,98,473,"78,83",,,,,Fuoco - Terra - Roccia,Coleottero - Lotta - Erba,Elettro - Erba,Elettro - Ghiaccio - Roccia
 #0582,Vanillite,,Ghiaccio,,Pokémon Nevefresca,Base,36,50,50,65,60,44,305,"50,83",Ice Beam,Light Screen,Protect,Rest,Drago - Volante - Erba - Terra,–,Lotta - Fuoco - Roccia - Acciaio,–
 #0583,Vanillish,,Ghiaccio,,Pokémon Geloneve,Stadio 1,51,65,65,80,75,59,395,"65,83",Ice Beam,Light Screen,Protect,Rest,Drago - Volante - Erba - Terra,–,Lotta - Fuoco - Roccia - Acciaio,–
 #0584,Vanilluxe,,Ghiaccio,,Pokémon Bufera,Stadio 2,71,95,85,110,95,79,535,"89,17",Aurora Veil,Beat Up,Blizzard,Freeze-Dry,Drago - Volante - Erba - Terra,–,Lotta - Fuoco - Roccia - Acciaio,–
-#0585,Deerling,Forma Primavera,Normale,Erba,Pokémon Stagione,Base,60,60,50,40,50,75,335,"55,83",,,,,–,Terra - Roccia - Acqua,Lotta,Coleottero - Fuoco - Volante - Ghiaccio - Veleno
-#0585,Deerling,Forma Estate,Normale,Erba,Pokémon Stagione,Base,60,60,50,40,50,75,335,"55,83",,,,,–,Terra - Roccia - Acqua,Lotta,Coleottero - Fuoco - Volante - Ghiaccio - Veleno
-#0585,Deerling,Forma Autunno,Normale,Erba,Pokémon Stagione,Base,60,60,50,40,50,75,335,"55,83",,,,,–,Terra - Roccia - Acqua,Lotta,Coleottero - Fuoco - Volante - Ghiaccio - Veleno
-#0585,Deerling,Forma Inverno,Normale,Erba,Pokémon Stagione,Base,60,60,50,40,50,75,335,"55,83",,,,,–,Terra - Roccia - Acqua,Lotta,Coleottero - Fuoco - Volante - Ghiaccio - Veleno
-#0586,Sawsbuck,Forma Primavera,Normale,Erba,Pokémon Stagione,Stadio 1,80,100,70,60,70,95,475,"79,17",,,,,–,Terra - Roccia - Acqua,Lotta,Coleottero - Fuoco - Volante - Ghiaccio - Veleno
-#0586,Sawsbuck,Forma Estate,Normale,Erba,Pokémon Stagione,Stadio 1,80,100,70,60,70,95,475,"79,17",,,,,–,Terra - Roccia - Acqua,Lotta,Coleottero - Fuoco - Volante - Ghiaccio - Veleno
-#0586,Sawsbuck,Forma Autunno,Normale,Erba,Pokémon Stagione,Stadio 1,80,100,70,60,70,95,475,"79,17",,,,,–,Terra - Roccia - Acqua,Lotta,Coleottero - Fuoco - Volante - Ghiaccio - Veleno
-#0586,Sawsbuck,Forma Inverno,Normale,Erba,Pokémon Stagione,Stadio 1,80,100,70,60,70,95,475,"79,17",,,,,–,Terra - Roccia - Acqua,Lotta,Coleottero - Fuoco - Volante - Ghiaccio - Veleno
 #0587,Emolga,,Elettro,Volante,Pokémon Petauro,Base,55,75,60,75,60,103,428,"71,33",Baton Pass,Charm,Eerie Impulse,Knock Off,Volante - Acqua,Coleottero - Lotta - Erba,Terra,Elettro - Ghiaccio - Roccia
 #0588,Karrablast,,Coleottero,,Pokémon Addentatore,Base,50,75,45,40,45,60,315,"52,50",Knock Off,Protect,Rest,Toxic,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
 #0589,Escavalier,,Coleottero,Acciaio,Pokémon Cavaliere,Stadio 1,70,135,105,60,105,20,495,"82,50",Close Combat,Drill Run,Iron Head,Knock Off,Erba - Buio - Psico,Folletto - Ghiaccio - Roccia,Fuoco - Volante - Roccia,Lotta - Fuoco - Terra
@@ -721,7 +432,6 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0592,Frillish,Femmina,Acqua,Spettro,Pokémon Fluttuante,Base,55,40,50,65,85,40,335,"55,83",Destiny Bond,Hydro Pump,Ice Beam,Protect,Fuoco - Terra - Roccia,Spettro - Psico,Elettro - Erba,Buio - Spettro
 #0593,Jellicent,Maschio,Acqua,Spettro,Pokémon Fluttuante,Stadio 1,100,60,70,85,105,60,480,"80,00",Dazzling Gleam,Destiny Bond,Hydro Pump,Ice Beam,Fuoco - Terra - Roccia,Spettro - Psico,Elettro - Erba,Buio - Spettro
 #0593,Jellicent,Femmina,Acqua,Spettro,Pokémon Fluttuante,Stadio 1,100,60,70,85,105,60,480,"80,00",Dazzling Gleam,Destiny Bond,Hydro Pump,Ice Beam,Fuoco - Terra - Roccia,Spettro - Psico,Elettro - Erba,Buio - Spettro
-#0594,Alomomola,,Acqua,,Pokémon Assistenza,Base,165,75,80,40,45,65,470,"78,33",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0595,Joltik,,Coleottero,Elettro,Pokémon Appiccicante,Base,50,47,50,57,50,65,319,"53,17",Light Screen,Protect,Rest,Toxic,Erba - Buio - Psico,Volante - Acqua,Fuoco - Volante - Roccia,Terra
 #0596,Galvantula,,Coleottero,Elettro,Pokémon Elettroragno,Stadio 1,70,77,60,97,60,108,472,"78,67",Bug Buzz,Electroweb,Energy Ball,Light Screen,Erba - Buio - Psico,Volante - Acqua,Fuoco - Volante - Roccia,Terra
 #0597,Ferroseed,,Erba,Acciaio,Pokémon Spinaseme,Base,44,50,91,24,86,10,305,"50,83",Knock Off,Protect,Rest,Stealth Rock,Terra - Roccia - Acqua,Folletto - Ghiaccio - Roccia,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Lotta - Fuoco - Terra
@@ -729,9 +439,6 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0599,Klink,,Acciaio,,Pokémon Ingranaggio,Base,40,55,70,45,60,30,300,"50,00",Protect,Rest,Toxic,Volt Switch,Folletto - Ghiaccio - Roccia,–,Lotta - Fuoco - Terra,–
 #0600,Klang,,Acciaio,,Pokémon Ingranaggio,Stadio 1,60,80,95,70,85,50,440,"73,33",Protect,Rest,Toxic,Volt Switch,Folletto - Ghiaccio - Roccia,–,Lotta - Fuoco - Terra,–
 #0601,Klinklang,,Acciaio,,Pokémon Ingranaggio,Stadio 2,60,100,115,70,85,90,520,"86,67",Gear Grind,Giga Impact,Protect,Rest,Folletto - Ghiaccio - Roccia,–,Lotta - Fuoco - Terra,–
-#0602,Tynamo,,Elettro,,Pokémon Elettropesce,Base,35,55,40,45,40,60,275,"45,83",,,,,Volante - Acqua,–,Terra,–
-#0603,Eelektrik,,Elettro,,Pokémon Elettropesce,Stadio 1,65,85,70,75,70,40,405,"67,50",,,,,Volante - Acqua,–,Terra,–
-#0604,Eelektross,,Elettro,,Pokémon Elettropesce,Stadio 2,85,115,80,105,80,50,515,"85,83",,,,,Volante - Acqua,–,Terra,–
 #0605,Elgyem,,Psico,,Pokémon Cervello,Base,55,55,55,85,55,30,335,"55,83",Destiny Bond,Light Screen,Protect,Reflect,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
 #0606,Beheeyem,,Psico,,Pokémon Cervello,Stadio 1,75,75,75,125,95,40,485,"80,83",Dark Pulse,Destiny Bond,Energy Ball,Expanding Force,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
 #0607,Litwick,,Spettro,Fuoco,Pokémon Candela,Base,50,30,55,65,55,20,275,"45,83",Protect,Rest,Taunt,Toxic,Spettro - Psico,Coleottero - Erba - Ghiaccio - Acciaio,Buio - Spettro,Terra - Roccia - Acqua
@@ -783,82 +490,15 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0646,Kyurem,Kyurem Nero,Drago,Ghiaccio,Pokémon Confine,Base,125,170,100,120,90,95,700,"116,67",Ice Beam,Light Screen,Protect,Reflect,Drago,Drago - Volante - Erba - Terra,Drago - Folletto - Ghiaccio,Lotta - Fuoco - Roccia - Acciaio
 #0647,Keldeo,Forma Normale,Acqua,Lotta,Pokémon Puledro,Base,91,72,90,129,90,108,580,"96,67",Flip Turn,Hydro Pump,Protect,Reflect,Fuoco - Terra - Roccia,Buio - Ghiaccio - Normale - Roccia - Acciaio,Elettro - Erba,Folletto - Volante - Psico
 #0647,Keldeo,Forma Risoluta,Acqua,Lotta,Pokémon Puledro,Base,91,72,90,129,90,108,580,"96,67",Flip Turn,Hydro Pump,Protect,Reflect,Fuoco - Terra - Roccia,Buio - Ghiaccio - Normale - Roccia - Acciaio,Elettro - Erba,Folletto - Volante - Psico
-#0648,Meloetta,Forma Canto,Normale,Psico,Pokémon Melodia,Base,100,77,77,128,128,90,600,"100,00",,,,,–,Lotta - Veleno,Lotta,Coleottero - Buio - Spettro
-#0648,Meloetta,Forma Danza,Normale,Lotta,Pokémon Melodia,Base,100,128,90,77,77,128,600,"100,00",,,,,–,Buio - Ghiaccio - Normale - Roccia - Acciaio,Lotta,Folletto - Volante - Psico
 #0649,Genesect,,Coleottero,Acciaio,Pokémon Paleozoico,Base,71,120,95,120,95,99,600,"100,00",Ice Beam,Light Screen,Protect,Reflect,Erba - Buio - Psico,Folletto - Ghiaccio - Roccia,Fuoco - Volante - Roccia,Lotta - Fuoco - Terra
-#0650,Chespin,,Erba,,Pokémon Castanriccio,Base,56,61,65,48,45,38,313,"52,17",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0651,Quilladin,,Erba,,Pokémon Spincorazza,Stadio 1,61,78,95,56,58,57,405,"67,50",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0652,Chesnaught,,Erba,Lotta,Pokémon Spincorazza,Stadio 2,88,107,122,74,75,64,530,"88,33",,,,,Terra - Roccia - Acqua,Buio - Ghiaccio - Normale - Roccia - Acciaio,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Folletto - Volante - Psico
-#0653,Fennekin,,Fuoco,,Pokémon Volpe,Base,40,45,40,62,60,60,307,"51,17",,,,,Coleottero - Erba - Ghiaccio - Acciaio,–,Terra - Roccia - Acqua,–
-#0654,Braixen,,Fuoco,,Pokémon Volpe,Stadio 1,59,59,58,90,70,73,409,"68,17",,,,,Coleottero - Erba - Ghiaccio - Acciaio,–,Terra - Roccia - Acqua,–
-#0655,Delphox,,Fuoco,Psico,Pokémon Volpe,Stadio 2,75,69,72,114,100,104,534,"89,00",,,,,Coleottero - Erba - Ghiaccio - Acciaio,Lotta - Veleno,Terra - Roccia - Acqua,Coleottero - Buio - Spettro
-#0656,Froakie,,Acqua,,Pokémon Schiumorana,Base,41,56,40,62,44,71,314,"52,33",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0657,Frogadier,,Acqua,,Pokémon Schiumorana,Stadio 1,54,63,52,83,56,97,405,"67,50",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0658,Greninja,Forma Normale,Acqua,Buio,Pokémon Ninja,Stadio 2,72,95,67,103,71,122,530,"88,33",,,,,Fuoco - Terra - Roccia,Spettro - Psico,Elettro - Erba,Coleottero - Folletto - Lotta
-#0658,Greninja,Forma Ash,Acqua,Buio,Pokémon Ninja,Stadio 2,72,145,67,153,71,132,640,"106,67",,,,,Fuoco - Terra - Roccia,Spettro - Psico,Elettro - Erba,Coleottero - Folletto - Lotta
 #0659,Bunnelby,,Normale,,Pokémon Scavabuche,Base,38,36,38,32,36,57,237,"39,50",Earthquake,Protect,Rest,Toxic,–,–,Lotta,–
 #0660,Diggersby,,Normale,Terra,Pokémon Scavabuche,Stadio 1,85,56,77,50,77,78,423,"70,50",Earthquake,Giga Impact,High Horsepower,Ice Punch,–,Elettro - Fuoco - Veleno - Roccia - Acciaio,Lotta,Erba - Ghiaccio - Acqua
 #0661,Fletchling,,Normale,Volante,Pokémon Pettirosso,Base,45,50,43,40,38,62,278,"46,33",Protect,Rest,Roost,Taunt,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
 #0662,Fletchinder,,Fuoco,Volante,Pokémon Sfavillante,Stadio 1,62,73,55,56,52,84,382,"63,67",Protect,Rest,Roost,Taunt,Coleottero - Erba - Ghiaccio - Acciaio,Coleottero - Lotta - Erba,Terra - Roccia - Acqua,Elettro - Ghiaccio - Roccia
 #0663,Talonflame,,Fuoco,Volante,Pokémon Ardifiamma,Stadio 2,78,81,71,74,69,126,499,"83,17",Brave Bird,Dual Wingbeat,Flare Blitz,Heat Wave,Coleottero - Erba - Ghiaccio - Acciaio,Coleottero - Lotta - Erba,Terra - Roccia - Acqua,Elettro - Ghiaccio - Roccia
-#0664,Scatterbug,,Coleottero,,Pokémon Tirascaglie,Base,38,35,40,27,25,35,200,"33,33",,,,,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
-#0665,Spewpa,,Coleottero,,Pokémon Tirascaglie,Stadio 1,45,22,60,27,30,29,213,"35,50",,,,,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
-#0666,Vivillon,Nevi Perenni,Coleottero,Volante,Pokémon Farfascaglia,Stadio 2,80,52,50,90,50,89,411,"68,50",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0666,Vivillon,Nordico,Coleottero,Volante,Pokémon Farfascaglia,Stadio 2,80,52,50,90,50,89,411,"68,50",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0666,Vivillon,Manto di Neve,Coleottero,Volante,Pokémon Farfascaglia,Stadio 2,80,52,50,90,50,89,411,"68,50",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0666,Vivillon,Continentale,Coleottero,Volante,Pokémon Farfascaglia,Stadio 2,80,52,50,90,50,89,411,"68,50",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0666,Vivillon,Prato,Coleottero,Volante,Pokémon Farfascaglia,Stadio 2,80,52,50,90,50,89,411,"68,50",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0666,Vivillon,Eleganza,Coleottero,Volante,Pokémon Farfascaglia,Stadio 2,80,52,50,90,50,89,411,"68,50",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0666,Vivillon,Giardinfiore,Coleottero,Volante,Pokémon Farfascaglia,Stadio 2,80,52,50,90,50,89,411,"68,50",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0666,Vivillon,Trendy,Coleottero,Volante,Pokémon Farfascaglia,Stadio 2,80,52,50,90,50,89,411,"68,50",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0666,Vivillon,Marino,Coleottero,Volante,Pokémon Farfascaglia,Stadio 2,80,52,50,90,50,89,411,"68,50",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0666,Vivillon,Arcipelago,Coleottero,Volante,Pokémon Farfascaglia,Stadio 2,80,52,50,90,50,89,411,"68,50",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0666,Vivillon,Deserto,Coleottero,Volante,Pokémon Farfascaglia,Stadio 2,80,52,50,90,50,89,411,"68,50",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0666,Vivillon,Sabbia,Coleottero,Volante,Pokémon Farfascaglia,Stadio 2,80,52,50,90,50,89,411,"68,50",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0666,Vivillon,Fluviale,Coleottero,Volante,Pokémon Farfascaglia,Stadio 2,80,52,50,90,50,89,411,"68,50",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0666,Vivillon,Pluviale,Coleottero,Volante,Pokémon Farfascaglia,Stadio 2,80,52,50,90,50,89,411,"68,50",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0666,Vivillon,Savana,Coleottero,Volante,Pokémon Farfascaglia,Stadio 2,80,52,50,90,50,89,411,"68,50",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0666,Vivillon,Solare,Coleottero,Volante,Pokémon Farfascaglia,Stadio 2,80,52,50,90,50,89,411,"68,50",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0666,Vivillon,Oceanico,Coleottero,Volante,Pokémon Farfascaglia,Stadio 2,80,52,50,90,50,89,411,"68,50",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0666,Vivillon,Giungla,Coleottero,Volante,Pokémon Farfascaglia,Stadio 2,80,52,50,90,50,89,411,"68,50",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0666,Vivillon,Sbarazzino,Coleottero,Volante,Pokémon Farfascaglia,Stadio 2,80,52,50,90,50,89,411,"68,50",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0666,Vivillon,Poké Ball,Coleottero,Volante,Pokémon Farfascaglia,Stadio 2,80,52,50,90,50,89,411,"68,50",,,,,Erba - Buio - Psico,Coleottero - Lotta - Erba,Fuoco - Volante - Roccia,Elettro - Ghiaccio - Roccia
-#0667,Litleo,,Normale,Fuoco,Pokémon Leoncino,Base,62,50,58,73,54,72,369,"61,50",,,,,–,Coleottero - Erba - Ghiaccio - Acciaio,Lotta,Terra - Roccia - Acqua
-#0668,Pyroar,Maschio,Normale,Fuoco,Pokémon Reale,Stadio 1,86,68,72,109,66,106,507,"84,50",,,,,–,Coleottero - Erba - Ghiaccio - Acciaio,Lotta,Terra - Roccia - Acqua
-#0668,Pyroar,Femmina,Normale,Fuoco,Pokémon Reale,Stadio 1,86,68,72,109,66,106,507,"84,50",,,,,–,Coleottero - Erba - Ghiaccio - Acciaio,Lotta,Terra - Roccia - Acqua
-#0669,Flabébé,Rosso,Folletto,,Pokémon Monofiore,Base,44,38,39,61,79,42,303,"50,50",,,,,Lotta - Buio - Drago,–,Veleno - Acciaio,–
-#0669,Flabébé,Giallo,Folletto,,Pokémon Monofiore,Base,44,38,39,61,79,42,303,"50,50",,,,,Lotta - Buio - Drago,–,Veleno - Acciaio,–
-#0669,Flabébé,Arancione,Folletto,,Pokémon Monofiore,Base,44,38,39,61,79,42,303,"50,50",,,,,Lotta - Buio - Drago,–,Veleno - Acciaio,–
-#0669,Flabébé,Blu,Folletto,,Pokémon Monofiore,Base,44,38,39,61,79,42,303,"50,50",,,,,Lotta - Buio - Drago,–,Veleno - Acciaio,–
-#0669,Flabébé,Bianco,Folletto,,Pokémon Monofiore,Base,44,38,39,61,79,42,303,"50,50",,,,,Lotta - Buio - Drago,–,Veleno - Acciaio,–
-#0670,Floette,Rosso,Folletto,,Pokémon Monofiore,Stadio 1,54,45,47,75,98,52,371,"61,83",,,,,Lotta - Buio - Drago,–,Veleno - Acciaio,–
-#0670,Floette,Giallo,Folletto,,Pokémon Monofiore,Stadio 1,54,45,47,75,98,52,371,"61,83",,,,,Lotta - Buio - Drago,–,Veleno - Acciaio,–
-#0670,Floette,Arancione,Folletto,,Pokémon Monofiore,Stadio 1,54,45,47,75,98,52,371,"61,83",,,,,Lotta - Buio - Drago,–,Veleno - Acciaio,–
-#0670,Floette,Blu,Folletto,,Pokémon Monofiore,Stadio 1,54,45,47,75,98,52,371,"61,83",,,,,Lotta - Buio - Drago,–,Veleno - Acciaio,–
-#0670,Floette,Bianco,Folletto,,Pokémon Monofiore,Stadio 1,54,45,47,75,98,52,371,"61,83",,,,,Lotta - Buio - Drago,–,Veleno - Acciaio,–
-#0671,Florges,Rosso,Folletto,,Pokémon Giardino,Stadio 2,78,65,68,112,154,75,552,"92,00",,,,,Lotta - Buio - Drago,–,Veleno - Acciaio,–
-#0671,Florges,Giallo,Folletto,,Pokémon Giardino,Stadio 2,78,65,68,112,154,75,552,"92,00",,,,,Lotta - Buio - Drago,–,Veleno - Acciaio,–
-#0671,Florges,Arancione,Folletto,,Pokémon Giardino,Stadio 2,78,65,68,112,154,75,552,"92,00",,,,,Lotta - Buio - Drago,–,Veleno - Acciaio,–
-#0671,Florges,Blu,Folletto,,Pokémon Giardino,Stadio 2,78,65,68,112,154,75,552,"92,00",,,,,Lotta - Buio - Drago,–,Veleno - Acciaio,–
-#0671,Florges,Bianco,Folletto,,Pokémon Giardino,Stadio 2,78,65,68,112,154,75,552,"92,00",,,,,Lotta - Buio - Drago,–,Veleno - Acciaio,–
-#0672,Skiddo,,Erba,,Pokémon Cavalcatura,Base,66,65,48,62,57,52,350,"58,33",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0673,Gogoat,,Erba,,Pokémon Cavalcatura,Stadio 1,123,100,62,97,81,68,531,"88,50",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
 #0674,Pancham,,Lotta,,Pokémon Briccone,Base,67,82,62,46,48,43,348,"58,00",Knock Off,Parting Shot,Protect,Rest,Buio - Ghiaccio - Normale - Roccia - Acciaio,–,Folletto - Volante - Psico,–
 #0675,Pangoro,,Lotta,Buio,Pokémon Occhiotruce,Stadio 1,95,124,78,69,71,58,495,"82,50",Earthquake,Knock Off,Parting Shot,Protect,Buio - Ghiaccio - Normale - Roccia - Acciaio,Spettro - Psico,Folletto - Volante - Psico,Coleottero - Folletto - Lotta
-#0676,Furfrou,Forma Selvatica,Normale,,Pokémon Barboncino,Base,75,80,60,65,90,102,472,"78,67",,,,,–,–,Lotta,–
-#0676,Furfrou,Taglio Cuore,Normale,,Pokémon Barboncino,Base,75,80,60,65,90,102,472,"78,67",,,,,–,–,Lotta,–
-#0676,Furfrou,Taglio Stella,Normale,,Pokémon Barboncino,Base,75,80,60,65,90,102,472,"78,67",,,,,–,–,Lotta,–
-#0676,Furfrou,Tagli Diamante,Normale,,Pokémon Barboncino,Base,75,80,60,65,90,102,472,"78,67",,,,,–,–,Lotta,–
-#0676,Furfrou,Taglio Signorina,Normale,,Pokémon Barboncino,Base,75,80,60,65,90,102,472,"78,67",,,,,–,–,Lotta,–
-#0676,Furfrou,Tagli Gentildonna,Normale,,Pokémon Barboncino,Base,75,80,60,65,90,102,472,"78,67",,,,,–,–,Lotta,–
-#0676,Furfrou,Taglio Gentiluomo,Normale,,Pokémon Barboncino,Base,75,80,60,65,90,102,472,"78,67",,,,,–,–,Lotta,–
-#0676,Furfrou,Taglio Regina,Normale,,Pokémon Barboncino,Base,75,80,60,65,90,102,472,"78,67",,,,,–,–,Lotta,–
-#0676,Furfrou,Taglio Kabuki,Normale,,Pokémon Barboncino,Base,75,80,60,65,90,102,472,"78,67",,,,,–,–,Lotta,–
-#0676,Furfrou,Taglio Faraone,Normale,,Pokémon Barboncino,Base,75,80,60,65,90,102,472,"78,67",,,,,–,–,Lotta,–
 #0677,Espurr,,Psico,,Pokémon Moderazione,Base,62,48,54,63,60,68,355,"59,17",Fake Out,Light Screen,Protect,Reflect,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0678,Meowstic,Maschio,Psico,,Pokémon Temperanza,Stadio 1,74,48,76,83,81,104,466,"77,67",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0678,Meowstic,Femmina,Psico,,Pokémon Temperanza,Stadio 1,74,48,76,83,81,104,466,"77,67",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0679,Honedge,,Acciaio,Spettro,Pokémon Armabianca,Base,45,80,100,35,37,28,325,"54,17",,,,,Folletto - Ghiaccio - Roccia,Spettro - Psico,Lotta - Fuoco - Terra,Buio - Spettro
 #0680,Doublade,,Acciaio,Spettro,Pokémon Armabianca,Stadio 1,59,110,150,45,49,35,448,"74,67",Destiny Bond,Protect,Reflect,Rest,Folletto - Ghiaccio - Roccia,Spettro - Psico,Lotta - Fuoco - Terra,Buio - Spettro
 #0681,Aegislash,Forma Scudo,Acciaio,Spettro,Pokémon Spadareale,Stadio 2,60,50,150,50,140,60,510,"85,00",Close Combat,Destiny Bond,Flash Cannon,Head Smash,Folletto - Ghiaccio - Roccia,Spettro - Psico,Lotta - Fuoco - Terra,Buio - Spettro
 #0681,Aegislash,Forma Spada,Acciaio,Spettro,Pokémon Spadareale,Stadio 2,60,140,50,140,50,60,500,"83,33",Close Combat,Destiny Bond,Flash Cannon,Head Smash,Folletto - Ghiaccio - Roccia,Spettro - Psico,Lotta - Fuoco - Terra,Buio - Spettro
@@ -912,8 +552,6 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0718,Zygarde,Forma 50%,Drago,Terra,Pokémon Equilibrio,Base,108,100,121,81,95,95,600,"100,00",Earthquake,Protect,Rest,,Drago,Elettro - Fuoco - Veleno - Roccia - Acciaio,Drago - Folletto - Ghiaccio,Erba - Ghiaccio - Acqua
 #0718,Zygarde,Forma Perfetta,Drago,Terra,Pokémon Equilibrio,Base,216,100,121,91,95,85,708,"118,00",Earthquake,Protect,Rest,,Drago,Elettro - Fuoco - Veleno - Roccia - Acciaio,Drago - Folletto - Ghiaccio,Erba - Ghiaccio - Acqua
 #0719,Diancie,Forma Normale,Roccia,Folletto,Pokémon Gemma,Base,50,100,150,100,150,50,600,"100,00",Baton Pass,Light Screen,Protect,Reflect,Coleottero - Fuoco - Volante - Ghiaccio,Lotta - Buio - Drago,Lotta - Erba - Terra - Acciaio - Acqua,Veleno - Acciaio
-#0720,Hoopa,Forma Vincolata,Psico,Spettro,Pokémon Birba,Base,80,110,60,150,130,70,600,"100,00",,,,,Lotta - Veleno,Spettro - Psico,Coleottero - Buio - Spettro,Buio - Spettro
-#0720,Hoopa,Forma Libera,Psico,Buio,Pokémon Genio,Base,80,160,60,170,130,80,680,"113,33",,,,,Lotta - Veleno,Spettro - Psico,Coleottero - Buio - Spettro,Coleottero - Folletto - Lotta
 #0721,Volcanion,,Fuoco,Acqua,Pokémon Vapore,Base,68,55,55,50,50,42,320,"53,33",Earthquake,Hydro Pump,Protect,Rest,Coleottero - Erba - Ghiaccio - Acciaio,Fuoco - Terra - Roccia,Terra - Roccia - Acqua,Elettro - Erba
 #0722,Rowlet,,Erba,Volante,Pokémon Aliderba,Base,78,75,75,70,70,52,420,"70,00",Baton Pass,Knock Off,Light Screen,Protect,Terra - Roccia - Acqua,Coleottero - Lotta - Erba,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Elettro - Ghiaccio - Roccia
 #0723,Dartrix,,Erba,Volante,Pokémon Piumaffilata,Stadio 1,78,75,75,70,70,52,420,"70,00",Baton Pass,Knock Off,Light Screen,Protect,Terra - Roccia - Acqua,Coleottero - Lotta - Erba,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Elettro - Ghiaccio - Roccia
@@ -925,20 +563,9 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0728,Popplio,,Acqua,,Pokémon Otaria,Base,50,54,54,66,56,40,320,"53,33",Flip Turn,Hydro Pump,Ice Beam,Protect,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0729,Brionne,,Acqua,,Pokémon Pop Star,Stadio 1,60,69,69,91,81,50,420,"70,00",Flip Turn,Hydro Pump,Ice Beam,Protect,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0730,Primarina,,Acqua,Folletto,Pokémon Solista,Stadio 2,80,74,74,126,116,60,530,"88,33",Aqua Jet,Blizzard,Dazzling Gleam,Energy Ball,Fuoco - Terra - Roccia,Lotta - Buio - Drago,Elettro - Erba,Veleno - Acciaio
-#0731,Pikipek,,Normale,Volante,Pokémon Picchio,Base,35,75,30,30,30,65,265,"44,17",,,,,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
-#0732,Trumbeak,,Normale,Volante,Pokémon Trombecco,Stadio 1,55,85,50,40,50,75,355,"59,17",,,,,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
-#0733,Toucannon,,Normale,Volante,Pokémon Cannone,Stadio 2,80,120,75,75,75,60,485,"80,83",,,,,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
-#0734,Yungoos,,Normale,,Pokémon Pattuglia,Base,48,70,30,30,30,45,253,"42,17",,,,,–,–,Lotta,–
-#0735,Gumshoos,,Normale,,Pokémon Sorveglianza,Stadio 1,88,110,60,55,60,45,418,"69,67",,,,,–,–,Lotta,–
 #0736,Grubbin,,Coleottero,,Pokémon Coleolarva,Base,47,62,45,55,45,46,300,"50,00",Light Screen,Protect,Rest,Toxic,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
 #0737,Charjabug,,Coleottero,Elettro,Pokémon Batteria,Stadio 1,57,82,95,55,75,36,400,"66,67",Bug Bite,Discharge,Eerie Impulse,Electroweb,Erba - Buio - Psico,Volante - Acqua,Fuoco - Volante - Roccia,Terra
 #0738,Vikavolt,,Coleottero,Elettro,Pokémon Cervolante,Stadio 2,77,70,90,145,75,43,500,"83,33",Bug Buzz,Discharge,Energy Ball,Flash Cannon,Erba - Buio - Psico,Volante - Acqua,Fuoco - Volante - Roccia,Terra
-#0739,Crabrawler,,Lotta,,Pokémon Pugile,Base,47,82,57,42,47,63,338,"56,33",,,,,Buio - Ghiaccio - Normale - Roccia - Acciaio,–,Folletto - Volante - Psico,–
-#0740,Crabominable,,Lotta,Ghiaccio,Pokémon Peligranchio,Stadio 1,97,132,77,62,67,43,478,"79,67",,,,,Buio - Ghiaccio - Normale - Roccia - Acciaio,Drago - Volante - Erba - Terra,Folletto - Volante - Psico,Lotta - Fuoco - Roccia - Acciaio
-#0741,Oricorio,Stile Flamenco,Fuoco,Volante,Pokémon Danza,Base,75,70,70,98,70,93,476,"79,33",,,,,Coleottero - Erba - Ghiaccio - Acciaio,Coleottero - Lotta - Erba,Terra - Roccia - Acqua,Elettro - Ghiaccio - Roccia
-#0741,Oricorio,Stile Cheerdance,Elettro,Volante,Pokémon Danza,Base,75,70,70,98,70,93,476,"79,33",,,,,Volante - Acqua,Coleottero - Lotta - Erba,Terra,Elettro - Ghiaccio - Roccia
-#0741,Oricorio,Stile Hula,Psico,Volante,Pokémon Danza,Base,75,70,70,98,70,93,476,"79,33",,,,,Lotta - Veleno,Coleottero - Lotta - Erba,Coleottero - Buio - Spettro,Elettro - Ghiaccio - Roccia
-#0741,Oricorio,Stile Buyō,Spettro,Volante,Pokémon Danza,Base,75,70,70,98,70,93,476,"79,33",,,,,Spettro - Psico,Coleottero - Lotta - Erba,Buio - Spettro,Elettro - Ghiaccio - Roccia
 #0742,Cutiefly,,Coleottero,Folletto,Pokémon Bombilide,Base,40,45,40,55,40,84,304,"50,67",Baton Pass,Light Screen,Protect,Reflect,Erba - Buio - Psico,Lotta - Buio - Drago,Fuoco - Volante - Roccia,Veleno - Acciaio
 #0743,Ribombee,,Coleottero,Folletto,Pokémon Bombilide,Stadio 1,60,55,60,95,70,124,464,"77,33",Baton Pass,Dazzling Gleam,Light Screen,Moonblast,Erba - Buio - Psico,Lotta - Buio - Drago,Fuoco - Volante - Roccia,Veleno - Acciaio
 #0744,Rockruff,,Roccia,,Pokémon Cagnolino,Base,45,65,40,30,40,60,280,"46,67",Howl,Protect,Rest,Snarl,Coleottero - Fuoco - Volante - Ghiaccio,–,Lotta - Erba - Terra - Acciaio - Acqua,–
@@ -972,7 +599,6 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0769,Sandygast,,Spettro,Terra,Pokémon Montesabbia,Base,55,55,80,70,45,15,320,"53,33",Destiny Bond,Earthquake,Protect,Rest,Spettro - Psico,Elettro - Fuoco - Veleno - Roccia - Acciaio,Buio - Spettro,Erba - Ghiaccio - Acqua
 #0770,Palossand,,Spettro,Terra,Pokémon Castelsabbia,Stadio 1,85,75,110,100,75,35,480,"80,00",Ancient Power,Destiny Bond,Earth Power,Earthquake,Spettro - Psico,Elettro - Fuoco - Veleno - Roccia - Acciaio,Buio - Spettro,Erba - Ghiaccio - Acqua
 #0771,Pyukumuku,,Acqua,,Pokémon Oloturia,Base,55,60,130,30,130,5,410,"68,33",Baton Pass,Helping Hand,Light Screen,Protect,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0772,Tipo Zero,,Normale,,Pokémon Multigene,Base,95,95,95,95,95,59,534,"89,00",,,,,–,–,Lotta,–
 #0773,Silvally,Tipo Acciaio,Acciaio,,Pokémon Multigene,Stadio 1,95,95,95,95,95,95,570,"95,00",Crunch,Draco Meteor,Explosion,Flamethrower,Folletto - Ghiaccio - Roccia,–,Lotta - Fuoco - Terra,–
 #0773,Silvally,Tipo Acqua,Acqua,,Pokémon Multigene,Stadio 1,95,95,95,95,95,95,570,"95,00",Crunch,Draco Meteor,Explosion,Flamethrower,Fuoco - Terra - Roccia,–,Elettro - Erba,–
 #0773,Silvally,Tipo Buio,Buio,,Pokémon Multigene,Stadio 1,95,95,95,95,95,95,570,"95,00",Crunch,Draco Meteor,Explosion,Flamethrower,Spettro - Psico,–,Coleottero - Folletto - Lotta,–
@@ -991,31 +617,15 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0773,Silvally,Tipo Terra,Terra,,Pokémon Multigene,Stadio 1,95,95,95,95,95,95,570,"95,00",Crunch,Draco Meteor,Explosion,Flamethrower,Elettro - Fuoco - Veleno - Roccia - Acciaio,–,Erba - Ghiaccio - Acqua,–
 #0773,Silvally,Tipo Veleno,Veleno,,Pokémon Multigene,Stadio 1,95,95,95,95,95,95,570,"95,00",Crunch,Draco Meteor,Explosion,Flamethrower,Folletto - Erba,–,Terra - Psico,–
 #0773,Silvally,Tipo Volante,Volante,,Pokémon Multigene,Stadio 1,95,95,95,95,95,95,570,"95,00",Crunch,Draco Meteor,Explosion,Flamethrower,Coleottero - Lotta - Erba,–,Elettro - Ghiaccio - Roccia,–
-#0774,Minior,Forma Meteora,Roccia,Volante,Pokémon Meteora,Base,60,60,100,60,100,60,440,"73,33",,,,,Coleottero - Fuoco - Volante - Ghiaccio,Coleottero - Lotta - Erba,Lotta - Erba - Terra - Acciaio - Acqua,Elettro - Ghiaccio - Roccia
-#0774,Minior,Forma Nucleo Rosso,Roccia,Volante,Pokémon Meteora,Base,60,100,60,100,60,120,500,"83,33",,,,,Coleottero - Fuoco - Volante - Ghiaccio,Coleottero - Lotta - Erba,Lotta - Erba - Terra - Acciaio - Acqua,Elettro - Ghiaccio - Roccia
-#0774,Minior,Forma Nucleo Arancione,Roccia,Volante,Pokémon Meteora,Base,60,100,60,100,60,120,500,"83,33",,,,,Coleottero - Fuoco - Volante - Ghiaccio,Coleottero - Lotta - Erba,Lotta - Erba - Terra - Acciaio - Acqua,Elettro - Ghiaccio - Roccia
-#0774,Minior,Forma Nucleo Giallo,Roccia,Volante,Pokémon Meteora,Base,60,100,60,100,60,120,500,"83,33",,,,,Coleottero - Fuoco - Volante - Ghiaccio,Coleottero - Lotta - Erba,Lotta - Erba - Terra - Acciaio - Acqua,Elettro - Ghiaccio - Roccia
-#0774,Minior,Forma Nucleo Verde,Roccia,Volante,Pokémon Meteora,Base,60,100,60,100,60,120,500,"83,33",,,,,Coleottero - Fuoco - Volante - Ghiaccio,Coleottero - Lotta - Erba,Lotta - Erba - Terra - Acciaio - Acqua,Elettro - Ghiaccio - Roccia
-#0774,Minior,Forma Nucleo Azzurro,Roccia,Volante,Pokémon Meteora,Base,60,100,60,100,60,120,500,"83,33",,,,,Coleottero - Fuoco - Volante - Ghiaccio,Coleottero - Lotta - Erba,Lotta - Erba - Terra - Acciaio - Acqua,Elettro - Ghiaccio - Roccia
-#0774,Minior,Forma Nucleo Indaco,Roccia,Volante,Pokémon Meteora,Base,60,100,60,100,60,120,500,"83,33",,,,,Coleottero - Fuoco - Volante - Ghiaccio,Coleottero - Lotta - Erba,Lotta - Erba - Terra - Acciaio - Acqua,Elettro - Ghiaccio - Roccia
-#0774,Minior,Forma Nucleo Violetto,Roccia,Volante,Pokémon Meteora,Base,60,100,60,100,60,120,500,"83,33",,,,,Coleottero - Fuoco - Volante - Ghiaccio,Coleottero - Lotta - Erba,Lotta - Erba - Terra - Acciaio - Acqua,Elettro - Ghiaccio - Roccia
-#0775,Komala,,Normale,,Pokémon Dormiveglia,Base,65,115,65,75,95,65,480,"80,00",,,,,–,–,Lotta,–
 #0776,Turtonator,,Fuoco,Drago,Pokémon Tartabomba,Base,60,78,135,91,85,36,485,"80,83",Body Press,Burning Jealousy,Draco Meteor,Dragon Pulse,Coleottero - Erba - Ghiaccio - Acciaio,Drago,Terra - Roccia - Acqua,Drago - Folletto - Ghiaccio
 #0777,Togedemaru,,Elettro,Acciaio,Pokémon Ricciopalla,Base,65,98,63,40,73,96,435,"72,50",Eerie Impulse,Electroweb,Fake Out,Iron Head,Volante - Acqua,Folletto - Ghiaccio - Roccia,Terra,Lotta - Fuoco - Terra
 #0778,Mimikyu,Forma Mascherata,Spettro,Folletto,Pokémon Fantasmanto,Base,55,90,80,50,105,96,476,"79,33",Curse,Destiny Bond,Light Screen,Phantom Force,Spettro - Psico,Lotta - Buio - Drago,Buio - Spettro,Veleno - Acciaio
 #0778,Mimikyu,Forma Smascherata,Spettro,Folletto,Pokémon Fantasmanto,Base,55,90,80,50,105,96,476,"79,33",Curse,Destiny Bond,Light Screen,Phantom Force,Spettro - Psico,Lotta - Buio - Drago,Buio - Spettro,Veleno - Acciaio
-#0779,Bruxish,,Acqua,Psico,Pokémon Sfregadenti,Base,68,105,70,70,70,92,475,"79,17",,,,,Fuoco - Terra - Roccia,Lotta - Veleno,Elettro - Erba,Coleottero - Buio - Spettro
 #0780,Drampa,,Normale,Drago,Pokémon Tuttacalma,Base,78,60,85,135,91,36,485,"80,83",Draco Meteor,Earthquake,Energy Ball,Flamethrower,–,Drago,Lotta,Drago - Folletto - Ghiaccio
 #0781,Dhelmise,,Erba,Spettro,Pokémon Brandellalga,Base,70,131,100,86,90,40,517,"86,17",Anchor Shot,Earthquake,Grassy Glide,Hydro Pump,Terra - Roccia - Acqua,Spettro - Psico,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Buio - Spettro
 #0782,Jangmo-o,,Drago,,Pokémon Squama,Base,45,55,65,45,45,45,300,"50,00",Earthquake,Protect,Rest,Taunt,Drago,–,Drago - Folletto - Ghiaccio,–
 #0783,Hakamo-o,,Drago,Lotta,Pokémon Squama,Stadio 1,55,75,90,65,70,65,420,"70,00",Earthquake,Protect,Rest,Taunt,Drago,Buio - Ghiaccio - Normale - Roccia - Acciaio,Drago - Folletto - Ghiaccio,Folletto - Volante - Psico
 #0784,Kommo-o,,Drago,Lotta,Pokémon Squama,Stadio 2,75,110,125,100,105,85,600,"100,00",Aura Sphere,Body Press,Boomburst,Clanging Scales,Drago,Buio - Ghiaccio - Normale - Roccia - Acciaio,Drago - Folletto - Ghiaccio,Folletto - Volante - Psico
-#0785,Tapu Koko,,Elettro,Folletto,Pokémon Nume Locale,Base,70,115,85,95,75,130,570,"95,00",,,,,Volante - Acqua,Lotta - Buio - Drago,Terra,Veleno - Acciaio
-#0786,Tapu Lele,,Psico,Folletto,Pokémon Nume Locale,Base,70,85,75,130,115,95,570,"95,00",,,,,Lotta - Veleno,Lotta - Buio - Drago,Coleottero - Buio - Spettro,Veleno - Acciaio
-#0787,Tapu Bulu,,Erba,Folletto,Pokémon Nume Locale,Base,70,130,115,85,95,75,570,"95,00",,,,,Terra - Roccia - Acqua,Lotta - Buio - Drago,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Veleno - Acciaio
-#0788,Tapu Fini,,Acqua,Folletto,Pokémon Nume Locale,Base,70,75,115,95,130,85,570,"95,00",,,,,Fuoco - Terra - Roccia,Lotta - Buio - Drago,Elettro - Erba,Veleno - Acciaio
-#0789,Cosmog,,Psico,,Pokémon Nebulosa,Base,43,29,31,29,31,37,200,"33,33",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0790,Cosmoem,,Psico,,Pokémon Protostella,Stadio 1,43,29,131,29,131,37,400,"66,67",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
 #0791,Solgaleo,Forma Normale,Psico,Acciaio,Pokémon Solare,Stadio 2,137,137,107,113,89,97,680,"113,33",Earthquake,Knock Off,Light Screen,Protect,Lotta - Veleno,Folletto - Ghiaccio - Roccia,Coleottero - Buio - Spettro,Lotta - Fuoco - Terra
 #0791,Solgaleo,Fase Sole Nascente,Psico,Acciaio,Pokémon Solare,Stadio 2,137,137,107,113,89,97,680,"113,33",Earthquake,Knock Off,Light Screen,Protect,Lotta - Veleno,Folletto - Ghiaccio - Roccia,Coleottero - Buio - Spettro,Lotta - Fuoco - Terra
 #0792,Lunala,Forma Normale,Psico,Spettro,Pokémon Lunare,Stadio 2,137,113,89,137,107,97,680,"113,33",Ice Beam,Light Screen,Protect,Reflect,Lotta - Veleno,Spettro - Psico,Coleottero - Buio - Spettro,Buio - Spettro
@@ -1054,7 +664,6 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0821,Rookidee,,Volante,,Pokémon Uccellino,Base,38,47,35,33,35,57,245,"40,83",Protect,Rest,Roost,Taunt,Coleottero - Lotta - Erba,–,Elettro - Ghiaccio - Roccia,–
 #0822,Corvisquire,,Volante,,Pokémon Corvo,Stadio 1,68,67,55,43,55,77,365,"60,83",Protect,Rest,Roost,Taunt,Coleottero - Lotta - Erba,–,Elettro - Ghiaccio - Roccia,–
 #0823,Corviknight,Forma Normale,Volante,Acciaio,Pokémon Corvo,Stadio 2,98,87,105,53,85,67,495,"82,50",Body Press,Brave Bird,Bulk Up,Iron Defense,Coleottero - Lotta - Erba,Folletto - Ghiaccio - Roccia,Elettro - Ghiaccio - Roccia,Lotta - Fuoco - Terra
-#0824,Blipbug,,Coleottero,,Pokémon Coleolarva,Base,25,20,20,25,45,45,180,"30,00",,,,,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
 #0825,Dottler,,Coleottero,Psico,Pokémon Radome,Stadio 1,50,35,80,50,90,30,335,"55,83",Light Screen,Protect,Reflect,Rest,Erba - Buio - Psico,Lotta - Veleno,Fuoco - Volante - Roccia,Coleottero - Buio - Spettro
 #0826,Orbeetle,Forma Normale,Coleottero,Psico,Pokémon Settepunti,Stadio 2,60,45,110,80,120,90,505,"84,17",After You,Ally Switch,Baton Pass,Body Press,Erba - Buio - Psico,Lotta - Veleno,Fuoco - Volante - Roccia,Coleottero - Buio - Spettro
 #0827,Nickit,,Buio,,Pokémon Volpe,Base,40,28,28,47,52,50,245,"40,83",Baton Pass,Howl,Knock Off,Protect,Spettro - Psico,–,Coleottero - Folletto - Lotta,–
@@ -1070,7 +679,6 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0837,Rolycoly,,Roccia,,Pokémon Carbone,Base,30,40,50,40,50,30,240,"40,00",Protect,Rapid Spin,Reflect,Rest,Coleottero - Fuoco - Volante - Ghiaccio,–,Lotta - Erba - Terra - Acciaio - Acqua,–
 #0838,Carkol,,Roccia,Fuoco,Pokémon Carbone,Stadio 1,80,60,90,60,70,50,410,"68,33",Protect,Rapid Spin,Reflect,Rest,Coleottero - Fuoco - Volante - Ghiaccio,Coleottero - Erba - Ghiaccio - Acciaio,Lotta - Erba - Terra - Acciaio - Acqua,Terra - Roccia - Acqua
 #0839,Coalossal,Forma Normale,Roccia,Fuoco,Pokémon Carbone,Stadio 2,110,80,120,80,90,30,510,"85,00",Earth Power,Earthquake,Heat Wave,Meteor Beam,Coleottero - Fuoco - Volante - Ghiaccio,Coleottero - Erba - Ghiaccio - Acciaio,Lotta - Erba - Terra - Acciaio - Acqua,Terra - Roccia - Acqua
-#0840,Applin,,Erba,Drago,Pokémon Pomicolo,Base,40,40,80,40,40,20,260,"43,33",,,,,Terra - Roccia - Acqua,Drago,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Drago - Folletto - Ghiaccio
 #0841,Flapple,Forma Normale,Erba,Drago,Pokémon Pomivolo,Stadio 1,70,110,80,95,60,70,485,"80,83",Acrobatics,Dragon Dance,Dragon Rush,Dual Wingbeat,Terra - Roccia - Acqua,Drago,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Drago - Folletto - Ghiaccio
 #0842,Appletun,Forma Normale,Erba,Drago,Pokémon Pomisucco,Stadio 1,110,85,80,100,80,30,485,"80,83",Apple Acid,Body Press,Draco Meteor,Dragon Pulse,Terra - Roccia - Acqua,Drago,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Drago - Folletto - Ghiaccio
 #0843,Silicobra,,Terra,,Pokémon Sabbiaserpe,Base,52,57,75,35,50,46,315,"52,50",Earthquake,Protect,Rest,,Elettro - Fuoco - Veleno - Roccia - Acciaio,–,Erba - Ghiaccio - Acqua,–
@@ -1087,8 +695,6 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0851,Centiskorch,Forma Normale,Fuoco,Coleottero,Pokémon Termogeno,Stadio 1,100,115,65,90,90,65,525,"87,50",Coil,Fire Lash,Flare Blitz,Knock Off,Coleottero - Erba - Ghiaccio - Acciaio,Erba - Buio - Psico,Terra - Roccia - Acqua,Fuoco - Volante - Roccia
 #0852,Clobbopus,,Lotta,,Pokémon Bizze,Base,50,68,60,50,50,32,310,"51,67",Protect,Rest,Taunt,,Buio - Ghiaccio - Normale - Roccia - Acciaio,–,Folletto - Volante - Psico,–
 #0853,Grapploct,,Lotta,,Pokémon Jujitsu,Stadio 1,80,118,90,70,80,42,480,"80,00",Brick Break,Coaching,Drain Punch,Hydro Pump,Buio - Ghiaccio - Normale - Roccia - Acciaio,–,Folletto - Volante - Psico,–
-#0854,Sinistea,Forma Contraffatta,Spettro,,Pokémon Tè,Base,40,45,45,74,54,50,308,"51,33",,,,,Spettro - Psico,–,Buio - Spettro,–
-#0854,Sinistea,Forma Autentica,Spettro,,Pokémon Tè,Base,40,45,45,74,54,50,308,"51,33",,,,,Spettro - Psico,–,Buio - Spettro,–
 #0855,Polteageist,Forma Contraffatta,Spettro,,Pokémon Tè,Stadio 1,60,65,65,134,114,70,508,"84,67",Baton Pass,Light Screen,Protect,Reflect,Spettro - Psico,–,Buio - Spettro,–
 #0855,Polteageist,Forma Autentica,Spettro,,Pokémon Tè,Stadio 1,60,65,65,134,114,70,508,"84,67",Baton Pass,Light Screen,Protect,Reflect,Spettro - Psico,–,Buio - Spettro,–
 #0856,Hatenna,,Psico,,Pokémon Calma,Base,42,30,45,56,53,39,265,"44,17",Baton Pass,Light Screen,Protect,Rest,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
@@ -1100,8 +706,6 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0862,Obstagoon,,Buio,Normale,Pokémon Bloccaggio,Stadio 2,93,90,101,60,81,95,520,"86,67",Body Slam,Brick Break,Bulk Up,Close Combat,Spettro - Psico,–,Coleottero - Folletto - Lotta,Lotta
 #0863,Perrserker,,Acciaio,,Pokémon Vichingo,Stadio 1,70,110,100,50,60,50,440,"73,33",Baton Pass,Close Combat,Fake Out,Gunk Shot,Folletto - Ghiaccio - Roccia,–,Lotta - Fuoco - Terra,–
 #0864,Cursola,,Spettro,,Pokémon Corallo,Stadio 1,60,95,50,145,130,30,510,"85,00",Blizzard,Burning Jealousy,Destiny Bond,Earth Power,Spettro - Psico,–,Buio - Spettro,–
-#0865,Sirfetch'd,,Lotta,,Pokémon Selvanatra,Stadio 1,62,135,95,68,82,65,507,"84,50",,,,,Buio - Ghiaccio - Normale - Roccia - Acciaio,–,Folletto - Volante - Psico,–
-#0866,Mr. Rime,,Ghiaccio,Psico,Pokémon Comico,Stadio 2,80,85,75,110,100,70,520,"86,67",,,,,Drago - Volante - Erba - Terra,Lotta - Veleno,Lotta - Fuoco - Roccia - Acciaio,Coleottero - Buio - Spettro
 #0867,Runerigus,,Terra,Spettro,Pokémon Rancore,Stadio 1,58,95,145,50,105,30,483,"80,50",Ally Switch,Body Press,Destiny Bond,Earthquake,Elettro - Fuoco - Veleno - Roccia - Acciaio,Spettro - Psico,Erba - Ghiaccio - Acqua,Buio - Spettro
 #0868,Milcery,,Folletto,,Pokémon Pannafresca,Base,45,40,40,50,61,34,270,"45,00",Protect,Rest,Stored Power,,Lotta - Buio - Drago,–,Veleno - Acciaio,–
 #0869,Alcremie,Forma Lattevaniglia,Folletto,,Pokémon Pannafresca,Stadio 1,65,60,75,110,121,64,495,"82,50",Calm Mind,Charm,Dazzling Gleam,Decorate,Lotta - Buio - Drago,–,Veleno - Acciaio,–
@@ -1128,7 +732,7 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0879,Copperajah,Forma Normale,Acciaio,,Pokémon Bronzofante,Stadio 1,122,130,69,80,69,30,500,"83,33",Body Press,Earthquake,Heat Crash,Heavy Slam,Folletto - Ghiaccio - Roccia,–,Lotta - Fuoco - Terra,–
 #0880,Dracozolt,,Elettro,Drago,Pokémon Fossile,Base,90,100,90,80,70,75,505,"84,17",Aerial Ace,Bolt Beak,Breaking Swipe,Dragon Claw,Volante - Acqua,Drago,Terra,Drago - Folletto - Ghiaccio
 #0881,Arctozolt,,Elettro,Ghiaccio,Pokémon Fossile,Base,90,100,90,90,80,55,505,"84,17",Blizzard,Bolt Beak,Bulldoze,Freeze-Dry,Volante - Acqua,Drago - Volante - Erba - Terra,Terra,Lotta - Fuoco - Roccia - Acciaio
-#0882,Dracovish,,Acqua,Drago,Pokémon Fossile,Base,90,90,100,70,80,75,505,"84,17",,Crunch,Dragon Rush,Earthquake,Fuoco - Terra - Roccia,Drago,Elettro - Erba,Drago - Folletto - Ghiaccio
+#0882,Dracovish,,Acqua,Drago,Pokémon Fossile,Base,90,90,100,70,80,75,505,"84,17",Crunch,Dragon Rush,Earthquake,,Fuoco - Terra - Roccia,Drago,Elettro - Erba,Drago - Folletto - Ghiaccio
 #0883,Arctovish,,Acqua,Ghiaccio,Pokémon Fossile,Base,90,90,100,80,90,55,505,"84,17",Aurora Veil,Fishious Rend,Freeze-Dry,Hydro Pump,Fuoco - Terra - Roccia,Drago - Volante - Erba - Terra,Elettro - Erba,Lotta - Fuoco - Roccia - Acciaio
 #0884,Duraludon,Forma Normale,Acciaio,Drago,Pokémon Metallolega,Base,70,95,115,120,50,85,535,"89,17",Body Press,Dark Pulse,Draco Meteor,Dragon Tail,Folletto - Ghiaccio - Roccia,Drago,Lotta - Fuoco - Terra,Drago - Folletto - Ghiaccio
 #0885,Dreepy,,Drago,Spettro,Pokémon Risentimento,Base,28,60,30,40,30,82,270,"45,00",Baton Pass,Protect,Rest,,Drago,Spettro - Psico,Drago - Folletto - Ghiaccio,Buio - Spettro
@@ -1152,139 +756,3 @@ N. Pokédex,Pokémon,Forme,Tipo1,Tipo2,Categoria,Grado,PS,Attacco,Difesa,Attacco
 #0898,Calyrex,Forma Normale,Psico,Erba,Pokémon Re,Base,100,80,80,80,80,80,500,"83,33",Baton Pass,Ice Beam,Light Screen,Protect,Lotta - Veleno,Terra - Roccia - Acqua,Coleottero - Buio - Spettro,Coleottero - Fuoco - Volante - Ghiaccio - Veleno
 #0898,Calyrex,Forma Cavalliere Glaciale,Psico,Ghiaccio,Pokémon Imperatore,Base,100,165,150,85,130,50,680,"113,33",Baton Pass,Ice Beam,Light Screen,Protect,Lotta - Veleno,Drago - Volante - Erba - Terra,Coleottero - Buio - Spettro,Lotta - Fuoco - Roccia - Acciaio
 #0898,Calyrex,Forma Cavalliere Spettrale,Psico,Spettro,Pokémon Imperatore,Base,100,85,80,165,100,150,680,"113,33",Baton Pass,Light Screen,Protect,Reflect,Lotta - Veleno,Spettro - Psico,Coleottero - Buio - Spettro,Buio - Spettro
-#0899,Wyrdeer,,Normale,Psico,Pokémon Grancorno,Stadio 1,103,105,72,105,75,65,525,"87,50",,,,,–,Lotta - Veleno,Lotta,Coleottero - Buio - Spettro
-#0900,Kleavor,,Coleottero,Roccia,Pokémon Scure,Stadio 1,70,130,95,45,70,85,495,"82,50",,,,,Erba - Buio - Psico,Coleottero - Fuoco - Volante - Ghiaccio,Fuoco - Volante - Roccia,Lotta - Erba - Terra - Acciaio - Acqua
-#0901,Ursaluna,,Terra,Normale,Pokémon Torba,Stadio 2,130,140,105,45,80,50,550,"91,67",,,,,Elettro - Fuoco - Veleno - Roccia - Acciaio,–,Erba - Ghiaccio - Acqua,Lotta
-#0902,Basculegion,Maschio,Acqua,Spettro,Pokémon Pescegrosso,Stadio 1,120,112,65,80,75,78,530,"88,33",,,,,Fuoco - Terra - Roccia,Spettro - Psico,Elettro - Erba,Buio - Spettro
-#0902,Basculegion,Femmina,Acqua,Spettro,Pokémon Pescegrosso,Stadio 1,120,92,65,100,75,78,530,"88,33",,,,,Fuoco - Terra - Roccia,Spettro - Psico,Elettro - Erba,Buio - Spettro
-#0903,Sneasler,,Lotta,Veleno,Pokémon Scalata,Stadio 2,80,130,60,40,80,120,510,"85,00",,,,,Buio - Ghiaccio - Normale - Roccia - Acciaio,Folletto - Erba,Folletto - Volante - Psico,Terra - Psico
-#0904,Overqwil,,Buio,Veleno,Pokémon Spinoso,Stadio 2,85,115,95,65,65,85,510,"85,00",,,,,Spettro - Psico,Folletto - Erba,Coleottero - Folletto - Lotta,Terra - Psico
-#0905,Enamorus,Forma Normale,Folletto,Volante,Pokémon Amoreodio,Base,74,115,70,135,80,106,580,"96,67",,,,,Lotta - Buio - Drago,Coleottero - Lotta - Erba,Veleno - Acciaio,Elettro - Ghiaccio - Roccia
-#0905,Enamorus,Forma Totem,Folletto,Volante,Pokémon Amoreodio,Base,74,115,110,135,100,46,580,"96,67",,,,,Lotta - Buio - Drago,Coleottero - Lotta - Erba,Veleno - Acciaio,Elettro - Ghiaccio - Roccia
-#0906, Sprigatito,,Erba,,Pokémon Erbagatto,Base,40,61,54,45,45,65,310,"51,67",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0907, Floragato,,Erba,,Pokémon Erbagatto,Stadio 1,61,80,63,60,63,83,410,"68,33",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0908, Meowscarada,,Erba,Buio,Pokémon Illusionista,Stadio 2,76,110,70,81,70,123,530,"88,33",,,,,Terra - Roccia - Acqua,Spettro - Psico,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Coleottero - Folletto - Lotta
-#0909, Fuecoco,,Fuoco,,Pokémon Fuocodrillo,Base,67,45,59,63,40,36,310,"51,67",,,,,Coleottero - Erba - Ghiaccio - Acciaio,–,Terra - Roccia - Acqua,–
-#0910, Crocalor,,Fuoco,,Pokémon Fuocodrillo,Stadio 1,81,55,78,90,58,49,411,"68,50",,,,,Coleottero - Erba - Ghiaccio - Acciaio,–,Terra - Roccia - Acqua,–
-#0911, Skeledirge,,Fuoco,Spettro,Pokémon Cantante,Stadio 2,104,75,100,110,75,66,530,"88,33",,,,,Coleottero - Erba - Ghiaccio - Acciaio,Spettro - Psico,Terra - Roccia - Acqua,Buio - Spettro
-#0912, Quaxly,,Acqua,,Pokémon Anatroccolo,Base,55,65,45,50,45,50,310,"51,67",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0913, Quaxwell,,Acqua,,Pokémon Esercizio,Stadio 1,70,85,65,65,60,65,410,"68,33",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0914, Quaquaval,,Acqua,Lotta,Pokémon Ballerino,Stadio 2,85,120,80,85,75,85,530,"88,33",,,,,Fuoco - Terra - Roccia,Buio - Ghiaccio - Normale - Roccia - Acciaio,Elettro - Erba,Folletto - Volante - Psico
-#0915, Lechonk,,Normale,,Pokémon Porcellino,Base,54,45,40,35,45,35,254,"42,33",,,,,–,–,Lotta,–
-#0916, Oinkologne,Maschio,Normale,,Pokémon Porcellino,Stadio 1,110,100,75,59,80,65,489,"81,50",,,,,–,–,Lotta,–
-#0916, Oinkologne,Femmina,Normale,,Pokémon Porcellino,Stadio 1,115,90,70,59,90,65,489,"81,50",,,,,–,–,Lotta,–
-#0917, Tarountula,,Coleottero,,Pokémon Gomitolo,Base,35,41,45,29,40,20,210,"35,00",,,,,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
-#0918, Spidops,,Coleottero,,Pokémon Trappola,Stadio 1,60,79,92,52,86,35,404,"67,33",,,,,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
-#0919, Nymble,,Coleottero,,Pokémon Cavalletta,Base,33,46,40,21,25,45,210,"35,00",,,,,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
-#0920, Lokix,,Coleottero,Buio,Pokémon Cavalletta,Stadio 1,71,102,78,52,55,92,450,"75,00",,,,,Erba - Buio - Psico,Spettro - Psico,Fuoco - Volante - Roccia,Coleottero - Folletto - Lotta
-#0921, Pawmi,,Elettro,,Pokémon Topo,Base,45,50,20,40,25,60,240,"40,00",,,,,Volante - Acqua,–,Terra,–
-#0922, Pawmo,,Elettro,Lotta,Pokémon Topo,Stadio 1,60,75,40,50,40,85,350,"58,33",,,,,Volante - Acqua,Buio - Ghiaccio - Normale - Roccia - Acciaio,Terra,Folletto - Volante - Psico
-#0923, Pawmot,,Elettro,Lotta,Pokémon Toccasana,Stadio 2,70,115,70,70,60,105,490,"81,67",,,,,Volante - Acqua,Buio - Ghiaccio - Normale - Roccia - Acciaio,Terra,Folletto - Volante - Psico
-#0924, Tandemaus,,Normale,,Pokémon Coppia,Base,50,50,45,40,45,75,305,"50,83",,,,,–,–,Lotta,–
-#0925, Maushold,Trifamiglia,Normale,,Pokémon Famiglia,Stadio 1,74,75,70,65,75,111,470,"78,33",,,,,–,–,Lotta,–
-#0925, Maushold,Quadrifamiglia,Normale,,Pokémon Famiglia,Stadio 1,74,75,70,65,75,111,470,"78,33",,,,,–,–,Lotta,–
-#0926, Fidough,,Folletto,,Pokémon Cagnolino,Base,37,55,70,30,55,65,312,"52,00",,,,,Lotta - Buio - Drago,–,Veleno - Acciaio,–
-#0927, Dachsbun,,Folletto,,Pokémon Cane,Stadio 1,57,80,115,50,80,95,477,"79,50",,,,,Lotta - Buio - Drago,–,Veleno - Acciaio,–
-#0928, Smoliv,,Erba,Normale,Pokémon Oliva,Base,41,35,45,58,51,30,260,"43,33",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Lotta
-#0929, Dolliv,,Erba,Normale,Pokémon Oliva,Stadio 1,52,53,60,78,78,33,354,"59,00",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Lotta
-#0930, Arboliva,,Erba,Normale,Pokémon Oliva,Stadio 2,78,69,90,125,109,39,510,"85,00",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Lotta
-#0931, Squawkabilly,Piume Verdi,Normale,Volante,Pokémon Pappagallo,Base,82,96,51,45,51,92,417,"69,50",,,,,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
-#0931, Squawkabilly,Piume Azzure,Normale,Volante,Pokémon Pappagallo,Base,82,96,51,45,51,92,417,"69,50",,,,,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
-#0931, Squawkabilly,Piume Bianche,Normale,Volante,Pokémon Pappagallo,Base,82,96,51,45,51,92,417,"69,50",,,,,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
-#0931, Squawkabilly,Piume Gialle,Normale,Volante,Pokémon Pappagallo,Base,82,96,51,45,51,92,417,"69,50",,,,,–,Coleottero - Lotta - Erba,Lotta,Elettro - Ghiaccio - Roccia
-#0932, Nacli,,Roccia,,Pokémon Salgemma,Base,55,55,75,35,35,25,280,"46,67",,,,,Coleottero - Fuoco - Volante - Ghiaccio,–,Lotta - Erba - Terra - Acciaio - Acqua,–
-#0933, Naclstack,,Roccia,,Pokémon Salgemma,Stadio 1,60,60,100,35,65,35,355,"59,17",,,,,Coleottero - Fuoco - Volante - Ghiaccio,–,Lotta - Erba - Terra - Acciaio - Acqua,–
-#0934, Garganacl,,Roccia,,Pokémon Salgemma,Stadio 2,100,100,130,45,90,35,500,"83,33",,,,,Coleottero - Fuoco - Volante - Ghiaccio,–,Lotta - Erba - Terra - Acciaio - Acqua,–
-#0935, Charcadet,,Fuoco,,Pokémon Infantigneo,Base,40,50,40,50,40,35,255,"42,50",,,,,Coleottero - Erba - Ghiaccio - Acciaio,–,Terra - Roccia - Acqua,–
-#0936, Armarouge,,Fuoco,Psico,Pokémon Guerrigneo,Stadio 1,85,60,100,125,80,75,525,"87,50",,,,,Coleottero - Erba - Ghiaccio - Acciaio,Lotta - Veleno,Terra - Roccia - Acqua,Coleottero - Buio - Spettro
-#0937, Ceruledge,,Fuoco,Spettro,Pokémon Spadaccigneo,Stadio 1,75,125,80,60,100,85,525,"87,50",,,,,Coleottero - Erba - Ghiaccio - Acciaio,Spettro - Psico,Terra - Roccia - Acqua,Buio - Spettro
-#0938,Tadbulb,,Elettro,,Pokémon Amperino,Base,61,31,41,59,35,45,272,"45,33",,,,,Volante - Acqua,–,Terra,–
-#0939,Bellibolt,,Elettro,,Pokémon Amperana,Stadio 1,109,64,91,103,83,45,495,"82,50",,,,,Volante - Acqua,–,Terra,–
-#0940,Wattrel,,Elettro,Volante,Pokémon Idrobatide,Base,40,40,35,55,40,70,280,"46,67",,,,,Volante - Acqua,Coleottero - Lotta - Erba,Terra,Elettro - Ghiaccio - Roccia
-#0941,Kilowattrel,,Elettro,Volante,Pokémon Fregata,Stadio 1,70,70,60,105,60,125,490,"81,67",,,,,Volante - Acqua,Coleottero - Lotta - Erba,Terra,Elettro - Ghiaccio - Roccia
-#0942,Maschiff,,Buio,,Pokémon Rompicollo,Base,60,78,60,40,51,51,340,"56,67",,,,,Spettro - Psico,–,Coleottero - Folletto - Lotta,–
-#0943,Mabosstiff,,Buio,,Pokémon Boss,Stadio 1,80,120,90,60,70,85,505,"84,17",,,,,Spettro - Psico,–,Coleottero - Folletto - Lotta,–
-#0944,Shroodle,,Veleno,Normale,Pokémon Velentopo,Base,40,65,35,40,35,75,290,"48,33",,,,,Folletto - Erba,–,Terra - Psico,Lotta
-#0945,Grafaiai,,Veleno,Normale,Pokémon Velenprimate,Stadio 1,63,95,65,80,72,110,485,"80,83",,,,,Folletto - Erba,–,Terra - Psico,Lotta
-#0946,Bramblin,,Erba,Spettro,Pokémon Rotolerba,Base,40,65,30,45,35,60,275,"45,83",,,,,Terra - Roccia - Acqua,Spettro - Psico,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Buio - Spettro
-#0947,Brambleghast,,Erba,Spettro,Pokémon Rotolerba,Stadio 1,55,115,70,80,70,90,480,"80,00",,,,,Terra - Roccia - Acqua,Spettro - Psico,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Buio - Spettro
-#0948,Toedscool,,Terra,Erba,Pokémon Auricularia,Base,40,40,35,50,100,70,335,"55,83",,,,,Elettro - Fuoco - Veleno - Roccia - Acciaio,Terra - Roccia - Acqua,Erba - Ghiaccio - Acqua,Coleottero - Fuoco - Volante - Ghiaccio - Veleno
-#0949,Toedscruel,,Terra,Erba,Pokémon Auricularia,Stadio 1,80,70,65,80,120,100,515,"85,83",,,,,Elettro - Fuoco - Veleno - Roccia - Acciaio,Terra - Roccia - Acqua,Erba - Ghiaccio - Acqua,Coleottero - Fuoco - Volante - Ghiaccio - Veleno
-#0950,Klawf,,Roccia,,Pokémon Agguato,Base,70,100,115,35,55,75,450,"75,00",,,,,Coleottero - Fuoco - Volante - Ghiaccio,–,Lotta - Erba - Terra - Acciaio - Acqua,–
-#0951,Capsakid,,Erba,,Pokémon Habanero,Base,50,62,40,62,40,50,304,"50,67",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#0952,Scovillain,,Erba,Fuoco,Pokémon Habanero,Stadio 1,65,108,65,108,65,75,486,"81,00",,,,,Terra - Roccia - Acqua,Coleottero - Erba - Ghiaccio - Acciaio,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Terra - Roccia - Acqua
-#0953,Rellor,,Coleottero,,Pokémon Rotolatore,Base,41,50,60,31,58,30,270,"45,00",,,,,Erba - Buio - Psico,–,Fuoco - Volante - Roccia,–
-#0954,Rabsca,,Coleottero,Psico,Pokémon Rotolatore,Stadio 1,75,50,85,115,100,45,470,"78,33",,,,,Erba - Buio - Psico,Lotta - Veleno,Fuoco - Volante - Roccia,Coleottero - Buio - Spettro
-#0955,Flittle,,Psico,,Pokémon Volant,Base,30,35,30,55,30,75,255,"42,50",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0956,Espathra,,Psico,,Pokémon Struzzo,Stadio 1,95,60,60,101,60,105,481,"80,17",,,,,Lotta - Veleno,–,Coleottero - Buio - Spettro,–
-#0957,Tinkatink,,Folletto,Acciaio,Pokémon Forgiatore,Base,50,45,45,35,64,58,297,"49,50",,,,,Lotta - Buio - Drago,Folletto - Ghiaccio - Roccia,Veleno - Acciaio,Lotta - Fuoco - Terra
-#0958,Tinkatuff,,Folletto,Acciaio,Pokémon Martello,Stadio 1,65,55,55,45,82,78,380,"63,33",,,,,Lotta - Buio - Drago,Folletto - Ghiaccio - Roccia,Veleno - Acciaio,Lotta - Fuoco - Terra
-#0959,Tinkaton,,Folletto,Acciaio,Pokémon Martello,Stadio 2,85,75,77,70,105,94,506,"84,33",,,,,Lotta - Buio - Drago,Folletto - Ghiaccio - Roccia,Veleno - Acciaio,Lotta - Fuoco - Terra
-#0960,Wiglett,,Acqua,,Pokémon Grongo,Base,10,55,25,35,25,95,245,"40,83",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0961,Wugtrio,,Acqua,,Pokémon Grongo,Stadio 1,35,100,50,50,70,120,425,"70,83",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0962,Bombirdier,,Volante,Buio,Pokémon Gettaoggetti,Base,70,103,85,60,85,82,485,"80,83",,,,,Coleottero - Lotta - Erba,Spettro - Psico,Elettro - Ghiaccio - Roccia,Coleottero - Folletto - Lotta
-#0963,Finizen,,Acqua,,Pokémon Delfino,Base,70,45,40,45,40,75,315,"52,50",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0964,Palafin,Forma Ingenua,Acqua,,Pokémon Delfino,Stadio 1,100,70,72,53,62,100,457,"76,17",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0964,Palafin,Forma Possente,Acqua,,Pokémon Eroe,Stadio 1,100,160,97,106,87,100,650,"108,33",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0965,Varoom,,Acciaio,Veleno,Pokémon Monocilindro,Base,45,70,63,30,45,47,300,"50,00",,,,,Folletto - Ghiaccio - Roccia,Folletto - Erba,Lotta - Fuoco - Terra,Terra - Psico
-#0966,Revavroom,,Acciaio,Veleno,Pokémon Policilindro,Stadio 1,80,119,90,54,67,90,500,"83,33",,,,,Folletto - Ghiaccio - Roccia,Folletto - Erba,Lotta - Fuoco - Terra,Terra - Psico
-#0967,Cyclizar,,Drago,Normale,Pokémon Cavalcatura,Base,70,95,65,85,65,121,501,"83,50",,,,,Drago,–,Drago - Folletto - Ghiaccio,Lotta
-#0968,Orthworm,,Acciaio,,Pokémon Lombrico,Base,70,85,145,60,55,65,480,"80,00",,,,,Folletto - Ghiaccio - Roccia,–,Lotta - Fuoco - Terra,–
-#0969,Glimmet,,Roccia,Veleno,Pokémon Minerale,Base,48,35,42,105,60,60,350,"58,33",,,,,Coleottero - Fuoco - Volante - Ghiaccio,Folletto - Erba,Lotta - Erba - Terra - Acciaio - Acqua,Terra - Psico
-#0970,Glimmora,,Roccia,Veleno,Pokémon Minerale,Stadio 1,83,55,90,130,81,86,525,"87,50",,,,,Coleottero - Fuoco - Volante - Ghiaccio,Folletto - Erba,Lotta - Erba - Terra - Acciaio - Acqua,Terra - Psico
-#0971,Greavard,,Spettro,,Pokémon Cantasma,Base,50,61,60,30,55,34,290,"48,33",,,,,Spettro - Psico,–,Buio - Spettro,–
-#0972,Houndstone,,Spettro,,Pokémon Cantasma,Stadio 1,72,101,100,50,97,68,488,"81,33",,,,,Spettro - Psico,–,Buio - Spettro,–
-#0973,Flamigo,,Volante,Lotta,Pokémon Sincronia,Base,82,115,74,75,64,90,500,"83,33",,,,,Coleottero - Lotta - Erba,Buio - Ghiaccio - Normale - Roccia - Acciaio,Elettro - Ghiaccio - Roccia,Folletto - Volante - Psico
-#0974,Cetoddle,,Ghiaccio,,Pokémon Balenottera,Base,108,68,45,30,40,43,334,"55,67",,,,,Drago - Volante - Erba - Terra,–,Lotta - Fuoco - Roccia - Acciaio,–
-#0975,Cetitan,,Ghiaccio,,Pokémon Balenottera,Stadio 1,170,113,65,45,55,73,521,"86,83",,,,,Drago - Volante - Erba - Terra,–,Lotta - Fuoco - Roccia - Acciaio,–
-#0976,Veluza,,Acqua,Psico,Pokémon Separazione,Base,90,102,73,78,65,70,478,"79,67",,,,,Fuoco - Terra - Roccia,Lotta - Veleno,Elettro - Erba,Coleottero - Buio - Spettro
-#0977,Dondozo,,Acqua,,Pokémon Pescegattone,Base,150,100,115,65,65,35,530,"88,33",,,,,Fuoco - Terra - Roccia,–,Elettro - Erba,–
-#0978,Tatsugiri,Forma Arcuata,Drago,Acqua,Pokémon Mimetico,Base,68,50,60,120,95,82,475,"79,17",,,,,Drago,Fuoco - Terra - Roccia,Drago - Folletto - Ghiaccio,Elettro - Erba
-#0978,Tatsugiri,Forma Adagiata,Drago,Acqua,Pokémon Mimetico,Base,68,50,60,120,95,82,475,"79,17",,,,,Drago,Fuoco - Terra - Roccia,Drago - Folletto - Ghiaccio,Elettro - Erba
-#0978,Tatsugiri,Forma Tesa,Drago,Acqua,Pokémon Mimetico,Base,68,50,60,120,95,82,475,"79,17",,,,,Drago,Fuoco - Terra - Roccia,Drago - Folletto - Ghiaccio,Elettro - Erba
-#0979,Annihilape,,Lotta,Spettro,Pokémon Irascimmia,Stadio 2,110,115,80,50,90,90,535,"89,17",,,,,Buio - Ghiaccio - Normale - Roccia - Acciaio,Spettro - Psico,Folletto - Volante - Psico,Buio - Spettro
-#0980,Clodsire,,Veleno,Terra,Pokémon Pescespine,Stadio 1,130,75,60,45,100,20,430,"71,67",,,,,Folletto - Erba,Elettro - Fuoco - Veleno - Roccia - Acciaio,Terra - Psico,Erba - Ghiaccio - Acqua
-#0981,Farigiraf,,Normale,Psico,Pokémon Lungocollo,Stadio 1,120,90,70,110,70,60,520,"86,67",,,,,–,Lotta - Veleno,Lotta,Coleottero - Buio - Spettro
-#0982,Dudunsparce,Forma Bimetamero,Normale,,Pokémon Terraserpe,Stadio 1,125,100,80,85,75,55,520,"86,67",,,,,–,–,Lotta,–
-#0982,Dudunsparce,Forma Trimetamero,Normale,,Pokémon Terraserpe,Stadio 1,125,100,80,85,75,55,520,"86,67",,,,,–,–,Lotta,–
-#0983,Kingambit,,Buio,Acciaio,Pokémon Granspada,Stadio 2,100,135,120,60,85,50,550,"91,67",,,,,Spettro - Psico,Folletto - Ghiaccio - Roccia,Coleottero - Folletto - Lotta,Lotta - Fuoco - Terra
-#0984,Great Tusk,,Terra,Lotta,Pokémon Paradosso,Base,115,131,131,53,53,87,570,"95,00",,,,,Elettro - Fuoco - Veleno - Roccia - Acciaio,Buio - Ghiaccio - Normale - Roccia - Acciaio,Erba - Ghiaccio - Acqua,Folletto - Volante - Psico
-#0985,Scream Tail,,Folletto,Psico,Pokémon Paradosso,Base,115,65,99,65,115,111,570,"95,00",,,,,Lotta - Buio - Drago,Lotta - Veleno,Veleno - Acciaio,Coleottero - Buio - Spettro
-#0986,Brute Bonnet,,Erba,Buio,Pokémon Paradosso,Base,111,127,99,79,99,55,570,"95,00",,,,,Terra - Roccia - Acqua,Spettro - Psico,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Coleottero - Folletto - Lotta
-#0987,Flutter Mane,,Spettro,Folletto,Pokémon Paradosso,Base,55,55,55,135,135,135,570,"95,00",,,,,Spettro - Psico,Lotta - Buio - Drago,Buio - Spettro,Veleno - Acciaio
-#0988,Slither Wing,,Coleottero,Lotta,Pokémon Paradosso,Base,85,135,79,85,105,81,570,"95,00",,,,,Erba - Buio - Psico,Buio - Ghiaccio - Normale - Roccia - Acciaio,Fuoco - Volante - Roccia,Folletto - Volante - Psico
-#0989,Sandy Shocks,,Elettro,Terra,Pokémon Paradosso,Base,85,81,97,121,85,101,570,"95,00",,,,,Volante - Acqua,Elettro - Fuoco - Veleno - Roccia - Acciaio,Terra,Erba - Ghiaccio - Acqua
-#0990,Iron Treads,,Terra,Acciaio,Pokémon Paradosso,Base,90,112,120,72,70,106,570,"95,00",,,,,Elettro - Fuoco - Veleno - Roccia - Acciaio,Folletto - Ghiaccio - Roccia,Erba - Ghiaccio - Acqua,Lotta - Fuoco - Terra
-#0991,Iron Bundle,,Ghiaccio,Acqua,Pokémon Paradosso,Base,56,80,114,124,60,136,570,"95,00",,,,,Drago - Volante - Erba - Terra,Fuoco - Terra - Roccia,Lotta - Fuoco - Roccia - Acciaio,Elettro - Erba
-#0992,Iron Hands,,Lotta,Elettro,Pokémon Paradosso,Base,154,140,108,50,68,50,570,"95,00",,,,,Buio - Ghiaccio - Normale - Roccia - Acciaio,Volante - Acqua,Folletto - Volante - Psico,Terra
-#0993,Iron Jugulis,,Buio,Volante,Pokémon Paradosso,Base,94,80,86,122,80,108,570,"95,00",,,,,Spettro - Psico,Coleottero - Lotta - Erba,Coleottero - Folletto - Lotta,Elettro - Ghiaccio - Roccia
-#0994,Iron Moth,,Fuoco,Veleno,Pokémon Paradosso,Base,80,70,60,140,110,110,570,"95,00",,,,,Coleottero - Erba - Ghiaccio - Acciaio,Folletto - Erba,Terra - Roccia - Acqua,Terra - Psico
-#0995,Iron Thorns,,Roccia,Elettro,Pokémon Paradosso,Base,100,134,110,70,84,72,570,"95,00",,,,,Coleottero - Fuoco - Volante - Ghiaccio,Volante - Acqua,Lotta - Erba - Terra - Acciaio - Acqua,Terra
-#0996,Frigibax,,Drago,Ghiaccio,Pokémon Gelopinna,Base,65,75,45,35,45,55,320,"53,33",,,,,Drago,Drago - Volante - Erba - Terra,Drago - Folletto - Ghiaccio,Lotta - Fuoco - Roccia - Acciaio
-#0997,Arctibax,,Drago,Ghiaccio,Pokémon Gelopinna,Stadio 1,90,95,66,45,65,62,423,"70,50",,,,,Drago,Drago - Volante - Erba - Terra,Drago - Folletto - Ghiaccio,Lotta - Fuoco - Roccia - Acciaio
-#0998,Baxcalibur,,Drago,Ghiaccio,Pokémon Gelodrago,Stadio 2,115,145,92,75,86,87,600,"100,00",,,,,Drago,Drago - Volante - Erba - Terra,Drago - Folletto - Ghiaccio,Lotta - Fuoco - Roccia - Acciaio
-#0999,Gimmighoul,Forma Scrigno,Spettro,,Pokémon Scrigno,Base,45,30,70,75,70,10,300,"50,00",,,,,Spettro - Psico,–,Buio - Spettro,–
-#0999,Gimmighoul,Forma Ambulante,Spettro,,Pokémon Cacciatore di monete,Base,45,30,25,75,45,80,300,"50,00",,,,,Spettro - Psico,–,Buio - Spettro,–
-#1000,Gholdengo,,Acciaio,Spettro,Pokémon Tesoro,Stadio 1,87,60,95,133,91,84,550,"91,67",,,,,Folletto - Ghiaccio - Roccia,Spettro - Psico,Lotta - Fuoco - Terra,Buio - Spettro
-#1001,Wo-Chien,,Buio,Erba,Pokémon Disgrazia,Base,85,85,100,95,135,70,570,"95,00",,,,,Spettro - Psico,Terra - Roccia - Acqua,Coleottero - Folletto - Lotta,Coleottero - Fuoco - Volante - Ghiaccio - Veleno
-#1002,Chien-Pao,,Buio,Ghiaccio,Pokémon Disgrazia,Base,80,120,80,90,65,135,570,"95,00",,,,,Spettro - Psico,Drago - Volante - Erba - Terra,Coleottero - Folletto - Lotta,Lotta - Fuoco - Roccia - Acciaio
-#1003,Ting-Lu,,Buio,Terra,Pokémon Disgrazia,Base,155,110,125,55,80,45,570,"95,00",,,,,Spettro - Psico,Elettro - Fuoco - Veleno - Roccia - Acciaio,Coleottero - Folletto - Lotta,Erba - Ghiaccio - Acqua
-#1004,Chi-Yu,,Buio,Fuoco,Pokémon Disgrazia,Base,55,80,80,135,120,100,570,"95,00",,,,,Spettro - Psico,Coleottero - Erba - Ghiaccio - Acciaio,Coleottero - Folletto - Lotta,Terra - Roccia - Acqua
-#1005,Roaring Moon,,Drago,Buio,Pokémon Paradosso,Base,105,139,71,55,101,119,590,"98,33",,,,,Drago,Spettro - Psico,Drago - Folletto - Ghiaccio,Coleottero - Folletto - Lotta
-#1006,Iron Valiant,,Folletto,Lotta,Pokémon Paradosso,Base,74,130,90,120,60,116,590,"98,33",,,,,Lotta - Buio - Drago,Buio - Ghiaccio - Normale - Roccia - Acciaio,Veleno - Acciaio,Folletto - Volante - Psico
-#1007,Koraidon,,Lotta,Drago,Pokémon Paradosso,Base,100,135,115,85,100,135,670,"111,67",,,,,Buio - Ghiaccio - Normale - Roccia - Acciaio,Drago,Folletto - Volante - Psico,Drago - Folletto - Ghiaccio
-#1008,Miraidon,,Elettro,Drago,Pokémon Paradosso,Base,100,85,100,135,115,135,670,"111,67",,,,,Volante - Acqua,Drago,Terra,Drago - Folletto - Ghiaccio
-#1009,Walking Wake,,Acqua,Drago,Pokémon Paradosso,Base,99,83,91,125,83,109,590,"98,33",,,,,Fuoco - Terra - Roccia,Drago,Elettro - Erba,Drago - Folletto - Ghiaccio
-#1010,Iron Leaves,,Erba,Psico,Pokémon Paradosso,Base,90,130,88,70,108,104,590,"98,33",,,,,Terra - Roccia - Acqua,Lotta - Veleno,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Coleottero - Buio - Spettro
-#1011,Dipplin,,Erba,Drago,Pokémon Pomelassa,Stadio 1,80,80,110,95,80,40,485,"80,83",,,,,Terra - Roccia - Acqua,Drago,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Drago - Folletto - Ghiaccio
-#1012,Poltchageist,Forma Normale,Erba,Spettro,Pokémon Matcha,Base,40,45,45,74,54,50,308,"51,33",,,,,Terra - Roccia - Acqua,Spettro - Psico,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Buio - Spettro
-#1012,Poltchageist,Forma Artisan,Erba,Spettro,Pokémon Matcha,Base,40,45,45,74,54,50,308,"51,33",,,,,Terra - Roccia - Acqua,Spettro - Psico,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Buio - Spettro
-#1013,Sinistcha,Forma Normale,Erba,Spettro,Pokémon Matcha,Stadio 1,71,60,106,121,80,70,508,"84,67",,,,,Terra - Roccia - Acqua,Spettro - Psico,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Buio - Spettro
-#1013,Sinistcha,Forma Masterpiece,Erba,Spettro,Pokémon Matcha,Stadio 1,71,60,106,121,80,70,508,"84,67",,,,,Terra - Roccia - Acqua,Spettro - Psico,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Buio - Spettro
-#1014,Okidogi,,Veleno,Lotta,Pokémon Servo,Base,88,128,115,58,86,80,555,"92,50",,,,,Folletto - Erba,Buio - Ghiaccio - Normale - Roccia - Acciaio,Terra - Psico,Folletto - Volante - Psico
-#1015,Munkidori,,Veleno,Psico,Pokémon Servo,Base,88,75,66,130,90,106,555,"92,50",,,,,Folletto - Erba,Lotta - Veleno,Terra - Psico,Coleottero - Buio - Spettro
-#1016,Fezandipiti,,Veleno,Folletto,Pokémon Servo,Base,88,91,82,70,125,99,555,"92,50",,,,,Folletto - Erba,Lotta - Buio - Drago,Terra - Psico,Veleno - Acciaio
-#1017,Ogerpon,Forma Normale,Erba,,Pokèmon Maschera,Base,80,120,84,60,96,110,550,"91,67",,,,,Terra - Roccia - Acqua,–,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,–
-#1017,Ogerpon,Forma Wellspring Mask,Erba,Acqua,Pokèmon Maschera,Base,80,120,84,60,96,110,550,"91,67",,,,,Terra - Roccia - Acqua,Fuoco - Terra - Roccia,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Elettro - Erba
-#1017,Ogerpon,Forma Heartflame Mask,Erba,Fuoco,Pokèmon Maschera,Base,80,120,84,60,96,110,550,"91,67",,,,,Terra - Roccia - Acqua,Coleottero - Erba - Ghiaccio - Acciaio,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Terra - Roccia - Acqua
-#1017,Ogerpon,Forma Cornerstone Mask,Erba,Roccia,Pokèmon Maschera,Base,80,120,84,60,96,110,550,"91,67",,,,,Terra - Roccia - Acqua,Coleottero - Fuoco - Volante - Ghiaccio,Coleottero - Fuoco - Volante - Ghiaccio - Veleno,Lotta - Erba - Terra - Acciaio - Acqua
