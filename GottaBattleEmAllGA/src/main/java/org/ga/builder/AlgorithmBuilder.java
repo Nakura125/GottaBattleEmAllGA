@@ -15,6 +15,7 @@ import org.uma.jmetal.operator.impl.mutation.UniformMutation;
 import org.uma.jmetal.operator.impl.selection.BinaryTournamentSelection;
 import org.uma.jmetal.operator.impl.selection.RandomSelection;
 import org.uma.jmetal.operator.impl.selection.TournamentSelection;
+import org.uma.jmetal.problem.PermutationProblem;
 import org.uma.jmetal.solution.IntegerSolution;
 import org.uma.jmetal.util.comparator.FitnessComparator;
 import org.uma.jmetal.util.comparator.RankingAndCrowdingDistanceComparator;
@@ -25,10 +26,10 @@ import java.util.List;
 
 public abstract class AlgorithmBuilder {
 
-    protected double crossoverProbability = 1;
-    protected double crossoverDistributionIndex = 0.0;
+    protected double crossoverProbability = 0.9;
+    protected double crossoverDistributionIndex = 0.6;
     protected double mutationProbability;
-    protected double mutationDistributionIndex = 1.0;
+    protected double mutationDistributionIndex = 6.0;
     protected int maxIterations = 100;
     protected int populationSize = 100;
 
@@ -41,11 +42,12 @@ public abstract class AlgorithmBuilder {
 //        return new NPointCrossover(3);
     }
 
+    
     protected MutationOperator<IntegerSolution> getMutationOperator(PokemonProblem problem) {
         mutationProbability = 1.0 / problem.getNumberOfVariables();
-//        return new IntegerPolynomialMutation(mutationProbability, mutationDistributionIndex);
-//        return new IntegerPolynomialMutation(1, mutationDistributionIndex);
-          return new PermutationSwapMutation(1);
+        //return new IntegerPolynomialMutation(mutationProbability, mutationDistributionIndex);
+        //return new IntegerPolynomialMutation(1, mutationDistributionIndex);
+        return new PermutationSwapMutation(0.5);
 
     }
 
@@ -56,7 +58,7 @@ public abstract class AlgorithmBuilder {
 
     public void printResults(List<IntegerSolution> population, HashMap<Integer, Pokemon> pokemons) {
         // Ordina la popolazione in base alla somma degli obiettivi
-//        population.sort(Comparator.comparingDouble(this::calculateSum));
+        population.sort(Comparator.comparingDouble(AlgorithmBuilder::calculateSum));
 
         int index = 0;
         for (IntegerSolution solution : population) {
@@ -87,7 +89,7 @@ public abstract class AlgorithmBuilder {
         }
     }
 
-    private double calculateSum(IntegerSolution solution) {
+    public static double calculateSum(IntegerSolution solution) {
         double sum = 0;
         for (int i = 0; i < solution.getNumberOfObjectives(); i++) {
             sum += solution.getObjective(i);

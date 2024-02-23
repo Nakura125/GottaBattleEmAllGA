@@ -34,6 +34,7 @@ public class PokemonRepository implements  Repository{
                                 data[3],//tipo1
                                 data[4],//tipo2
                                 Integer.parseInt(data[13]),//totale
+                                data[2],//forma
                                 mosse.getMossa(data[15]),//mosse
                                 mosse.getMossa(data[16]),//mosse
                                 mosse.getMossa(data[17]),//mosse

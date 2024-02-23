@@ -146,7 +146,7 @@ public class PokemonFitness {
 
         }
 
-        return normalizeFitness(sumMoves, 0, 300*6, MIN_FITNESS,MAX_FITNESS);
+        return normalizeFitness(sumMoves, 0, 100*24, MIN_FITNESS,MAX_FITNESS);
     }
 
 
