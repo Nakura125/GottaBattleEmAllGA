@@ -25,10 +25,10 @@ import java.util.List;
 
 public abstract class AlgorithmBuilder {
 
-    protected double crossoverProbability = 0.9;
-    protected double crossoverDistributionIndex = 6.0;
+    protected double crossoverProbability = 1;
+    protected double crossoverDistributionIndex = 0.0;
     protected double mutationProbability;
-    protected double mutationDistributionIndex = 6.0;
+    protected double mutationDistributionIndex = 1.0;
     protected int maxIterations = 100;
     protected int populationSize = 100;
 
@@ -44,8 +44,8 @@ public abstract class AlgorithmBuilder {
     protected MutationOperator<IntegerSolution> getMutationOperator(PokemonProblem problem) {
         mutationProbability = 1.0 / problem.getNumberOfVariables();
 //        return new IntegerPolynomialMutation(mutationProbability, mutationDistributionIndex);
-        return new IntegerPolynomialMutation(0.3, mutationDistributionIndex);
-//          return new PermutationSwapMutation(0.3);
+//        return new IntegerPolynomialMutation(1, mutationDistributionIndex);
+          return new PermutationSwapMutation(1);
 
     }
 
@@ -56,7 +56,7 @@ public abstract class AlgorithmBuilder {
 
     public void printResults(List<IntegerSolution> population, HashMap<Integer, Pokemon> pokemons) {
         // Ordina la popolazione in base alla somma degli obiettivi
-        population.sort(Comparator.comparingDouble(this::calculateSum));
+//        population.sort(Comparator.comparingDouble(this::calculateSum));
 
         int index = 0;
         for (IntegerSolution solution : population) {

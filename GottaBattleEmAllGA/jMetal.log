@@ -2,9 +2,9 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2024-02-23T15:22:16.913815400Z</date>
-  <millis>1708701736913</millis>
-  <nanos>815400</nanos>
+  <date>2024-02-23T19:46:51.892206300Z</date>
+  <millis>1708717611892</millis>
+  <nanos>206300</nanos>
   <sequence>0</sequence>
   <logger>org.uma.jmetal.util.JMetalLogger</logger>
   <level>INFO</level>
@@ -14,33 +14,33 @@
   <message>Loggers configured with null</message>
 </record>
 <record>
-  <date>2024-02-23T15:22:16.974650100Z</date>
-  <millis>1708701736974</millis>
-  <nanos>650100</nanos>
+  <date>2024-02-23T19:46:51.997936Z</date>
+  <millis>1708717611997</millis>
+  <nanos>936000</nanos>
   <sequence>1</sequence>
   <logger>org.uma.jmetal.util.JMetalLogger</logger>
   <level>INFO</level>
   <class>org.App</class>
   <method>main</method>
   <thread>1</thread>
-  <message>Total execution time: 15ms</message>
+  <message>Total execution time: 25ms</message>
 </record>
 <record>
-  <date>2024-02-23T15:22:16.982628900Z</date>
-  <millis>1708701736982</millis>
-  <nanos>628900</nanos>
+  <date>2024-02-23T19:46:52.010887100Z</date>
+  <millis>1708717612010</millis>
+  <nanos>887100</nanos>
   <sequence>2</sequence>
   <logger>org.uma.jmetal.util.JMetalLogger</logger>
   <level>INFO</level>
   <class>org.uma.jmetal.util.AbstractAlgorithmRunner</class>
   <method>printFinalSolutionSet</method>
   <thread>1</thread>
-  <message>Random seed: 1708701736870</message>
+  <message>Random seed: 1708717611809</message>
 </record>
 <record>
-  <date>2024-02-23T15:22:16.983625900Z</date>
-  <millis>1708701736983</millis>
-  <nanos>625900</nanos>
+  <date>2024-02-23T19:46:52.011884200Z</date>
+  <millis>1708717612011</millis>
+  <nanos>884200</nanos>
   <sequence>3</sequence>
   <logger>org.uma.jmetal.util.JMetalLogger</logger>
   <level>INFO</level>
@@ -50,9 +50,9 @@
   <message>Objectives values have been written to file FUN.tsv</message>
 </record>
 <record>
-  <date>2024-02-23T15:22:16.983625900Z</date>
-  <millis>1708701736983</millis>
-  <nanos>625900</nanos>
+  <date>2024-02-23T19:46:52.013880Z</date>
+  <millis>1708717612013</millis>
+  <nanos>880000</nanos>
   <sequence>4</sequence>
   <logger>org.uma.jmetal.util.JMetalLogger</logger>
   <level>INFO</level>

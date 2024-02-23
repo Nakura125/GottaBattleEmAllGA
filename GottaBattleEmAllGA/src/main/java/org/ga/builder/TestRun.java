@@ -22,7 +22,8 @@ public class TestRun {
         // Creare un'istanza del problema PokemonProblem
         PokemonProblem pokemonProblem = new PokemonProblem();
 
-        // Creare un'istanza di NSGAII_Test0 e ottenere l'algoritmo
+
+/*        // Creare un'istanza di NSGAII_Builder e ottenere l'algoritmo
         NSGAII_Builder nsgaII_Builder = new NSGAII_Builder();
         Algorithm<List<IntegerSolution>> algorithmNSGAII = nsgaII_Builder.buildAlgorithm(pokemonProblem, pokemons);
 
@@ -31,17 +32,17 @@ public class TestRun {
         AlgorithmRunner algorithmRunner = new AlgorithmRunner.Executor(algorithmNSGAII)
                 .execute();
         List<IntegerSolution> population = algorithmNSGAII.getResult();
-        nsgaII_Builder.printResults(population, pokemons);
+        nsgaII_Builder.printResults(population, pokemons);*/
 
-/*        // Creare un'istanza di SPEA2_Test0 e ottenere l'algoritmo
-        SPEA2_Test0 spea2_Test0 = new SPEA2_Test0();
-        Algorithm<List<IntegerSolution>> algorithmSPEA2 = spea2_Test0.buildAlgorithm(pokemonProblem, pokemons);
+        // Creare un'istanza di SPEA2_Builder e ottenere l'algoritmo
+        SPEA2_Builder spea2_Builder = new SPEA2_Builder();
+        Algorithm<List<IntegerSolution>> algorithmSPEA2 = spea2_Builder.buildAlgorithm(pokemonProblem, pokemons);
 
         // Eseguire l'algoritmo e stampare i risultati
         AlgorithmRunner algorithmRunner = new AlgorithmRunner.Executor(algorithmSPEA2)
                 .execute();
         List<IntegerSolution> population = algorithmSPEA2.getResult();
-        spea2_Test0.printResults(population, pokemons);*/
+        spea2_Builder.printResults(population, pokemons);
 
     }
 }
