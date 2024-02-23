@@ -96,14 +96,16 @@ public class App
 
 
 
-        CrossoverOperator<IntegerSolution> crossoverOperator= new IntegerSBXCrossover(0.8,6);
-        MutationOperator<IntegerSolution> mutationOperator= new IntegerPolynomialMutation(0.3,7);
+        CrossoverOperator<IntegerSolution> crossoverOperator= new IntegerSBXCrossover(0.9,6);
+        MutationOperator<IntegerSolution> mutationOperator= new IntegerPolynomialMutation(0.3,6);
         SelectionOperator<List<IntegerSolution>,IntegerSolution> selectionOperator= new TournamentSelection<>(5);
 
         algorithm2 = new NSGAIIBuilder<IntegerSolution>(pokemonProblem, crossoverOperator, mutationOperator,100)
                 .setSelectionOperator(selectionOperator)
-                .setMaxEvaluations(200)
+                .setMaxEvaluations(100)
+                .setMatingPoolSize(50)
                 .build() ;
+
 
 
 

@@ -75,9 +75,9 @@ public class PokemonProblem implements IntegerProblem {
         for (int i = 0; i < getNumberOfVariables(); i++) {
 
             int randomValue=0;
-            do{
+//            do{
              randomValue = (int) (Math.random() * pokemons.size() );
-            }while(pokemons.get(randomValue).getTotale()<400 && Objects.equals(pokemons.get(randomValue).getTipo2(), ""));
+//            }while(pokemons.get(randomValue).getTotale()<400 && Objects.equals(pokemons.get(randomValue).getTipo2(), ""));
 //            while(pokemons.get(randomValue).getTotale()<600 && Objects.equals(pokemons.get(randomValue).getTipo2(), ""));
 
             solution.setVariableValue(i, randomValue);
