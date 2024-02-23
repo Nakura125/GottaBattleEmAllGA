@@ -28,7 +28,7 @@ public class NSGAIITest1 implements AlgorithmBuilder<NSGAII<IntegerSolution>> {
                 100, //numero massimo di iterazione
                 200, // numero di individui nella popolazione
                 200, // numero di individui selezionati ad ogni iterazione
-                500, // numero di individui selezionati per il fronte di parteto
+                500, // numero di individui selezionati per il fronte di pareto
                 crossoverOperator,
                 mutationOperator,
                 selectionOperator,

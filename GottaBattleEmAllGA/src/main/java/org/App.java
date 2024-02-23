@@ -1,5 +1,6 @@
 package org;
 
+import org.entity.Mossa;
 import org.entity.Pokemon;
 import org.ga.builder.NSGAIITest1;
 import org.ga.problem.PokemonProblem;
@@ -11,11 +12,14 @@ import org.uma.jmetal.operator.CrossoverOperator;
 import org.uma.jmetal.operator.MutationOperator;
 import org.uma.jmetal.operator.SelectionOperator;
 import org.uma.jmetal.operator.impl.crossover.IntegerSBXCrossover;
+import org.uma.jmetal.operator.impl.crossover.NPointCrossover;
 import org.uma.jmetal.operator.impl.mutation.IntegerPolynomialMutation;
 import org.uma.jmetal.operator.impl.selection.TournamentSelection;
+import org.uma.jmetal.problem.Problem;
 import org.uma.jmetal.solution.IntegerSolution;
 import org.uma.jmetal.util.AlgorithmRunner;
 import org.uma.jmetal.util.JMetalLogger;
+import org.uma.jmetal.util.ProblemUtils;
 import org.uma.jmetal.util.comparator.FitnessComparator;
 
 import java.util.HashMap;
@@ -29,10 +33,6 @@ import static org.uma.jmetal.util.AbstractAlgorithmRunner.printFinalSolutionSet;
  */
 public class App 
 {
-    private static double normalizeFitness(double x, double minX, double maxX, double minY, double maxY){
-        double normalizedFitness = (x - minX) / (maxX - minX) * (maxY - minY) + minY;
-        return Math.max(0, Math.min(100, normalizedFitness));
-    }
 
     public static void main( String[] args )
     {
@@ -93,13 +93,16 @@ public class App
 
         Algorithm<List<IntegerSolution>> algorithm2;
         PokemonProblem pokemonProblem=new PokemonProblem();
-        CrossoverOperator<IntegerSolution> crossoverOperator= new IntegerSBXCrossover(1,6);
-        MutationOperator<IntegerSolution> mutationOperator= new IntegerPolynomialMutation( 1,20);
-        SelectionOperator<List<IntegerSolution>,IntegerSolution> selectionOperator= new TournamentSelection<>(new FitnessComparator<>(),10);
 
-        algorithm2 = new NSGAIIBuilder<IntegerSolution>(pokemonProblem, crossoverOperator, mutationOperator,1000)
+
+
+        CrossoverOperator<IntegerSolution> crossoverOperator= new IntegerSBXCrossover(0.8,6);
+        MutationOperator<IntegerSolution> mutationOperator= new IntegerPolynomialMutation(0.3,7);
+        SelectionOperator<List<IntegerSolution>,IntegerSolution> selectionOperator= new TournamentSelection<>(5);
+
+        algorithm2 = new NSGAIIBuilder<IntegerSolution>(pokemonProblem, crossoverOperator, mutationOperator,100)
                 .setSelectionOperator(selectionOperator)
-                .setMaxEvaluations(25000)
+                .setMaxEvaluations(200)
                 .build() ;
 
 
@@ -112,6 +115,28 @@ public class App
         JMetalLogger.logger.info("Total execution time: " + computingTime + "ms");
 
         printFinalSolutionSet(population);
+
+        int index=0;
+        for(IntegerSolution solution: population){
+            System.out.println("Team : "+index);
+            //stampa pokemon
+            for (int i = 0; i < solution.getNumberOfVariables(); i++) {
+                System.out.println("\tVariable " + i + " value: " +  pokemons.get(solution.getVariableValue(i)).getNome()) ;
+
+            }
+
+            System.out.println("Objective 0: "+solution.getObjective(0));
+            System.out.println("Objective 1: "+solution.getObjective(1));
+            System.out.println("Objective 2: "+solution.getObjective(2));
+            System.out.println("Objective 3: "+solution.getObjective(3));
+
+            double sum=solution.getObjective(0)+ solution.getObjective(1) + solution.getObjective(2) + solution.getObjective(3);
+
+            System.out.println("sum : " +sum);
+
+            index++;
+        }
+
 //        if (!referenceParetoFront.equals("")) {
 //            printQualityIndicators(population, referenceParetoFront) ;
 //        }
