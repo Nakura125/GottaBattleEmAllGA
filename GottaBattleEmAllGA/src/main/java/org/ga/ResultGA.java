@@ -37,6 +37,7 @@ public class ResultGA {
         for(int i = population.size() - 1; i >= start; i--){
             IntegerSolution solution = population.get(i);
             Team team = new Team();
+            System.out.println("Fitness:"+AlgorithmBuilder.calculateSum(solution));
             for(int j = 0; j < solution.getNumberOfVariables(); j++){
                 team.addPokemon(pokemons.get(solution.getVariableValue(j)));
             }

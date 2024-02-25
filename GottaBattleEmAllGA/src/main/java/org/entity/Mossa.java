@@ -1,6 +1,8 @@
 package org.entity;
 
-public class Mossa {
+import java.io.Serializable;
+
+public class Mossa implements Serializable {
     private String nome;
     private String tipo;
     private String categoria;

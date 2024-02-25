@@ -26,19 +26,20 @@ public class App
         // inizializzazione due team a caso
         Team team1 = new Team();
         Team team2 = new Team();
-
         for(int i=0; i<6; i++){
             team1.addPokemon(pokemons.get(i));
-            team2.addPokemon(pokemons.get(i+6));
+            team2.addPokemon(pokemons.get(i*36+1));
         }
         System.out.println("Team1: ");
         for (int i = 0; i < 6; i++) {
-            System.out.println("\t"+team1.getPokemon(i).getNome());
+            if (team1.getPokemon(i) != null)
+                System.out.println("\t"+team1.getPokemon(i).getNome());
         }
 
         System.out.println("Team2: ");
         for (int i = 0; i < 6; i++) {
-            System.out.println("\t"+team2.getPokemon(i).getNome());
+            if (team2.getPokemon(i) != null)
+                System.out.println("\t"+team2.getPokemon(i).getNome());
         }
 
         //calcolo della distanza tra i due team

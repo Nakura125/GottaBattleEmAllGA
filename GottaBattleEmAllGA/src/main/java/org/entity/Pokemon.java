@@ -1,9 +1,10 @@
 package org.entity;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 
 import java.util.List;
-public class Pokemon {
+public class Pokemon implements Serializable {
     private String nome;
     private String tipo1;
     private String tipo2;
@@ -32,7 +33,7 @@ public class Pokemon {
         return forma;
     }
 
-    public void setForma(String forma) {
+    public void setForma(String forma)  {
         this.forma = forma;
     }
 

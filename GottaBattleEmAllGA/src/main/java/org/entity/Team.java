@@ -1,7 +1,8 @@
 package org.entity;
 
+import java.io.Serializable;
 import java.util.List;
-public class Team {
+public class Team implements Serializable {
 
     Integer i=0;
     private Pokemon[] pokemons= new Pokemon[6];
