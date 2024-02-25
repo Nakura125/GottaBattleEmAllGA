@@ -27,7 +27,7 @@ import java.util.List;
 public abstract class AlgorithmBuilder {
 
     protected double crossoverProbability = 0.9;
-    protected double crossoverDistributionIndex = 0.6;
+    protected double crossoverDistributionIndex = 6.0;
     protected double mutationProbability;
     protected double mutationDistributionIndex = 6.0;
     protected int maxIterations = 100;
@@ -45,15 +45,15 @@ public abstract class AlgorithmBuilder {
     
     protected MutationOperator<IntegerSolution> getMutationOperator(PokemonProblem problem) {
         mutationProbability = 1.0 / problem.getNumberOfVariables();
-        //return new IntegerPolynomialMutation(mutationProbability, mutationDistributionIndex);
+        return new IntegerPolynomialMutation(mutationProbability, mutationDistributionIndex);
         //return new IntegerPolynomialMutation(1, mutationDistributionIndex);
-        return new PermutationSwapMutation(0.5);
+//        return new PermutationSwapMutation(0.5);
 
     }
 
     protected SelectionOperator<List<IntegerSolution>, IntegerSolution> getSelectionOperator() {
-//        return new BinaryTournamentSelection<IntegerSolution>(new RankingAndCrowdingDistanceComparator<IntegerSolution>());
-        return new TournamentSelection<>(5);
+        return new BinaryTournamentSelection<IntegerSolution>(new RankingAndCrowdingDistanceComparator<IntegerSolution>());
+//        return new TournamentSelection<>(5);
     }
 
     public void printResults(List<IntegerSolution> population, HashMap<Integer, Pokemon> pokemons) {

@@ -28,7 +28,7 @@ public class App
         Team team2 = new Team();
         for(int i=0; i<6; i++){
             team1.addPokemon(pokemons.get(i));
-            team2.addPokemon(pokemons.get(i*36+1));
+            team2.addPokemon(pokemons.get(i*6+120));
         }
         System.out.println("Team1: ");
         for (int i = 0; i < 6; i++) {
