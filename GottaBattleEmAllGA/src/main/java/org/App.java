@@ -114,14 +114,59 @@ public class App
 
         System.out.println("Team1: ");
         for (int i = 0; i < 6; i++) {
-            if (team1.getPokemon(i) != null)
-                System.out.println("\t"+team1.getPokemon(i).getNome());
+            if (team1.getPokemon(i) != null){
+                System.out.print("\t" + team1.getPokemon(i).getNome()+ "(");
+                System.out.print(" Totale:" + team1.getPokemon(i).getTotale());
+                System.out.print(" Tipo1:" + team1.getPokemon(i).getTipo1());
+                System.out.print(" Tipo2: " + team1.getPokemon(i).getTipo2());
+                if (team1.getPokemon(i).getMosse().get(0) != null) {
+                    System.out.print(" Mossa1: " + team1.getPokemon(i).getMosse().get(0).getNome());
+                    System.out.print(" MossaTipo:" + team1.getPokemon(i).getMosse().get(0).getTipo());
+                }
+                if (team2.getPokemon(i).getMosse().get(1) != null) {
+                    System.out.print(" Mossa2: " + team1.getPokemon(i).getMosse().get(1).getNome());
+                    System.out.print(" MossaTipo: " + team1.getPokemon(i).getMosse().get(1).getTipo());
+                }
+                if (team2.getPokemon(i).getMosse().get(2) != null) {
+                    System.out.print(" Mossa3: " + team1.getPokemon(i).getMosse().get(2).getNome());
+                    System.out.print(" MossaTipo: " + team1.getPokemon(i).getMosse().get(2).getTipo());
+                }
+                if (team2.getPokemon(i).getMosse().get(3) != null) {
+                    System.out.print(" Mossa4: " + team1.getPokemon(i).getMosse().get(3).getNome());
+                    System.out.print(" MossaTipo: " + team1.getPokemon(i).getMosse().get(3).getTipo());
+                }
+
+                System.out.println(")");
+            }
+
         }
 
         System.out.println("Team2: ");
         for (int i = 0; i < 6; i++) {
-            if (team2.getPokemon(i) != null)
-                System.out.println("\t"+team2.getPokemon(i).getNome());
+            if (team2.getPokemon(i) != null) {
+                System.out.print("\t" + team2.getPokemon(i).getNome()+ "(");
+                System.out.print(" Totale:" + team2.getPokemon(i).getTotale());
+                System.out.print(" Tipo1:" + team2.getPokemon(i).getTipo1());
+                System.out.print(" Tipo2" + team2.getPokemon(i).getTipo2());
+                if (team2.getPokemon(i).getMosse().get(0) != null) {
+                    System.out.print(" Mossa1:" + team2.getPokemon(i).getMosse().get(0).getNome());
+                    System.out.print(" MossaTipo:" + team2.getPokemon(i).getMosse().get(0).getTipo());
+                }
+                if (team2.getPokemon(i).getMosse().get(1) != null) {
+                    System.out.print(" Mossa2: " + team2.getPokemon(i).getMosse().get(1).getNome());
+                    System.out.print(" MossaTipo:" + team2.getPokemon(i).getMosse().get(1).getTipo());
+                }
+                if (team2.getPokemon(i).getMosse().get(2) != null) {
+                    System.out.print(" Mossa3: " + team2.getPokemon(i).getMosse().get(2).getNome());
+                    System.out.print(" MossaTipo: " + team2.getPokemon(i).getMosse().get(2).getTipo());
+                }
+                if (team2.getPokemon(i).getMosse().get(3) != null) {
+                    System.out.print(" Mossa4: " + team2.getPokemon(i).getMosse().get(3).getNome());
+                    System.out.print(" MossaTipo: " + team2.getPokemon(i).getMosse().get(3).getTipo());
+                }
+
+                System.out.println(")");
+            }
         }
     }
 

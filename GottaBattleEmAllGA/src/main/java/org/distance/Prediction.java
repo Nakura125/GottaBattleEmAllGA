@@ -42,8 +42,8 @@ public class Prediction {
         for(int i=0; i< dim; i++){
             //se i pokemon sono uguali
             if(team1.getPokemon(i)!=null) {
-                if (team2.getPokemon(i)==null || Objects.equals(team1.getPokemon(i).getNome(), team2.getPokemon(i).getNome()))
-                    sum += 1;
+                if (team2.getPokemon(i)==null || Objects.equals(team1.getPokemon(i).getNome(), team2.getPokemon(i).getNome()) || team1.getPokemon(i).getTotale()>= 550)
+                    sum += 2;
                 //se i pokemon hanno lo stesso tipo
                 if (team2.getPokemon(i)==null || Objects.equals(team1.getPokemon(i).getTipo1(), team2.getPokemon(i).getTipo1()) ||
                         Objects.equals(team1.getPokemon(i).getTipo1(), team2.getPokemon(i).getTipo2()))
