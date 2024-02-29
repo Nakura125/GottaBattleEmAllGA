@@ -123,15 +123,15 @@ public class App
                     System.out.print(" Mossa1: " + team1.getPokemon(i).getMosse().get(0).getNome());
                     System.out.print(" MossaTipo:" + team1.getPokemon(i).getMosse().get(0).getTipo());
                 }
-                if (team2.getPokemon(i).getMosse().get(1) != null) {
+                if (team1.getPokemon(i).getMosse().get(1) != null) {
                     System.out.print(" Mossa2: " + team1.getPokemon(i).getMosse().get(1).getNome());
                     System.out.print(" MossaTipo: " + team1.getPokemon(i).getMosse().get(1).getTipo());
                 }
-                if (team2.getPokemon(i).getMosse().get(2) != null) {
+                if (team1.getPokemon(i).getMosse().get(2) != null) {
                     System.out.print(" Mossa3: " + team1.getPokemon(i).getMosse().get(2).getNome());
                     System.out.print(" MossaTipo: " + team1.getPokemon(i).getMosse().get(2).getTipo());
                 }
-                if (team2.getPokemon(i).getMosse().get(3) != null) {
+                if (team1.getPokemon(i).getMosse().get(3) != null) {
                     System.out.print(" Mossa4: " + team1.getPokemon(i).getMosse().get(3).getNome());
                     System.out.print(" MossaTipo: " + team1.getPokemon(i).getMosse().get(3).getTipo());
                 }
