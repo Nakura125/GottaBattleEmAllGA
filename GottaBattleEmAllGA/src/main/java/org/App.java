@@ -37,9 +37,15 @@ public class App
         Team team1 = new Team();
         Team team2 = new Team();
         while (true) {
-
+            int choice=7;
             printMenu(menuItems,team1,team2);
-            int choice = new Scanner(System.in).nextInt();
+            try {
+                choice= new Scanner(System.in).nextInt();
+            }
+            catch (InputMismatchException e){
+                System.out.println("Scelta non valida");
+                continue;
+            }
             switch (choice) {
                 case 1:
                     inserisciTeam(team1);
