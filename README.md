@@ -4,7 +4,7 @@
 ## Prerequisiti
 - JDK versione 17
 - Apache Maven
-- Un ambiente di sviluppo (IDE) 
+- Un ambiente di sviluppo per Java (IDE) 
 
 ## Installazione
 - Entra nella directory GottaBattleEmAllGA 
@@ -18,7 +18,7 @@ cd GottaBattleEmAllGA
 mvn package
 ```
 
-- utilizzare il proprio IDE per il run
+- Utilizzare il proprio IDE per il run
 
 ## Utilizzo
 Dopo aver fatto il run dell'App.java verrà presentato un mini applicazione 
