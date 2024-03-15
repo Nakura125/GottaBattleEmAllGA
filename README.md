@@ -1,3 +1,13 @@
+                        ⠉⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+                        ⠀⠀⠀⠈⠛⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠁
+                        ⣧⡀⠀⠀⠀⠀⠙⠿⠿⠿⠻⠿⠿⠟⠿⠛⠉⠀⠀⠀⠀⠀
+                        ⣿⣷⣄⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴
+                        ⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣴⣿⣿
+                        ⣿⣿⡟⠀⠀⢰⣹⡆⠀⠀⠀⠀⠀⠀⣭⣷⠀⠀⠀⠸⣿⣿
+                        ⣿⣿⠃⠀⠀⠈⠉⠀⠀⠤⠄⠀⠀⠀⠉⠁⠀⠀⠀⠀⢿⣿
+                        ⣿⣿⢾⣿⣷⠀⠀⠀⠀⡠⠤⢄⠀⠀⠀⠠⣿⣿⣷⠀⢸⣿
+                        ⣿⣿⡀⠉⠀⠀⠀⠀⠀⢄⠀⢀⠀⠀⠀⠀⠉⠉⠁⠀⠀⣿
+                        ⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dcebfd&size=35&center=true&vCenter=true&width=1000&lines=GottaBattleEmAllGA)](https://git.io/typing-svg)
 ---
 I Pokémon rappresentano un vasto universo affascinante, dove l’impiego
@@ -19,6 +29,10 @@ uniche del dominio del problema.
 - Apache Maven
 - Un ambiente di sviluppo per Java (IDE) 
 
+## Struttura della Repository
+- Deliverables: contiene le documentazioni del progetto
+- GottaBattleEmAllGA contiene il progetto Java con maven
+- Semilavorati contiene i prodotti intermedi che hanno subito una fase di lavorazione, ma che non sono ancora pronti per essere considerati prodotti finiti.
 ## Installazione
 - Entra nella directory GottaBattleEmAllGA 
 
