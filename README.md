@@ -25,16 +25,16 @@ Pokémon, tenendo conto delle specifiche esigenze e delle caratteristiche
 uniche del dominio del problema.
 
 ## Prerequisiti
-- JDK versione 17
-- Apache Maven
-- Un ambiente di sviluppo per Java (IDE) 
+- JDK versione 17;
+- Apache Maven;
+- Un ambiente di sviluppo per Java (IDE). 
 
 ## Struttura della Repository
-- Deliverables: contiene le documentazioni del progetto
-- GottaBattleEmAllGA contiene il progetto Java con maven
+- Deliverables: contiene le documentazioni del progetto;
+- GottaBattleEmAllGA contiene il progetto Java con maven;
 - Semilavorati contiene i prodotti intermedi che hanno subito una fase di lavorazione, ma che non sono ancora pronti per essere considerati prodotti finiti.
 ## Installazione
-- Entra nella directory GottaBattleEmAllGA 
+- Entra nella directory GottaBattleEmAllGA. 
 
 ```
 cd GottaBattleEmAllGA
@@ -45,10 +45,10 @@ cd GottaBattleEmAllGA
 mvn package
 ```
 
-- Utilizzare il proprio IDE per il run
+- Utilizzare il proprio IDE per il run.
 
 ## Utilizzo
-Dopo aver fatto il run dell'App.java verrà presentato un mini applicazione 
+Dopo aver fatto il run dell'App.java verrà presentato un mini applicazione .
 
 - All'avvio, mostra un menu con sette opzioni.
 - L'utente può selezionare un'opzione digitando il numero corrispondente e premendo Invio.
