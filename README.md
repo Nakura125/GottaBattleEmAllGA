@@ -1,5 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dcebfd&size=35&center=true&vCenter=true&width=1000&lines=GottaBattleEmAllGA)](https://git.io/typing-svg)
 ---
+I Pokémon rappresentano un vasto universo affascinante, dove l’impiego
+di strumenti di intelligenza artificiale apre nuove prospettive nell’analisi
+delle interazioni tra queste creature.
+Le battaglie Pokémon sono uno degli aspetti centrali del gioco Pokémon
+e comprendono diversi elementi chiave che influenzano il loro esito.
+Il problema che ci proponiamo di affrontare riguarda la determinazione
+del vincitore in uno scontro tra due squadre Pokémon. Questo compito
+presenta diverse sfide, tra cui la vastità dello spazio di ricerca, la complessità delle interazioni tra i Pokémon e le diverse strategie adottate
+dagli allenatori.
+Il nostro obiettivo è identificare l’approccio più adatto per affrontare il
+problema della determinazione del vincitore in uno scontro tra squadre
+Pokémon, tenendo conto delle specifiche esigenze e delle caratteristiche
+uniche del dominio del problema.
 
 ## Prerequisiti
 - JDK versione 17
