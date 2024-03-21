@@ -27,7 +27,6 @@ uniche del dominio del problema.
 ## Prerequisiti
 - JDK versione 17;
 - Apache Maven;
-- Un ambiente di sviluppo per Java (IDE). 
 
 ## Struttura della Repository
 - Deliverables: contiene le documentazioni del progetto;
@@ -42,10 +41,13 @@ cd GottaBattleEmAllGA
 
 - Compila il progetto con Maven:
 ```
-mvn package
+mvn clean install
 ```
 
-- Utilizzare il proprio IDE per il run.
+- Utilizzare il comando sottoriportato per run futuri
+```
+mvn package
+```
 
 ## Utilizzo
 Dopo aver fatto il run dell'App.java verrà presentato un mini applicazione:
