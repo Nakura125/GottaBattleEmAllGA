@@ -35,7 +35,7 @@ public class TestRun {
         nsgaII_Builder.printResults(population, pokemons);*/
 
         // Creare un'istanza di SPEA2_Builder e ottenere l'algoritmo
-        SPEA2_Builder spea2_Builder = new SPEA2_Builder();
+        NSGAII_Builder spea2_Builder = new NSGAII_Builder();
         Algorithm<List<IntegerSolution>> algorithmSPEA2 = spea2_Builder.buildAlgorithm(pokemonProblem, pokemons);
 
         // Eseguire l'algoritmo e stampare i risultati
