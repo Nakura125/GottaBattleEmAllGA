@@ -29,9 +29,9 @@ uniche del dominio del problema.
 - Apache Maven;
 
 ## Struttura della Repository
-- Deliverables: contiene le documentazioni del progetto;
-- GottaBattleEmAllGA: contiene il progetto Java con maven;
-- Semilavorati: contiene i prodotti intermedi che hanno subito una fase di lavorazione, ma che non sono ancora pronti per essere considerati prodotti finiti.
+- ```Deliverables/```: contiene le documentazioni del progetto;
+- ```GottaBattleEmAllGA/```: contiene il progetto Java con maven;
+- ```Semilavorati/```: contiene i prodotti intermedi che hanno subito una fase di lavorazione, ma che non sono ancora pronti per essere considerati prodotti finiti.
 ## Installazione
 - Entra nella directory GottaBattleEmAllGA:
 
